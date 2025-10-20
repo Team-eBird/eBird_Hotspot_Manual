@@ -1,0 +1,129 @@
+::: {style="text-align: center;"}
+# **Part I: How to Review and Edit Hotspots** {style="text-align: center;"}
+:::
+
+This section describes how to sign in to the Hotspot Review Tools, view hotspot suggestions in your area, open and review a hotspot suggestion, and then accept (or reject) a hotspot. Chrome, Safari, and Mozilla Firefox browsers are all fully supported; other browsers (e.g., Microsoft Internet Explorer) may not work as well. 
+
+1.  Log in to the eBird Hotspot Review Tools (<https://ebird.org/admin/hotspots.htm>) using your standard eBird credentials. If you are logged in to a different account, you will not be able to edit hotspots. We recommend bookmarking this page.
+
+2.  Make sure that you are in the Hotspots tab at the top left of the screen (see below).
+
+![](images/Screenshot%202025-10-20%20120829.png){fig-align="center"}
+
+### **View and Sort Pending Hotspot Suggestions**
+
+The list of hotspots waiting for evaluation in your review region is visible on the default page of the Hotspot Review Tools: <https://ebird.org/admin/hotspots.htm>. You can sort this page by any of the columns; just click the header (e.g., Name, Country), and you’ll be all set. You can also search the list of pending hotspots by using Command+F on a Mac, or Ctrl+F on a PC. 
+
+### **Open and Review Hotspot Suggestions**
+
+![](images/Screenshot%202025-10-20%20121012.png){fig-align="center"}
+
+It is important to know that **clicking “Review” immediately accepts a given hotspot**, and then allows editing (changing name, location, or merging) to improve it as needed. If it is [not an appropriate hotspot](https://docs.google.com/document/d/1InZoVKb0o7A7mj2Fbt6ye3Fm1DCWVL0nbSP4lGPqSNU/edit?tab=t.0#heading=h.yvlqpfkvtzss), there are just two clicks required: “Review” and then “Revert to personal location” and then the hotspot request is removed and the hotspot will not be created. This tentative acceptance makes the process efficient, but it is important to understand. 
+
+**Note:** For more details and explanations on editing hotspots (including deleting a hotspot and reverting a hotspot to a personal location) refer to the “[Editing Existing Hotspots](https://docs.google.com/document/d/1InZoVKb0o7A7mj2Fbt6ye3Fm1DCWVL0nbSP4lGPqSNU/edit?tab=t.0#heading=h.8hzvyj49pkjs)” section.
+
+### **To Accept or Not Accept**
+
+Many hotspots cannot be immediately accepted, or accepted at all. Here are some common situations.
+
+-   If a user recommends a hotspot that clearly does not meet the criteria for a shared hotspot (such as "My Backyard" or just the user’s name such as "Steve Jones"), go ahead and resolve the recommendation by clicking “Review” and then “Revert to Personal Location.”
+
+-   Be conscious of duplicate suggestions. Sometimes, a user will recommend a hotspot similar to one that already exists. In that case, don’t accept the Hotspot. Consider merging the suggested hotspot. If the suggestion is an improvement over the existing hotspot, merge the suggestion, then move or rename the existing hotspot.
+
+-   Occasionally, a hotspot will be recommended that has no data associated with it. In these cases the hotspot editing screen will have a **delete** option next to the hotspot name. This only appears for locations with no data associated with them (i.e., you cannot delete a location that has associated data). In these cases, feel free to delete the location if it is not a worthy hotspot. Some hotspots might appear to have no data, but they won’t have the deletion option. This is most likely because they have hidden checklists or only have sensitive, rare and/or unaccepted species, but they still have data, so deletion isn’t an option.
+
+-   If you just can't figure out what the user's intent was, send an email to find out. When in doubt, revert to a personal location. This is always the safest option.
+
+\
+Hotspot organization and hierarchy can be managed in additional ways, so decisions to accept new hotspots should focus on their potential benefit to data entry and aggregation. Read the sections on [What is a Hotspot?](https://docs.google.com/document/d/1InZoVKb0o7A7mj2Fbt6ye3Fm1DCWVL0nbSP4lGPqSNU/edit?tab=t.0#heading=h.gjdgxs) and [Hotspot Naming](https://docs.google.com/document/d/1InZoVKb0o7A7mj2Fbt6ye3Fm1DCWVL0nbSP4lGPqSNU/edit?tab=t.0#heading=h.3rdcrjn) for guidance on special circumstances such as “sub-hotspots” or “general area” hotspots.
+
+### **New Hotspot Evaluation**
+
+1.  **Check for duplicates**—Select the **Merge** option. This does not merge the hotspot yet, but loads other hotspots in the area so that you can check if the hotspot you just accepted already exists nearby with the same or a similar name. If it does already exist, merge the new location with the existing hotspot. If it does not already exist, proceed with the next steps. Caution: Make sure the new hotspot is really a duplicate before merging. Merging cannot be reversed! **\*\*NOTE:** When merging with an existing hotspot if you do not select Delete after merging, the new hotspot will persist with no data.
+
+2.  **Consider if the hotspot is acceptable**—see “[To Accept or Not Accept](https://docs.google.com/document/d/1InZoVKb0o7A7mj2Fbt6ye3Fm1DCWVL0nbSP4lGPqSNU/edit?tab=t.0#heading=h.yvlqpfkvtzss)”
+
+3.  **Check that the name matches eBird naming protocols** (see [Part II](https://docs.google.com/document/d/1InZoVKb0o7A7mj2Fbt6ye3Fm1DCWVL0nbSP4lGPqSNU/edit?tab=t.0#heading=h.4d34og8)). If necessary, click **Rename** andrename the hotspot.
+
+4.  **Confirm location—**If you need to move the new hotspot, select the **Move** option, click the new location on the map, and then click **Move** again. \*\***NOTE:** This step should be last, because it automatically closes the hotspot editing window.
+
+**Finito! You’re done, and another hotspot has joined the system!!!** Return to the Hotspot Review Tools, and the suggestion no longer appears in the unreviewed hotspots page. 
+
+**\
+\*\*NOTE**: If you change your mind on acceptance or need to revisit the hotspot, see the [Viewing Reviewed Hotspots](https://docs.google.com/document/d/1InZoVKb0o7A7mj2Fbt6ye3Fm1DCWVL0nbSP4lGPqSNU/edit?tab=t.0#heading=h.3znysh7) section below.
+
+**Allow time for the database to update**. The hotspot page will be viewable with the correct link immediately, and checklists will correctly link to it, but some of the exploration tools in the Hotspot Explorer (including the map) update once every \~24 hours. 
+
+If someone suggests the same Hotspot more than once, you will need to wait until the next day to review the others if you want to merge them. Likewise, if two users suggest the same location, review and accept one, then wait until the next day to review and merge the other.\
+\
+Pro Tip**:** If you accidentally accept two duplicate hotspots on the same day, add “(Merge)” to the name of one so you can easily find and correct it later. 
+
+Submit Data and Hotspot editing maps are nearly live queries (every two hours), so the hotspot lists here will be almost current.
+
+### **Viewing Reviewed Hotspots**
+
+At the top right of the Hotspot Review Tools page, there is a “Show Reviewed” button. Click to see list of all the hotspots that have already been reviewed in your review region except for merged . This page shows who accepted or didn’t accept the hotspot and when.
+
+![](images/Screenshot%202025-10-20%20122617.png){fig-align="center"}
+
+All columns on this page are sortable if you click on the header—with the right two being most important. The “Reviewed On” column lets you view by time of review, and “View in eBird” takes you to the Edit hotspot screen where you can revisit hotspot decisions that have already been made.
+
+**Re-review** will re-Accept a hotspot that was previously marked Not Accepted.  giving you the option to review (rename, merge, or move) it again. 
+
+### **Editing Existing Hotspots**
+
+Existing hotspots can be renamed, moved, merged, deleted, and reverted to personal locations using the Hotspot Explorer in eBird. 
+
+1.  Sign in to eBird.
+
+2.  Navigate to the hotspot you wish to edit. Easy ways to do that include:
+
+    1.  Click the hotspot name from an eBird checklist.
+
+    2.  Find it on the eBird Hotspot map (https://ebird.org/hotspots). 
+
+    3.  Select it from the list of hotspots on a region page (top 100 hotspots only).
+
+3.  Click the **Edit** link to open the Edit Location page.
+
+    1.  When you navigate to a hotspot page from a checklist or regional hotspot list, the Edit button is in the upper right side near the map button. 
+
+    2.  On the hotspot map, the Edit link appears next to the hotspot name in the pop-up window when the pin is selected.
+
+![](images/Screenshot%202025-10-20%20122809.png){fig-align="center"}
+
+![](images/Screenshot%202025-10-20%20122834.png){fig-align="center"}
+
+**Rename**—To change the hotspot name, select the **Rename** option, type the new name, and click **Rename**. (See [Part II: Standards and Naming Conventions for eBird Hotspots](https://docs.google.com/document/d/1InZoVKb0o7A7mj2Fbt6ye3Fm1DCWVL0nbSP4lGPqSNU/edit?tab=t.0#heading=h.4d34og8))
+
+**Move—**To move the hotspot, select the **Move** option, click on the map to plot the new location, and then click **Move** again. (See [Plotting Hotspots](https://docs.google.com/document/d/1InZoVKb0o7A7mj2Fbt6ye3Fm1DCWVL0nbSP4lGPqSNU/edit?tab=t.0#heading=h.3dy6vkm)) **NOTE:** If you know the coordinates of the new location, enter them in the **Zoom to:** box, press the **\<Enter\>** key, and then click **Move**.
+
+**Merge—**See [Merging Hotspots](https://docs.google.com/document/d/1InZoVKb0o7A7mj2Fbt6ye3Fm1DCWVL0nbSP4lGPqSNU/edit?tab=t.0#heading=h.1t3h5sf). To merge two hotspots, select the **Merge** option. The map will display the surrounding hotspots as red pins, and the hotspot you’re working with will be shown as an /orange pin with a plus sign. Click the hotspot that you want to merge your current hotspot \*INTO\*, select the **Delete after merging** check box, and then click **Merge**. Be careful! Merging cannot be undone. **NOTE:** If you do not select Delete after merging, the old hotspot will persist with no data.
+
+**Revert to Personal Location—**Reverts a hotspot to a personal location. If the personal location that is created is shared among several observers, the one with the oldest checklist (i.e., the first checklist ever submitted for the site, not the oldest observation date) will become the "owner" of the location and is  responsible for any moves, renaming, or merging of this location, and also is the only one able to recommend it again as a hotspot. **NOTE:** You can still find these in the “Reviewed” tab if you want to reverse your decision. 
+
+**Delete—**You do not have the option to delete a hotspot unless it has no data associated with it. In this case, a blue **delete** option appears next to the name. There is little point in maintaining hotspots with no data, unless you are confident they will be useful in the future. Please delete these if you deem it appropriate.
+
+### **Plotting Hotspots**
+
+Exactly where to plot a hotspot is something of a judgment call. These general rules should be followed:
+
+1.  Plot the hotspot in a place that is a good representation of where most birding takes place. If a 400 hectare park has a well-used hiking trail in the western third and a patch of forest with no trails that takes up the eastern two-thirds, plot the hotspot closer to the heavily used western end, not in the middle or eastern portion.
+
+2.  Plot the hotspot in a place that navigation apps (e.g., Google Maps, Waze) will accurately direct a birder to the location. For example, placing a hotspot in the middle of the woods that would direct Google Maps to an access point that does not exist, instead of the primary parking area, is not ideal.
+
+3.  For general areas (AKA “[meta-hotspots](https://docs.google.com/document/d/1InZoVKb0o7A7mj2Fbt6ye3Fm1DCWVL0nbSP4lGPqSNU/edit?tab=t.0#heading=h.26in1rg)”),  plot them in a central location relative to their constituent sub-hotspots, but  make sure they are sufficiently separated from other hotspots to stand out from the rest. This helps identify the meta-hotspots on a map. For example, if there are a cluster of hotspots around a wildlife drive in a refuge, place the meta-hotspot towards the refuge’s center, sufficiently away from the other hotspots so that users can easily find it and select it.
+
+### **Merging Hotspots**
+
+When you merge two hotspots, the data from two locations is combined into a single hotspot. For example, if hotspot A is plotted correctly, but hotspot B has a similar name and is plotted nearby (and is a clear duplicate), you should merge hotspot B \*into\* hotspot A. In almost all cases, you should also select the "Delete after merging” check box so that the hotspot you merged the data from (in this case hotspot B) will be deleted. 
+
+**Note:** Please be VERY careful when merging and deleting hotspots as this action cannot be reversed. 
+
+ALWAYS KEEP MORE REFINED LOCATIONS SEPARATE FROM THE MAIN LOCATION \[e.g., DO NOT MERGE “Rocky Mountain NP--Endovalley Campground” into the “Rocky Mountain NP (Larimer Co)” hotspot\].
+
+::: {style="text-align: center;"}
+<br><br><br><br><br>
+
+eBird Hotspot Handbook               \|              October 2025              \|              Page 2 of 22
+:::

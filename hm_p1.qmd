@@ -1,0 +1,39 @@
+Thank you for volunteering to help review and manage eBird hotspots. This document describes the purpose of hotspots, how to review and approve requests for new hotspots, and how to rename, relocate, and merge existing hotspots.
+
+Hotspots are shared locations that allow birders to submit data to common locations. The idea is to aggregate data from these hotspots and provide output that is useful to birders wishing to learn more about birds and their distribution. With pooled data from multiple observers, hotspots become a valuable tool for finding out when and where to see birds in your area and elsewhere. All eBird hotspots appear in the eBird Hotspot Explorer (<http://ebird.org/ebird/hotspots>).
+
+It is important to remember that **data collected at FINE resolutions are much more valuable than data aggregated over very large areas**. For this reason, we try to include "sublocations" (see [Hotspot Definitions and Hierarchy](https://docs.google.com/document/d/1InZoVKb0o7A7mj2Fbt6ye3Fm1DCWVL0nbSP4lGPqSNU/edit?tab=t.0#heading=h.17dp8vu)) in order to incentivize birders towards birding across shorter distances and using hotspots that are closely tied to their location on the ground.  So, while we do have a hotspot for Rocky Mountain NP (Larimer Co), we also have many hotspots for locations within Rocky Mountain NP, for example [Rocky Mountain NP--Endovalley Picnic Area](https://ebird.org/hotspot/L6136876).
+
+## **What is an eBird Hotspot?**
+
+eBird hotspots are primarily useful as a way of aggregating data from multiple observers under a single location. This simplifies data entry by providing curated, properly-sited, and sensibly-named locations that represent a given birding site and aggregates similar birding effort under a single location. Because Hotspots can significantly impact the data entry process—influencing where birders choose to go both within a site and within a region—they should be created, named, and positioned to clearly and intuitively reflect the area they cover. Most hotspots should be publicly accessible, but see [Restricted Access locations](https://docs.google.com/document/d/1InZoVKb0o7A7mj2Fbt6ye3Fm1DCWVL0nbSP4lGPqSNU/edit#heading=h.4i7ojhp) section below. 
+
+During data entry in eBird mobile, users that start a checklist will get a list of recommended hotspots nearby. Submitted data can then easily be explored in eBird’s hotspot explorer, which includes tools like bar charts, illustrated checklists, photo galleries, recent visits, high counts summaries, and of course an official list of species for the site. Hotspot summary pages can be really useful for landowners or land managers as a quick way to understand birds on the property, but see below section on [Hotspot Definitions and Hierarchy](https://docs.google.com/document/d/1InZoVKb0o7A7mj2Fbt6ye3Fm1DCWVL0nbSP4lGPqSNU/edit#heading=h.17dp8vu) and note that hotspots should not be merged just to improve data summaries (data can be combined for data summaries in other ways!). 
+
+Please think of eBird hotspots as **curated sites visited repeatedly by the eBird community**.
+
+eBird hotspots are **not** necessarily superlative birding locations; they can be designated for high species diversity, presence of one or several specialty species, a regularly birded location that is publicly accessible, or almost anywhere that it is desirable to aggregate data from multiple eBirders in a single point. Sometimes hotspots represent frequently visited tourist sites where birders are likely to keep an eBird checklist, especially if visiting from abroad and experiencing new life birds. In certain cases, eBird hotspots are established for scientific surveys. Some examples of hotspots that may not be obvious include:
+
+-   [Piazza San Pietro](https://ebird.org/hotspot/L1107515) \[urban, paved plaza, and popular tourist site\]
+
+-   [Sap Anan--PTT gas station on Hwy. 4 (southbound)](https://ebird.org/hotspot/L6368496) \[gas station and rest area along route popular with birders; not particularly good for birds but a spot many birders will stretch their legs and take a break\]
+
+-   [Detroit Metro Airport (restricted access)](https://ebird.org/hotspot/L299938) \[this and many airports are appropriate hotspots, even when viewing from the terminals only; many traveling birders will enter lists and airports do provide grassland habitat that may attract specialty species\]
+
+## **What is not an eBird hotspot?**
+
+Examples of sites that should not be hotspots include:
+
+-   Personal yards and other private property
+
+-   Personal walking routes
+
+-   Property that is visited only by one person or by small numbers of people with permission only
+
+-   Random interesting observations unlikely to be repeated (e.g., along a major road or at an unremarkable area of urban or suburban habitat)
+
+::: {style="text-align: center;"}
+<br><br>
+
+eBird Hotspot Handbook               \|              October 2025              \|              Page 2 of 22
+:::
