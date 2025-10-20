@@ -1,0 +1,55 @@
+# **Part II: Standards and Naming Conventions for eBird Hotspots**
+
+When approving new hotspots and reviewing current hotspots, try to use names that conform to the naming conventions described below. Consistent naming helps users find the correct hotspot when using the mapping tool to submit a checklist, as well as when selecting hotspots from drop-down lists. Searching for output based on hotspot names is also easier when the naming conforms to consistent standards.
+
+It's also helpful to keep in mind how eBird uses and displays hotspot names. For example, most eBird output (e.g., Hotspot Explorer, Region Explorer) includes the hotspots in geographical context, and when the name of the site is listed, it includes the county, state, and country. Therefore, it is not necessary to include the name of the county, state, province, or country in the hotspot name unless it is needed for clarity. 
+
+Hotspot names should generally use the formal, official name of the park, forest, wildlife area, or some other geographic identifier—if there is one. It is generally not good practice to name hotspots for birds that might be seen there or for habitat that may not persist over time, although there may be sites for specific species that do merit a hotspot named for the species of bird. A notable exception is for “stakeout” rarities, which have a special section ([Stakeout Hotspots](https://docs.google.com/document/d/1InZoVKb0o7A7mj2Fbt6ye3Fm1DCWVL0nbSP4lGPqSNU/edit?tab=t.0#heading=h.1ci93xb)) below.
+
+### **Capitalization**
+
+When in doubt, follow the grammar rules of the local language. In English, eBird hotspots can be considered proper names and should generally be capitalized, including all adjectives, common nouns, and the definite article. Most formal geographic names have two parts, denoting the specific and the generic (e.g., [Amherst Marsh](https://ebird.org/hotspot/L1247416)). The generic part (“Marsh”, in this example) tells the kind of place, feature, or area to which the name refers, and the specific part (“Amherst”) uniquely identifies the particular place, feature, or area.  Exceptions include articles and prepositions (e.g., Alto de la Cruz, Lake of the Ozarks, Fond du Lac) and phrases that give relative geographic reference  (e.g., [Enders Reservoir--below dam](https://ebird.org/hotspot/L1476616), [Dartmoor NP--east of Tavistock](https://ebird.org/hotspot/L1148230).)
+
+### **Language**
+
+eBird is a global project and we recommend that site names be listed in the local language (e.g., Spanish for Central America, Portuguese for Portugal, French for France and Quebec, German for Germany, etc.). These names also should generally match the names used on maps and in local signage. 
+
+However, when the local language uses an alphabet that is not easily read by English-speakers (or other Germanic/Romance languages), please list the site name in the local language first, followed by an English translation in parentheses. See examples below:
+
+-   **Taiwan:** 宜蘭--頂寮生態公園 (Yilan--Dingliao Ecological Park) <http://ebird.org/ebird/hotspot/L3291680>
+
+-   **Japan:** 大田区--東京港野鳥公園 (Ota Ward--Tokyo Port Wild Bird Park) <http://ebird.org/ebird/hotspot/L927941>
+
+**Note:** Please use accents in non-English words in accordance with correct spelling in the original language (e.g., Río Guadalupe, Parque San José, Cañon San Pedro). Please DO NOT use accents over capital letters. 
+
+### **Hotspot Definitions and Hierarchy**
+
+Most hotspots are discrete, contiguous sites that accurately represent a geographical region—often defined by land ownership or conservation status. Typical hotspots can also be thought of as representing birder behavior within those properties, including a walking or driving path (i.e., track) and typical strategies for looking for birds. One could theoretically draw a boundary to represent any hotspot (this functionality might be added to eBird in the future to more formally define these areas).
+
+Most hotspots should be coverable in a discrete birding event, most typically either 1) stationary count at a certain vantage point (e.g., [Shaumta Raptor Watchpoint](https://ebird.org/hotspot/L6314444)); 2) a traveling count described by a long (e.g., [Reserva Ecológica Costanera Sur](https://ebird.org/hotspot/L472208)) or short (e.g., [Brooklyn Bridge Park](https://ebird.org/hotspot/L1902982)) linear, out-and-back, looped, or meandering walking route; 3) or a traveling count involving short legs by car, bike, or foot that is broken up by stops at key locations or vantage points, such as along a wildlife drive (e.g., [Edwin B. Forsythe NWR--Wildlife Drive](https://ebird.org/hotspot/L92448) or [Carretero Satipo](https://ebird.org/hotspot/L2305198)).
+
+Many hotspots represent a single, discrete, stand-alone site. However, in some cases there are many hotspots in a small area, and within those areas there may be discrete hierarchy of hotspots that may include:
+
+-   **“List-building” Areas**: Representing very large areas, contiguous by land ownership or geography. We refer to these as “list-building” because their use is generally not recommended except for historical records and getting personal life lists up to date (or some current data if birding strategies do not adhere to existing finer-scale hotspots). These should be identified with clear text that recommends using a more specific hotspot.
+
+    -    **Example:** .
+
+-   **Hotspots**: Typical eBird hotspots, representing discrete properties, often birded by multiple eBirders using similar birding strategies. 
+
+-   **Parent Hotspots:** The general, overarching hotspot for a discrete area that also contains multiple individual, precisely-located sub-hotspots within its boundary. Parent hotspots may be represented with “general area” in the name, although this is usually not needed or recommended. Almost all “list-building” areas will be parent hotspots, but only very large and spatially imprecise parent hotspots are considered “list-building” areas. Do not make a large city or town a parent hotspot (but see [Towns](https://docs.google.com/document/d/1InZoVKb0o7A7mj2Fbt6ye3Fm1DCWVL0nbSP4lGPqSNU/edit?tab=t.0#heading=h.2jxsxqh) below). 
+
+    -   **Example:** , a clear and well-known hotspot, typically covered by a walking route that goes past meadows, impoundments, a stretch of beach, marsh, and shrublands, including a couple observation platforms.
+
+-   **Sub-hotspots**: Hotspots that represent a subset or specific site within a larger parent hotspot. These are most often individual trails, individual lakes or ponds, specific small patches of habitat with specialty birds, or—especially in the tropics—the immediate grounds of a lodge or resort within a larger reserve (e.g., [Maasai Mara NR--Governor’s Camp](https://ebird.org/hotspot/L921195)).
+
+    -   **Example:**  
+
+As a general rule, sub-hotspots should be part of the same management unit, such as a state park, a national wildlife refuge, or a city park. It is also common to have sub-hotspots along particularly good sections of birding roads, rivers, or trails (see [Linear Hotspots](https://docs.google.com/document/d/1InZoVKb0o7A7mj2Fbt6ye3Fm1DCWVL0nbSP4lGPqSNU/edit#heading=h.1ksv4uv) below). 
+
+However, entire “Birding Trails”, covering a large section of a region, should never have sub-hotspots. In the great majority of birding trails, each site or stop on a birding trail should have its own location, either as a standalone hotspot or a sub-hotspot within a local group.
+
+::: {style="text-align: center;"}
+<br><br><br><br><br>
+
+eBird Hotspot Handbook              \|             October 2025             \|             Page 4 of 22
+:::

@@ -1,6 +1,4 @@
-::: {style="text-align: center;"}
-# **Part I: How to Review and Edit Hotspots** {style="text-align: center;"}
-:::
+# **Part I: How to Review and Edit Hotspots**
 
 This section describes how to sign in to the Hotspot Review Tools, view hotspot suggestions in your area, open and review a hotspot suggestion, and then accept (or reject) a hotspot. Chrome, Safari, and Mozilla Firefox browsers are all fully supported; other browsers (e.g., Microsoft Internet Explorer) may not work as well. 
 
@@ -18,11 +16,11 @@ The list of hotspots waiting for evaluation in your review region is visible on 
 
 ![](images/Screenshot%202025-10-20%20121012.png){fig-align="center"}
 
-It is important to know that **clicking “Review” immediately accepts a given hotspot**, and then allows editing (changing name, location, or merging) to improve it as needed. If it is [not an appropriate hotspot](https://docs.google.com/document/d/1InZoVKb0o7A7mj2Fbt6ye3Fm1DCWVL0nbSP4lGPqSNU/edit?tab=t.0#heading=h.yvlqpfkvtzss), there are just two clicks required: “Review” and then “Revert to personal location” and then the hotspot request is removed and the hotspot will not be created. This tentative acceptance makes the process efficient, but it is important to understand. 
+It is important to know that **clicking “Review” immediately accepts a given hotspot**, and then allows editing (changing name, location, or merging) to improve it as needed. If it is [not an appropriate hotspot](#to-accept-or-not-accept) there are just two clicks required: “Review” and then “Revert to personal location” and then the hotspot request is removed and the hotspot will not be created. This tentative acceptance makes the process efficient, but it is important to understand. 
 
-**Note:** For more details and explanations on editing hotspots (including deleting a hotspot and reverting a hotspot to a personal location) refer to the “[Editing Existing Hotspots](https://docs.google.com/document/d/1InZoVKb0o7A7mj2Fbt6ye3Fm1DCWVL0nbSP4lGPqSNU/edit?tab=t.0#heading=h.8hzvyj49pkjs)” section.
+**Note:** For more details and explanations on editing hotspots (including deleting a hotspot and reverting a hotspot to a personal location) refer to the [Editing Existing Hotspots](#editing-existing-hotspots) section.
 
-### **To Accept or Not Accept**
+### **To Accept or Not Accept** {#to-accept-or-not-accept}
 
 Many hotspots cannot be immediately accepted, or accepted at all. Here are some common situations.
 
@@ -35,22 +33,22 @@ Many hotspots cannot be immediately accepted, or accepted at all. Here are some 
 -   If you just can't figure out what the user's intent was, send an email to find out. When in doubt, revert to a personal location. This is always the safest option.
 
 \
-Hotspot organization and hierarchy can be managed in additional ways, so decisions to accept new hotspots should focus on their potential benefit to data entry and aggregation. Read the sections on [What is a Hotspot?](https://docs.google.com/document/d/1InZoVKb0o7A7mj2Fbt6ye3Fm1DCWVL0nbSP4lGPqSNU/edit?tab=t.0#heading=h.gjdgxs) and [Hotspot Naming](https://docs.google.com/document/d/1InZoVKb0o7A7mj2Fbt6ye3Fm1DCWVL0nbSP4lGPqSNU/edit?tab=t.0#heading=h.3rdcrjn) for guidance on special circumstances such as “sub-hotspots” or “general area” hotspots.
+Hotspot organization and hierarchy can be managed in additional ways, so decisions to accept new hotspots should focus on their potential benefit to data entry and aggregation. Read the sections on [What is a Hotspot?](hm_p1.qmd#what-is-an-ebird-hotspot) and [Hotspot Naming](https://docs.google.com/document/d/1InZoVKb0o7A7mj2Fbt6ye3Fm1DCWVL0nbSP4lGPqSNU/edit?tab=t.0#heading=h.3rdcrjn) for guidance on special circumstances such as “sub-hotspots” or “general area” hotspots.
 
 ### **New Hotspot Evaluation**
 
 1.  **Check for duplicates**—Select the **Merge** option. This does not merge the hotspot yet, but loads other hotspots in the area so that you can check if the hotspot you just accepted already exists nearby with the same or a similar name. If it does already exist, merge the new location with the existing hotspot. If it does not already exist, proceed with the next steps. Caution: Make sure the new hotspot is really a duplicate before merging. Merging cannot be reversed! **\*\*NOTE:** When merging with an existing hotspot if you do not select Delete after merging, the new hotspot will persist with no data.
 
-2.  **Consider if the hotspot is acceptable**—see “[To Accept or Not Accept](https://docs.google.com/document/d/1InZoVKb0o7A7mj2Fbt6ye3Fm1DCWVL0nbSP4lGPqSNU/edit?tab=t.0#heading=h.yvlqpfkvtzss)”
+2.  **Consider if the hotspot is acceptable**—see “[To Accept or Not Accept](#to-accept-or-not-accept)”
 
-3.  **Check that the name matches eBird naming protocols** (see [Part II](https://docs.google.com/document/d/1InZoVKb0o7A7mj2Fbt6ye3Fm1DCWVL0nbSP4lGPqSNU/edit?tab=t.0#heading=h.4d34og8)). If necessary, click **Rename** andrename the hotspot.
+3.  **Check that the name matches eBird naming protocols** (see [Part II](hm_p3.qmd#part-II:-standards-and-naming-conventions-for-ebird-hotpots)) If necessary, click **Rename** andrename the hotspot.
 
 4.  **Confirm location—**If you need to move the new hotspot, select the **Move** option, click the new location on the map, and then click **Move** again. \*\***NOTE:** This step should be last, because it automatically closes the hotspot editing window.
 
 **Finito! You’re done, and another hotspot has joined the system!!!** Return to the Hotspot Review Tools, and the suggestion no longer appears in the unreviewed hotspots page. 
 
 **\
-\*\*NOTE**: If you change your mind on acceptance or need to revisit the hotspot, see the [Viewing Reviewed Hotspots](https://docs.google.com/document/d/1InZoVKb0o7A7mj2Fbt6ye3Fm1DCWVL0nbSP4lGPqSNU/edit?tab=t.0#heading=h.3znysh7) section below.
+\*\*NOTE**: If you change your mind on acceptance or need to revisit the hotspot, see the [Viewing Reviewed Hotspots](#viewing-reviewed-hotspots) section below.
 
 **Allow time for the database to update**. The hotspot page will be viewable with the correct link immediately, and checklists will correctly link to it, but some of the exploration tools in the Hotspot Explorer (including the map) update once every \~24 hours. 
 
@@ -70,7 +68,7 @@ All columns on this page are sortable if you click on the header—with the righ
 
 **Re-review** will re-Accept a hotspot that was previously marked Not Accepted.  giving you the option to review (rename, merge, or move) it again. 
 
-### **Editing Existing Hotspots**
+### **Editing Existing Hotspots** {#editing-existing-hotspots}
 
 Existing hotspots can be renamed, moved, merged, deleted, and reverted to personal locations using the Hotspot Explorer in eBird. 
 
@@ -94,11 +92,11 @@ Existing hotspots can be renamed, moved, merged, deleted, and reverted to person
 
 ![](images/Screenshot%202025-10-20%20122834.png){fig-align="center"}
 
-**Rename**—To change the hotspot name, select the **Rename** option, type the new name, and click **Rename**. (See [Part II: Standards and Naming Conventions for eBird Hotspots](https://docs.google.com/document/d/1InZoVKb0o7A7mj2Fbt6ye3Fm1DCWVL0nbSP4lGPqSNU/edit?tab=t.0#heading=h.4d34og8))
+**Rename**—To change the hotspot name, select the **Rename** option, type the new name, and click **Rename**. (See [Part II](hm_p3.qmd#part-II:-standards-and-naming-conventions-for-ebird-hotpots))
 
-**Move—**To move the hotspot, select the **Move** option, click on the map to plot the new location, and then click **Move** again. (See [Plotting Hotspots](https://docs.google.com/document/d/1InZoVKb0o7A7mj2Fbt6ye3Fm1DCWVL0nbSP4lGPqSNU/edit?tab=t.0#heading=h.3dy6vkm)) **NOTE:** If you know the coordinates of the new location, enter them in the **Zoom to:** box, press the **\<Enter\>** key, and then click **Move**.
+**Move—**To move the hotspot, select the **Move** option, click on the map to plot the new location, and then click **Move** again. (See [Plotting Hotspots](#plotting-hotspots) **NOTE:** If you know the coordinates of the new location, enter them in the **Zoom to:** box, press the **\<Enter\>** key, and then click **Move**.
 
-**Merge—**See [Merging Hotspots](https://docs.google.com/document/d/1InZoVKb0o7A7mj2Fbt6ye3Fm1DCWVL0nbSP4lGPqSNU/edit?tab=t.0#heading=h.1t3h5sf). To merge two hotspots, select the **Merge** option. The map will display the surrounding hotspots as red pins, and the hotspot you’re working with will be shown as an /orange pin with a plus sign. Click the hotspot that you want to merge your current hotspot \*INTO\*, select the **Delete after merging** check box, and then click **Merge**. Be careful! Merging cannot be undone. **NOTE:** If you do not select Delete after merging, the old hotspot will persist with no data.
+**Merge—**See [Merging Hotspots](#merging-hotspots). To merge two hotspots, select the **Merge** option. The map will display the surrounding hotspots as red pins, and the hotspot you’re working with will be shown as an /orange pin with a plus sign. Click the hotspot that you want to merge your current hotspot \*INTO\*, select the **Delete after merging** check box, and then click **Merge**. Be careful! Merging cannot be undone. **NOTE:** If you do not select Delete after merging, the old hotspot will persist with no data.
 
 **Revert to Personal Location—**Reverts a hotspot to a personal location. If the personal location that is created is shared among several observers, the one with the oldest checklist (i.e., the first checklist ever submitted for the site, not the oldest observation date) will become the "owner" of the location and is  responsible for any moves, renaming, or merging of this location, and also is the only one able to recommend it again as a hotspot. **NOTE:** You can still find these in the “Reviewed” tab if you want to reverse your decision. 
 
@@ -125,5 +123,5 @@ ALWAYS KEEP MORE REFINED LOCATIONS SEPARATE FROM THE MAIN LOCATION \[e.g., DO NO
 ::: {style="text-align: center;"}
 <br><br><br><br><br>
 
-eBird Hotspot Handbook               \|              October 2025              \|              Page 2 of 22
+eBird Hotspot Handbook              \|             October 2025             \|             Page 3 of 22
 :::

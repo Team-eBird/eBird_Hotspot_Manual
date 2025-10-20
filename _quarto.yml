@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "eBird Hotspot Manual"
+  navbar: true
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - href: index.qmd
+        text: Home Page
+      - href: hm_p1.qmd
+        text: Introduction
+      - href: hm_p2.qmd
+        text: How to Review and Edit Hotspots
+      - href: hm_p3.qmd
+        text: Standards and Naming Conventions for eBird Hotspots
+format:
+  html:
+    theme: cosmo
+    toc: true
