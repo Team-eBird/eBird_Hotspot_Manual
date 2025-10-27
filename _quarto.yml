@@ -5,6 +5,9 @@ project:
 website:
   title: "eBird Hotspot Manual"
   navbar: true
+  page-footer: 
+    left:
+      - text: "eBird Hotspot Review Guidelines (v.1.0.0 | Oct 2025)"
   sidebar:
     style: "docked"
     search: true
@@ -19,5 +22,7 @@ website:
         text: Standards and Naming Conventions for eBird Hotspots
 format:
   html:
-    theme: cosmo
+    theme: sandstone
     toc: true
+    linkcolor: green
+    

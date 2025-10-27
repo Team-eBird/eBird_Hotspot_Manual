@@ -58,7 +58,7 @@ Pro Tip**:** If you accidentally accept two duplicate hotspots on the same day, 
 
 Submit Data and Hotspot editing maps are nearly live queries (every two hours), so the hotspot lists here will be almost current.
 
-### **Viewing Reviewed Hotspots**
+### **Viewing Reviewed Hotspots** {#viewing-reviewed-hotspots}
 
 At the top right of the Hotspot Review Tools page, there is a “Show Reviewed” button. Click to see list of all the hotspots that have already been reviewed in your review region except for merged . This page shows who accepted or didn’t accept the hotspot and when.
 
@@ -102,7 +102,7 @@ Existing hotspots can be renamed, moved, merged, deleted, and reverted to person
 
 **Delete—**You do not have the option to delete a hotspot unless it has no data associated with it. In this case, a blue **delete** option appears next to the name. There is little point in maintaining hotspots with no data, unless you are confident they will be useful in the future. Please delete these if you deem it appropriate.
 
-### **Plotting Hotspots**
+### **Plotting Hotspots** {#plotting-hotspots}
 
 Exactly where to plot a hotspot is something of a judgment call. These general rules should be followed:
 
@@ -112,16 +112,10 @@ Exactly where to plot a hotspot is something of a judgment call. These general r
 
 3.  For general areas (AKA “[meta-hotspots](https://docs.google.com/document/d/1InZoVKb0o7A7mj2Fbt6ye3Fm1DCWVL0nbSP4lGPqSNU/edit?tab=t.0#heading=h.26in1rg)”),  plot them in a central location relative to their constituent sub-hotspots, but  make sure they are sufficiently separated from other hotspots to stand out from the rest. This helps identify the meta-hotspots on a map. For example, if there are a cluster of hotspots around a wildlife drive in a refuge, place the meta-hotspot towards the refuge’s center, sufficiently away from the other hotspots so that users can easily find it and select it.
 
-### **Merging Hotspots**
+### **Merging Hotspots** {#merging-hotspots}
 
 When you merge two hotspots, the data from two locations is combined into a single hotspot. For example, if hotspot A is plotted correctly, but hotspot B has a similar name and is plotted nearby (and is a clear duplicate), you should merge hotspot B \*into\* hotspot A. In almost all cases, you should also select the "Delete after merging” check box so that the hotspot you merged the data from (in this case hotspot B) will be deleted. 
 
 **Note:** Please be VERY careful when merging and deleting hotspots as this action cannot be reversed. 
 
 ALWAYS KEEP MORE REFINED LOCATIONS SEPARATE FROM THE MAIN LOCATION \[e.g., DO NOT MERGE “Rocky Mountain NP--Endovalley Campground” into the “Rocky Mountain NP (Larimer Co)” hotspot\].
-
-::: {style="text-align: center;"}
-<br><br><br><br><br>
-
-eBird Hotspot Handbook              \|             October 2025             \|             Page 3 of 22
-:::

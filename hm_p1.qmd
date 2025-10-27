@@ -31,9 +31,3 @@ Examples of sites that should not be hotspots include:
 -   Property that is visited only by one person or by small numbers of people with permission only
 
 -   Random interesting observations unlikely to be repeated (e.g., along a major road or at an unremarkable area of urban or suburban habitat)
-
-::: {style="text-align: center;"}
-<br><br>
-
-eBird Hotspot Handbook              \|             October 2025             \|             Page 2 of 22
-:::
