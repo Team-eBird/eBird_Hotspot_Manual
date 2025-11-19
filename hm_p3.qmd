@@ -38,7 +38,7 @@ Many hotspots represent a single, discrete, stand-alone site. However, in some c
 ### **Hotspots**
 Typical eBird hotspots, representing discrete properties, often birded by multiple eBirders using similar birding strategies. 
 
-### **Parent Hotspots:** 
+### **Parent Hotspots** 
 The general, overarching hotspot for a discrete area that also contains multiple individual, precisely-located sub-hotspots within its boundary. Parent hotspots may be represented with “general area” in the name, although this is usually not needed or recommended. Almost all “list-building” areas will be parent hotspots, but only very large and spatially imprecise parent hotspots are considered “list-building” areas. Do not make a large city or town a parent hotspot (but see [Towns](https://docs.google.com/document/d/1InZoVKb0o7A7mj2Fbt6ye3Fm1DCWVL0nbSP4lGPqSNU/edit?tab=t.0#heading=h.2jxsxqh) below). 
 
 **Example:** a clear and well-known hotspot, typically covered by a walking route that goes past meadows, impoundments, a stretch of beach, marsh, and shrublands, including a couple observation platforms.
