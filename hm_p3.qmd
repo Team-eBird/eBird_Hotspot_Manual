@@ -30,12 +30,12 @@ Most hotspots should be coverable in a discrete birding event, most typically ei
 
 Many hotspots represent a single, discrete, stand-alone site. However, in some cases there are many hotspots in a small area, and within those areas there may be discrete hierarchy of hotspots that may include:
 
-### **“List-building” Areas**:
+### **“List-building” Areas**
  Representing very large areas, contiguous by land ownership or geography. We refer to these as “list-building” because their use is generally not recommended except for historical records and getting personal life lists up to date (or some current data if birding strategies do not adhere to existing finer-scale hotspots). These should be identified with clear text that recommends using a more specific hotspot.
 
 **Example:** 
 
-### **Hotspots**: 
+### **Hotspots**
 Typical eBird hotspots, representing discrete properties, often birded by multiple eBirders using similar birding strategies. 
 
 ### **Parent Hotspots:** 
@@ -43,7 +43,7 @@ The general, overarching hotspot for a discrete area that also contains multiple
 
 **Example:** a clear and well-known hotspot, typically covered by a walking route that goes past meadows, impoundments, a stretch of beach, marsh, and shrublands, including a couple observation platforms.
 
-### **Sub-hotspots**:
+### **Sub-hotspots**
  Hotspots that represent a subset or specific site within a larger parent hotspot. These are most often individual trails, individual lakes or ponds, specific small patches of habitat with specialty birds, or—especially in the tropics—the immediate grounds of a lodge or resort within a larger reserve (e.g., [Maasai Mara NR--Governor’s Camp](https://ebird.org/hotspot/L921195)).
 
 **Example:**
