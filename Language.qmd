@@ -1,0 +1,11 @@
+## **Language**
+
+eBird is a global project and we recommend that site names be listed in the local language (e.g., Spanish for Central America, Portuguese for Portugal, French for France and Quebec, German for Germany, etc.). These names also should generally match the names used on maps and in local signage. 
+
+However, when the local language uses an alphabet that is not easily read by English-speakers (or other Germanic/Romance languages), please list the site name in the local language first, followed by an English translation in parentheses. See examples below:
+
+-   **Taiwan:** 宜蘭--頂寮生態公園 (Yilan--Dingliao Ecological Park) <http://ebird.org/ebird/hotspot/L3291680>
+
+-   **Japan:** 大田区--東京港野鳥公園 (Ota Ward--Tokyo Port Wild Bird Park) <http://ebird.org/ebird/hotspot/L927941>
+
+**Note:** Please use accents in non-English words in accordance with correct spelling in the original language (e.g., Río Guadalupe, Parque San José, Cañon San Pedro). Please DO NOT use accents over capital letters.

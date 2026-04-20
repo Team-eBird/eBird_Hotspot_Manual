@@ -1,0 +1,13 @@
+### **Restricted Access Locations**
+
+Although hotspots should generally be accessible to the public, occasional locations are not open to the public but may be regularly birded by those who have been authorized to do so. It is still appropriate to list the location as a hotspot since it is desirable to pool the data from multiple observers. 
+
+Be sure to indicate a hotspot is Restricted Access in the [Hotspot Features](ParentHotspotContent.qmd#features) list. This will ensure that a “Restricted Access” tag also appears next to the hotspot name on the eBird website. Until a similar UI tag is available in eBird mobile, we recommend also placing  the words “restricted access” (or the equivalent in the local language) in lower-case in parentheses following the location name. Detailed access instructions should not be part of the hotspot name; provide these in the Plan Your Visit section of the Hotspot about page.
+
+-   Examples:
+
+    -   [Patuxent River Naval Air Station (restricted access)](https://ebird.org/hotspot/L472729)
+
+    -   [Holme Bird Observatory (restricted access)](https://ebird.org/hotspot/L2038242)
+
+    -   [Finca Tempixque (acceso restringido)](https://ebird.org/hotspot/L468452)

@@ -1,0 +1,17 @@
+## **Naming Hotspots along Linear Routes– Rivers, Roads, and Trails**
+
+This section refers to linear features that are too long to be represented by a single hotspot except for historical records and getting personal life lists up to date)  This would not apply to linear features within discrete, non-linear hotspots, such as trails within parks. It also does not apply to pelagic transects (see the [Pelagic Hotspot](PelagicHotspots.qmd) section below).
+
+Linear routes (e.g., rivers, roads, and hiking trails)—while not eligible to be Hotspot groups—can still consist of a hierarchy of both stationary and point-to-point “sub-hotspots” (term used loosely, not in the technical sense of a Hotspot group) that follow a hierarchical naming structure. 
+
+One example of a linear route  consisting of multiple “sub-hotspots” is  the Alaska Highway: [Alaska Hwy--Yukon River bridge to M'Clintock Bay](https://ebird.org/hotspot/L6452195) (point-to-point hotspot) and [Alaska Hwy--Drury's Farm pond](https://ebird.org/hotspot/L5768400) (stationary hotspot). 
+
+For point-to-point sub-hotspots, the naming convention is \[Parent Hospot\]--\[Point A\] to \[Point B\].
+
+-   [Buffalo National River--Tyler Bend to Gilbert](https://ebird.org/hotspot/L1269187)
+
+-   [Alakai Swamp Trail--Trailhead to Pihea Trail Junction](https://ebird.org/hotspot/L1426322)
+
+-   [Carretera 175/Oaxaca-Tuxtepec--Km 90-95](https://ebird.org/hotspot/L282531)
+
+Place the marker roughly equidistant between the two points. Not every stretch of linear hotspot may qualify as a sub-hotspot. Use your judgment and consider habitats and the history of how a given stretch has been birded.

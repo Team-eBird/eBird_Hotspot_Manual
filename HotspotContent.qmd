@@ -1,0 +1,18 @@
+## **Hotspot Content**
+
+For instructions on About This Hotspot text sections and Features, visit the eBird help center: [eBird Hotspot About Pages](https://support.ebird.org/en/support/solutions/articles/48001281732)
+
+A note to editors on using AI to generate Hotspot content**:**
+
+AI can be a helpful tool to organize, format, and copyedit About content. However, AI has its limitations and should always be read and human-verified before publishing. 
+
+When considering using AI for Hotspot content, we first strongly recommend generating content for the Hotspots that you are the MOST familiar with. Review the content, noting any inaccuracies. If possible, ask the AI for its sources and consult them directly to understand where content is obtained and how accurately it has been adapted. Repeat until you feel you have a good sense of the AI tool’s performance. 
+
+-   Always read the content word-for-word 
+
+-   If you are not familiar with a site, try to find someone who is familiar with it to review its content (consider: if the AI output is wrong, how will you know?) 
+
+-   Double-check AI-generated hours, dates, posted fees, and anything involving numbers (AI is known to hallucinate!)
+
+\
+A note on Accessibility: Humans and AI alike are encouraged to avoid subjective assessments of accessibility such as “Wheelchair friendly” or “Easily accessible”. Instead of these vague phrases, provide detailed information about the physical description of the birding location. Include details such as trail surfaces, gradient/slope, safety features, degree of maintenance, crowd and noise levels, etc. **Consider using the [Birdability](https://www.birdability.org/) Site Review Checklist to guide your description.** Aim to help others make an assessment for themselves whether the site is accessible to them.

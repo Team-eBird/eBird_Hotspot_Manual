@@ -1,0 +1,15 @@
+## Part 1: How to Review and Edit Hotspots
+
+-   [Overview](Overview.qmd)
+
+-   [To Accept or Not Accept](ToAcceptorNotAccept.qmd)
+
+-   [New Hotspot Evaluation](NewHotspotEvaluation.qmd)
+
+-   [Viewing Reviewed Hotspots](ViewingReviewedHotspots.qmd)
+
+-   [Editing Existing Hotspots](EditingExistingHotspots.qmd)
+
+-   [Plotting Hotspots](PlottingHotspots.qmd)
+
+-   [Merging Hotspots](MergingHotspots.qmd)

@@ -1,0 +1,25 @@
+### **What is a Hotspot Group?**
+
+A **Hotspot Group** consists of two or more hotspots that are part of the same continuous geographical area.
+
+Hotspot Groups organize multiple hotspots within a larger area. For example, a state park or wildlife refuge might contain separate eBird hotspots for individual trails, viewpoints, or other popular birding spots. These hotspots would collectively form a hotspot group under a single overview page (AKA [parent hotspot](ParentHotspots.qmd)) that refers to the entire area.
+
+**Each hotspot can only belong to one group at a time** due to technical requirements related to [data aggregation](DataAggregation.qmd).
+
+Hotspots should only be grouped if they occupy the same general area—typically this area has clearly defined boundaries and/or is under a single jurisdiction or management entity (i.e., sites should generally form a contiguous cluster). Birders often may visit multiple hotspots within this boundary on a single visit (ideally, but not always, keeping separate checklists). 
+
+### **What is NOT a hotspot group?**
+
+The following should NOT be made into hotspot groups:
+
+-   Long linear routes (long trails, river stretches, highways, etc.) unless they are part of a single administrative unit (e.g., Buffalo National River is a single national park) 
+
+-   Large cities (small towns under 7 sq mi / 20 sq km are OK)  
+
+-   Many isolated or non-contiguous properties, even if under the same managing organization.
+
+### **Can hotspot groups cross administrative boundaries?**
+
+Yes! See our guidance for [Hotspot Groups that cross administrative boundaries](Multi-RegionHotspotGroups.qmd) below. 
+
+When a hotspot group crosses county/state/district/province lines, we recommend creating a “regional” hotspot on each side of the border. Include the respective administrative area in parentheses at the end of the hotspot name—e.g., “Blue Lake (Lewis Co.)” and “Blue Lake (Cowlitz Co.)”

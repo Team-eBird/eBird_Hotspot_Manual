@@ -1,0 +1,23 @@
+## **Additional Modifiers**
+
+Occasionally, a hotspot name will need an additional modifier to clarify the location. The most common situations are lakes and roads that cross county, department, state, province, or even country borders (as shown in the examples below) or common place names that may appear more than once in a state or province (e.g., there may be more than one Blue Lake). Such modifiers should follow the parent hotspot name and the sub-hotspot name (if present), can use “Co.” to abbreviate County, and should always appear in parentheses. **These modifiers should be used sparingly.**
+
+-   Examples: 
+
+    -   [Black Butte Lake (Glenn Co.)](https://ebird.org/hotspot/L372996) and [Black Butte Lake (Tehama Co.)](https://ebird.org/hotspot/L515160)
+
+    -   [Boca Chica Beach (LTC 043)--USA side](https://ebird.org/hotspot/L128923) and [Boca Chica (Tamaulipas)](https://ebird.org/hotspot/L513174)
+
+    -   [Balsas--Rio Marañon (Dept. Amazonas)](https://ebird.org/hotspot/L2237785) and [Balsas--Rio Marañón (Dept. Cajamarca)](https://ebird.org/hotspot/L2237773)
+
+Other modifiers may sometimes be useful to clarify a location, such as the town, especially when there are confusingly similar names. We generally recommend using a comma to add the name of the town.
+
+-   Examples:
+
+    -   [Nauset Light Beach, Eastham](https://ebird.org/hotspot/L481406)
+
+    -   [Nauset Beach, Orleans](https://ebird.org/hotspot/L805337)
+
+Hotspots that cover properties managed by land trusts and other land preservation agencies may have specific organizational attribution by adding the name or acronym in parentheses after the name of the property, for example [Crooked Creek Preserve (TNC)](https://ebird.org/hotspot/L254272) for a property named Crooked Creek Preserve that is managed by The Nature Conservancy. Since the names of Land Trusts can be quite long, we generally recommend using these abbreviations rather than the full name of the Land Trust. Although the meaning here may not be immediately obvious to all users, it often is meaningful locally and is something that anyone can look up on a search engine.
+
+**We do not ever recommend using latitude and longitude in the hotspot name;** the coordinates of a hotspot are always officially defined by where the hotspot is sited and all hotspots in eBird are associated with a specific latitude and longitude. Adding these to the name is unnecessary and likely would lead to errors if the hotspot ever were moved but the name not also adjusted.

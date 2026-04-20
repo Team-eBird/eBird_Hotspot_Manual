@@ -1,0 +1,39 @@
+## Part 4: Standards and Naming Conventions for eBird Hotspots
+
+When approving new hotspots and reviewing current hotspots, try to use names that conform to the naming conventions described below. Consistent naming helps users find the correct hotspot when using the mapping tool to submit a checklist, as well as when selecting hotspots from drop-down lists. Searching for output based on hotspot names is also easier when the naming conforms to consistent standards.
+
+It's also helpful to keep in mind how eBird uses and displays hotspot names. For example, most eBird output (e.g., Hotspot Explorer, Region Explorer) includes the hotspots in geographical context, and when the name of the site is listed, it includes the county, state, and country. Therefore, it is not necessary to include the name of the county, state, province, or country in the hotspot name unless it is needed for clarity. 
+
+Hotspot names should generally use the formal, official name of the park, forest, wildlife area, or some other geographic identifier—if there is one. It is generally not good practice to name hotspots for birds that might be seen there or for habitat that may not persist over time, although there may be sites for specific species that do merit a hotspot named for the species of bird. A notable exception is for “stakeout” rarities, which have a special section ([Stakeout Hotspots](StakeoutHotspots.qmd)) below.
+
+## Table of Contents:
+
+-   [Capitalization](Capitalization.qmd)
+
+-   [Language](Language.qmd)
+
+-   [Hotspot Definitions and Hierarchy](HotspotDefinitions.qmd)
+
+-   [Hotspot Naming-Groups](HotspotNaming-Groups.qmd)
+
+-   [Naming Hotspots Along Linear Routes](LinearRoutes.qmd)
+
+    -   [Birding Trails](BirdingTrails.qmd)
+
+-   [Additional Modifiers](AdditionalModifiers.qmd)
+
+    -   [Towns](Towns.qmd)
+    -   [Abbreviations (English)](AbbreviationsEnglish.qmd)
+    -   [Abbreviations (Spanish)](AbbreviationsSpanish.qmd)
+    -   [Abbreviations (French)](AbbreviationsFrench.qmd)
+    -   [Restricted Access Locations](RestrictedAccessLocations.qmd)
+    -   [Historical Locations](HistoricalLocations.qmd)
+    -   [Stakeout Hotspots](StakeoutHotspots.qmd)
+    -   [Pelagic Hotspots](PelagicHotspots.qmd)
+    -   [Privacy concerns](PrivacyConcerns.qmd)
+    -   [Birdcam hotspots](BirdcamHotspots.qmd)
+    -   [Miscellaneous Hotspot Naming Conventions](MiscNaming.qmd)
+
+-   [Downloadable Hotspot file through the Hotspot API](DownloadHotspotFile.qmd)
+
+    -   [View the Hotspot API file in Google Earth](ViewInGoogleEarth.qmd)

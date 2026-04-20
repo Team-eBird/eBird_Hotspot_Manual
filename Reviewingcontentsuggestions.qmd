@@ -1,0 +1,7 @@
+## **Reviewing Content Suggestions**
+
+eBird Hotspot Editors and anyone with content editing permissions for a hotspot can review suggestions made by eBirders without these permissions. 
+
+**To review content**, tap the “Review” button on any Hotspot About page in your assigned region OR
+
+**Bookmark <https://review.ebird.org/review/hotspots/content-suggestions>** for quick access to your entire suggestion queue

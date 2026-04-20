@@ -1,0 +1,24 @@
+## **New Hotspot Evaluation**
+
+1.  **Check for duplicates—Select the Merge option. This does not merge the hotspot yet, but loads other hotspots in the area so that you can check if the hotspot you just accepted already exists nearby with the same or a similar name. If it does already exist, merge the new location with the existing hotspot. If it does not already exist, proceed with the next steps. Caution: Make sure the new hotspot is really a duplicate before merging. Merging cannot be reversed! \*\*NOTE: When merging with an existing hotspot if you do not select Delete after merging, the new hotspot will persist with no data.**
+
+2.  **Consider if the hotspot is acceptable**—see “[To Accept or Not Accept](ToAcceptorNotAccept.qmd)”
+
+3.  **Check that the name matches eBird naming protocols** (see [Part IV](Part4.qmd)). If necessary, click **Rename** andrename the hotspot.
+
+4.  **Confirm location—**If you need to move the new hotspot, select the **Move** option, click the new location on the map, and then click **Move** again. \*\***NOTE:** This step should be last, because it automatically closes the hotspot editing window.
+
+5.  **Consider hotspot hierarchy–if the new hotspot is best understood as a subhotspot within a group that already exists, go to the parent hotspot Admin tools and add the new one as a subhotspot. Similarly, for new parent hotspots, add any subhotspots to them.**
+
+**Finito! You’re done, and another hotspot has joined the system!!!** Return to the Hotspot Review Tools, and the suggestion no longer appears in the unreviewed hotspots page. 
+
+**\
+\*\*NOTE**: If you change your mind on acceptance or need to revisit the hotspot, see the [Viewing Reviewed Hotspots](ViewingReviewedHotspots.qmd) section below.
+
+**Allow time for the database to update**. The hotspot page will be viewable with the correct link immediately, and checklists will correctly link to it, but some of the exploration tools in the Hotspot Explorer (including the map) update once every \~24 hours. 
+
+If someone suggests the same Hotspot more than once, you will need to wait until the next day to review the others if you want to merge them. Likewise, if two users suggest the same location, review and accept one, then wait until the next day to review and merge the other.\
+\
+Pro Tip**:** If you accidentally accept two duplicate hotspots on the same day, add “(Merge)” to the name of one so you can easily find and correct it later. 
+
+Submit Data and Hotspot editing maps are nearly live queries (every two hours), so the hotspot lists here will be almost current.

@@ -1,0 +1,9 @@
+## **Plotting Hotspots**
+
+Exactly where to plot a hotspot is something of a judgment call. These general rules should be followed:
+
+1.  Plot the hotspot in a place that is a good representation of where most birding takes place. If a 400 hectare park has a well-used hiking trail in the western third and a patch of forest with no trails that takes up the eastern two-thirds, plot the hotspot closer to the heavily used western end, not in the middle or eastern portion.
+
+2.  Plot the hotspot in a place that navigation apps (e.g., Google Maps, Waze) will accurately direct a birder to the location. For example, placing a hotspot in the middle of the woods that would direct Google Maps to an access point that does not exist, instead of the primary parking area, is not ideal.
+
+3.  For general areas (AKA “[list-building parent hotspots](List-buildingParentHotspots.qmd)”),  plot them in a central location relative to their constituent sub-hotspots, but make sure they are sufficiently separated from other hotspots to stand out from the rest. This helps identify the list-building parent hotspots on a map. For example, if there are a cluster of hotspots around a wildlife drive in a refuge, place the list-building parent hotspot towards the refuge’s center, sufficiently away from the other hotspots so that users can easily find it and select it.

@@ -1,0 +1,9 @@
+### **Birdcam hotspots**
+
+It has become increasingly popular to watch birdcams (or other remote-sensing technology) and keep lists in eBird. This practice is not formally endorsed by eBird (see [our policy here](https://support.ebird.org/en/support/solutions/articles/48000795623-ebird-rules-and-best-practices#Why-doesn't-eBird-accept-observations-of-dead,-captive,-or-remotely-sensed-birds?)), but since these checklists may be treated as Public and may have public records, it is preferable to use established hotspot locations when this practice is being adopted by multiple people to avoid too much location scatter. Please get in touch with eBird Central for approval of any such hotspots. We recommend including the overarching hotspot/area name, followed by a double-dash and “feedercam” or “trailcam,” to make sure these are readily identifiable; the name in parentheses is the official name of the camera. Please do not add the camera weblink.
+
+-   Examples: 
+
+    -   [Canopy Lodge--feedercam only (Panama Fruit Feeder Cam)](https://ebird.org/hotspot/L12059671)
+
+    -   [Manitouwadge--feedercam only (Ontario FeederWatch Cam)](https://ebird.org/hotspot/L2434245)

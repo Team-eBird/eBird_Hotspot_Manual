@@ -1,0 +1,21 @@
+## **Downloadable Hotspot file through the Hotspot API**
+
+Downloadable and machine-readable files can be accessed from the [eBird Hotspot API](https://documenter.getpostman.com/view/664302/S1ENwy59?version=latest#f4f59f90-854e-4ba6-8207-323a8cf0bfe0). Hotspot editors will find it useful to download a CSV file of hotspots in their region. 
+
+To obtain a CSV file of eBird Hotspots in a region, first request an eBird API key here: <https://ebird.org/data/download> (your personal API key is unique to you, please do not share it!) 
+
+You will also need the appropriate region code. These can be found in the URLs of the Region Explorer at <https://ebird.org/explore>. For example, the region code for Zimbabwe (<https://ebird.org/region/ZW>) is ZW. The region code for Cork, Munster, Ireland (<https://ebird.org/region/IE-M-CK>) is IE-M-CK. 
+
+Substitute your API key and appropriate region code for {APIKEY} and {REGIONCODE} in the following web address:
+
+-   https://api.ebird.org/v2/ref/hotspot/{REGIONCODE}?fmt=csv&key={APIKEY}
+
+Copy and paste the web address into your browser. The result will be a downloaded CSV file of all eBird Hotspots in that region. 
+
+Example: If your API key was 1a2b3c4d5e and your regions of interest were Zimbabwe (ZW) and Cork, Munster, Ireland (IE-M-CK), you would paste the following URLs into your web browser:
+
+-   https://api.ebird.org/v2/ref/hotspot/ZW?fmt=csv&key=1a2b3c4d5e
+
+-   https://api.ebird.org/v2/ref/hotspot/IE-M-CK?fmt=csv&key=1a2b3c4d5e
+
+The eBird API can also provide a list of species seen within the last 1-30 days from any hotspot, which can then be embedded on other websites. Our APIs are fully documented [here](https://documenter.getpostman.com/view/664302/S1ENwy59?version=latest#intro), and most of these APIs are freely available for non-profit use; commercial use of the Hotspot API (or any other eBird APIs) is not permitted.

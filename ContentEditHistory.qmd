@@ -1,0 +1,7 @@
+### **Content Edit History**
+
+Only users with content editing permissions can see this panel.
+
+Content Edit History shows the last 100 edits made to this hotspot's About content sections, including who made the change and when. Changes to Features and Links are not reflected here. 
+
+Details show comparison with the version before it—added text is highlighted in green and removed text in red. Uncheck "Compare with previous version" on any entry to view the content without highlights.

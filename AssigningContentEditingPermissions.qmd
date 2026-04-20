@@ -1,0 +1,17 @@
+**Assigning Content Editing Permissions**
+
+eBird Hotspot Editors go to <https://review.ebird.org/review/hotspots/manage-access> OR navigate to any Hotspot in your assigned region and tap About \> Review \> Manage Access.  
+
+You will need to know the eBird User ID of the account—this is different than their username. User IDs are formatted as USER123456
+
+If you are not sure of the person’s User ID: 
+
+1.  Go to [search.macaulaylibrary.org](http://search.macaulaylibrary.org) 
+
+2.  Tap Contributor, type their name\*, and tap when it appears in the dropdown
+
+3.  Their UserID will be displayed in the resulting webpage address (e.g., <https://search.macaulaylibrary.org/catalog?userId=USER123456>) 
+
+\* If multiple accounts share the same name, you may need to ask the account holder to perform these steps, repeating Step 2 as necessary  until the correct account is selected (process of elimination). 
+
+If you still can’t figure out the name, any eBird observation reviewer can see this by clicking on the user’s name from the Review Tools.

@@ -1,0 +1,63 @@
+## **Hotspot Naming—Groups**
+
+### **Parent hotspots**
+
+The parent hotspot should be named for the area that encompasses the entire group. “General” or “general area” may be appended to the Parent hotspot name if there is the potential for confusion between the parent hotspot (referring to checklists spanning multiple sites or the entire area) and any specific, individual sub-hotspot.
+
+Any modifiers or warnings that are specific to the parent location alone (e.g., “Use more precise location”) should be added in parentheses.
+
+**List-building Parent Hotspots**
+
+List-building parent hotspots represent very large areas that are too spatially imprecise to be useful for most scientific analyses. In Hotspot Groups, List-building parent hotspots are automatically identified for any group with a bounding perimeter area of \>80km2.
+
+For very large list-building hotspots, we recommend including a parenthetical note that discourages casual or regular use of these Hotspots and encourages more specific birding—e.g., “(use more precise loc.)”—whenever there is space to use it. Our recommendation is to keep this as short and direct as possible. 
+
+ Any list-building parent hotspot that is considered problematic for data entry should include an asterisk after the core part of the name. An asterisk following the name is also meant to be a warning to savvy eBirders not to pick this spot if they are willing and able to submit their checklist at a more precise location. The asterisk may also help to ensure that scientific data users don’t treat these as site-specific checklists. **We ask that asterisks not be used anywhere else in hotspots so that they can be specifically used to designate these special types of locations.** 
+
+The below hotspots use our recommended names:
+
+-   [Glacier NP\* general (use more precise loc.)](https://ebird.org/hotspot/L247319)
+
+-   [Khao Yai NP\* general (use more precise loc.)](https://ebird.org/hotspot/L921126)
+
+-   [Maasai Mara NR\* general (use more precise loc.)](https://ebird.org/hotspot/L1235762)
+
+-   [Cerro Punta\* general area (use more precise loc.)](https://ebird.org/hotspot/L454648)
+
+-   [Akatau Mountains\* general area (use more precise loc.)](https://ebird.org/hotspot/L10236131)
+
+### **Sub-hotspots**
+
+Sub-hotspots should follow the parent hotspot separated by a **double hyphen (--) without spaces** on either side. The correct structure is: \[Parent Hotspot\]--\[sub-hotspot\]. For example, “Montezuma NWR--Towpath Rd.”\
+\
+The following variations are INCORRECT:
+
+-   Spaces on either side of the dashes: “Montezuma NWR -- Towpath Rd.”
+
+-   Single dash: “Montezuma NWR-Towpath Rd.” 
+
+-   Emdash: Montezuma NWR—Towpath Rd.” (A common autocorrect change to watch out for!)
+
+**NOTE:** **Using the correct structure here has been critically important since 2021, since this naming structure is used in eBird Mobile to recommend specific hotspots to the user.**
+
+-   Examples:
+
+    -   [Khao Yai NP--headquarters vicinity](https://ebird.org/hotspot/L10183154)
+
+    -   [Khao Yai NP--Nong Phak Chi](https://ebird.org/hotspot/L1080440)
+
+    -   [Yosemite NP--Tuolumne Meadows](https://ebird.org/hotspot/L343236)
+
+    -   [Yosemite NP--Glacier Pt.](https://ebird.org/hotspot/L595393)
+
+    -   [Reserva de la Biosfera El Cielo--Senda Alta Cima](https://ebird.org/hotspot/L1332522)
+
+    -   [Reserva de la Biosfera El Cielo--Rancho del Cielo](https://ebird.org/hotspot/L275916)
+
+Do not make a city or town a parent hotspot with sub-hotspots. When it is helpful to identify a location by city or town, please use this format: \[Location\], \[City or Town Name\]. Furthermore, large cities do not ever need to be specified in the location name (except when two hotspots with the same name might be confused). For example, “Garden of the Gods Park, Colorado Springs” is undesirable; it should be named “Garden of the Gods Park” and the mapped location will indicate where it is more specifically. If a city, town, or township is used with a road name it should generally follow the road name. For instance, "[Butler Rd., Olmito](https://ebird.org/hotspot/L2240586)" rather than "Olmito--Butler Rd."
+
+Entire “Birding Trails”, covering a large section of a state, should never have sub-hotspots. In the great majority of birding trails, each site or stop on a birding trail should have its own location, either as a hotspot or a sub-hotspots within another entity. It is permissible to have a birding trail site number in parentheses after the name, for example, [Laguna Atascosa NWR (LTC 024)](https://ebird.org/hotspot/L129005).
+
+### **Abbreviations**
+
+In cases where the parent location name is long, abbreviations can be established for sub-hotspots, provided the parent hotspot uses the full, unabbreviated version. For example, in Figure 2 above, Cape Island--SCMM--Cove Pool is allowed because SCMM is defined (as South Cape May Meadows) in the nearby parent hotspot.

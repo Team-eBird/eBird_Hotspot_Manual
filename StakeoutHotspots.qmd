@@ -1,0 +1,27 @@
+### **Stakeout Hotspots**
+
+A single out-of-range rarity often generates a large amount of attention from birders. When such a bird occurs at a new site (i.e., not at an already-established hotspot) it is good practice to quickly set up a “stakeout” hotspot to give eBirders an accurate and consistent location to use when they visit. Please encourage those who “chase” these rarities to use the hotspot rather than creating their own location. These hotspots should be retained even after the bird has departed so that new eBird users can enter past rarities.
+
+Our conventions for “stakeout hotspots” are:
+
+-   Plot the point as precisely as possible in relation to where the rarity is being seen
+
+-   Always begin with “stakeout” in **lowercase** 
+
+-   Next, include the common name of the bird in the local language
+
+-   Next, include a geographical identifier; this can be the town, a well-known road, or other feature that will distinguish this hotspot from others for the same species in the region. 
+
+-   Do not include county, state, or country, since these are automatically added by eBird. 
+
+-   Finally, include the date range when the bird was seen; for ongoing rarities, these names may need to be edited in real time if the rare bird persists for months or years
+
+<!-- -->
+
+-   Examples:
+
+    -   [stakeout Black-throated Gray Warbler, 103 James H. Luther Dr., Taunton (Jan 2013)](https://ebird.org/hotspot/L1878310)
+
+    -   [stakeout Black-throated Sparrow, Elora (2005-06)](https://ebird.org/hotspot/L1890097)
+
+    -   [stakeout Eurasian Blackcap, Durbanville (Jul 2017)](https://ebird.org/hotspot/L6096764)

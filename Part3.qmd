@@ -1,0 +1,18 @@
+## **Part III: Hotspot Groups**
+
+-   [Hotspot Groups Overview](GroupsIntroduction.qmd)
+
+-   [Parent Hotspots](ParentHotspots.qmd)
+
+    -   [Parent Hotspot Content](ParentHotspotContent.qmd)
+    -   [Additional Parent Hotspot UI](AdditionalParentHotspotUI.qmd)
+    -   [Data Aggregation](DataAggregation.qmd)
+    -   [Parent Hotspot Placement](ParentHotspotPlacement.qmd)
+    -   [Naming Parent Hotspots and Sub-hotspots](NamingParentandSub-Hotspots.qmd)
+    -   [List-building Parent Hotspots](List-buildingParentHotspots.qmd)
+
+-   [Creating and Managing Hotspot Groups](CreatingandManaging.qmd)
+
+-   [Multi-Region Hotspot Groups](Multi-RegionHotspotGroups.qmd)
+
+-   [Hotspot Group FAQs](HotspotGroupFAQs.qmd)
