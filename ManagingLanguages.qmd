@@ -1,4 +1,4 @@
-### **Managing Languages**
+## **Managing Languages**
 
 \
 Which language is displayed first?

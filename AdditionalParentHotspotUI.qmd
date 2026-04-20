@@ -1,6 +1,6 @@
-### **Additional Parent Hotspot UI**
+## **Additional Parent Hotspot UI**
 
-#### **Group Map**
+### **Group Map**
 
 When you visit the Parent hotspot page (the group overview page), you will see a map of all hotspots in the group. 
 
@@ -8,7 +8,7 @@ When you visit the Parent hotspot page (the group overview page), you will see a
 
 ![](images/paste-18.png){fig-align="center"}
 
-#### **Hotspot Standings**
+### **Hotspot Standings**
 
 Each parent hotspot has a 'Hotspots' page that lists all hotspots within that group, ranked by number of checklists and species—similar to the Hotspot and Subregion rankings found on eBird Region pages. The checklist and species totals for the parent hotspot are displayed separately at the bottom of the page. 
 

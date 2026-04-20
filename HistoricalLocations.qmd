@@ -1,4 +1,4 @@
-### **Historical Locations**
+## **Historical Locations**
 
 In rare cases, it can be helpful to create hotspots for sites that no longer exist. In such cases, a parenthetical note should make it clear that the described location is historical. If applicable, it may be helpful to add “before YYYY” in the parenthetical to indicate the time period that the site existed as a hotspot.
 

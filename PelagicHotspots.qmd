@@ -1,4 +1,4 @@
-### **Pelagic Hotspots**
+## **Pelagic Hotspots**
 
 It is not encouraged to use hotspots for pelagic birding, since the eBird best practice is to follow the [eBird Pelagic Protocol](https://support.ebird.org/en/support/solutions/articles/48000950859-guide-to-ebird-protocols#anchorPelagic) and plot locations based on the exact route you traveled, ideally using tracks in eBird mobile. But there are two scenarios where hotspots have been established and these can be useful for aggregating data, especially when the data were not collected with rigorous tracks of GPS location services.
 

@@ -1,4 +1,4 @@
-## Part 2: Hotspot Content
+# Part 2: Hotspot Content
 
 -   [Content Permissions](ContentPermissions.qmd)
     -   [Assigning Content Editing Permissions](AssigningContentEditingPermissions.qmd)

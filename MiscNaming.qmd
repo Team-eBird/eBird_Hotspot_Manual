@@ -1,4 +1,4 @@
-### **Miscellaneous Hotspot Naming Conventions**
+## **Miscellaneous Hotspot Naming Conventions**
 
 1.  **Keep Names Concise** – Hotspot names should be under 100 characters, with shorter names always preferred. Brevity helps ensure clarity, ease of use, and consistency across platforms. Opt for widely recognized place names or simple descriptive terms to maintain readability whenever possible.
 

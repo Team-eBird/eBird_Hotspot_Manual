@@ -2,13 +2,13 @@
 
 Many hotspots cannot be immediately accepted, or accepted at all. Here are some common situations.
 
--   **If a user recommends a hotspot that clearly does not meet the criteria for a shared hotspot (such as "My Backyard" or just the user’s name such as "Steve Jones"), go ahead and resolve the recommendation by clicking “Review” and then “Revert to Personal Location.”**
+-   If a user recommends a hotspot that clearly does not meet the criteria for a shared hotspot (such as "My Backyard" or just the user’s name such as "Steve Jones"), go ahead and resolve the recommendation by clicking “Review” and then “Revert to Personal Location.”
 
 -   Be conscious of duplicate suggestions. Sometimes, a user will recommend a hotspot similar to one that already exists. In that case, don’t accept the Hotspot. Consider merging the suggested hotspot. If the suggestion is an improvement over the existing hotspot, merge the suggestion, then move or rename the existing hotspot.
 
--   **Occasionally, a hotspot will be recommended that has no data associated with it. In these cases the hotspot editing screen will have a delete option next to the hotspot name. This only appears for locations with no data associated with them (i.e., you cannot delete a location that has associated data). In these cases, feel free to delete the location if it is not a worthy hotspot. Some hotspots might appear to have no data, but they won’t have the deletion option. This is most likely because they have hidden checklists or only have sensitive, rare and/or unaccepted species, but they still have data, so deletion isn’t an option.**
+-   Occasionally, a hotspot will be recommended that has no data associated with it. In these cases the hotspot editing screen will have a delete option next to the hotspot name. This only appears for locations with no data associated with them (i.e., you cannot delete a location that has associated data). In these cases, feel free to delete the location if it is not a worthy hotspot. Some hotspots might appear to have no data, but they won’t have the deletion option. This is most likely because they have hidden checklists or only have sensitive, rare and/or unaccepted species, but they still have data, so deletion isn’t an option.
 
--   **If you just can't figure out what the user's intent was, send an email to find out. When in doubt, revert to a personal location. This is always the safest option.**
+-   If you just can't figure out what the user's intent was, send an email to find out. When in doubt, revert to a personal location. This is always the safest option.
 
 \
 Hotspot organization and hierarchy can be managed in additional ways, so decisions to accept new hotspots should focus on their potential benefit to data entry and aggregation. Read the sections on [What is a Hotspot?](Introduction.qmd#what-is-an-ebird-hotspot) and [Hotspot Naming](HotspotNaming-Groups.qmd) for guidance on special circumstances such as sub-hotspots or list-building parent hotspots.

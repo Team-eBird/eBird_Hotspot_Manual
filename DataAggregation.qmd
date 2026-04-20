@@ -1,4 +1,4 @@
-### **Data Aggregation**
+## **Data Aggregation**
 
 **Parent locations aggregate data across all hotspots in the group.** Statistics for a parent location represent the entire group's combined data, including public checklists submitted to the parent.
 

@@ -6,7 +6,7 @@ The parent hotspot should be named for the area that encompasses the entire grou
 
 Any modifiers or warnings that are specific to the parent location alone (e.g., “Use more precise location”) should be added in parentheses.
 
-**List-building Parent Hotspots**
+### **List-building Parent Hotspots**
 
 List-building parent hotspots represent very large areas that are too spatially imprecise to be useful for most scientific analyses. In Hotspot Groups, List-building parent hotspots are automatically identified for any group with a bounding perimeter area of \>80km2.
 

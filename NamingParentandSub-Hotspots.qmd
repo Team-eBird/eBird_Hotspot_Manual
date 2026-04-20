@@ -1,4 +1,4 @@
-### **Naming Parent Hotspots and Sub-hotspots**
+## **Naming Parent Hotspots and Sub-hotspots**
 
 Follow [Hotspot Naming policies](index.qmd). Parent locations should have “general” or “general area” in the name if there could be confusion between a precise site and the overarching area. 
 

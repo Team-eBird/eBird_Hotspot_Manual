@@ -1,4 +1,4 @@
-## **Part III: Hotspot Groups**
+# **Part III: Hotspot Groups**
 
 -   [Hotspot Groups Overview](GroupsIntroduction.qmd)
 

@@ -1,10 +1,10 @@
 ## **Multi-Region Hotspot Groups**
 
-#### **Can a Hotspot Group Include Locations from Multiple Regions?**
+### **Can a Hotspot Group Include Locations from Multiple Regions?**
 
 Yes! Hotspot groups can cross geopolitical boundaries. This does not mean an individual checklist will appear in multiple counties. 
 
-#### **What is the Expected Behavior When a Group Spans Multiple Regions?**
+### **What is the Expected Behavior When a Group Spans Multiple Regions?**
 
 Parent hotspots display checklist activity from all sub-locations in the group. If the group covers multiple regions, data from multiple counties could appear on the parent hotspot page. This does NOT feed into greater county, state/province, or country-level data. Each hotspot counts toward only one county, one state/province, and one country's birding activity. Individual hotspots only contribute data to the regions where they are located.
 
@@ -16,11 +16,11 @@ In the example Hotspot Group above, only checklists submitted to hotspots in Reg
 
 We understand that reviewers may hesitate to create groups where the parent hotspot aggregates data from multiple regions, as it could inadvertently lead to data from one county being submitted to a parent location in another county. If you have concerns about this, please see our guidance below. 
 
-#### **Large Areas**
+### **Large Areas**
 
 For hotspot groups that cross borders because they cover large areas (e.g., national parks, wildlife refuges), we are implementing a special “large area process”: any hotspot group with a bounding area greater than 80km2 will be designated a [List Building Location](List-buildingParentHotspots.qmd) (see above). 
 
-#### **Small Areas**
+### **Small Areas**
 
 Hotspot groups \<80km2 can still span multiple geopolitical regions. Common examples include bridges or dams that cross borders along rivers. 
 
@@ -32,7 +32,7 @@ When people submit checklists directly to the parent hotspot of a group, their o
 
 So, if the main goal is maintaining accurate **regional** data, the key question is: will creating a Hotspot Group (under 80km²) clearly disrupt regional data where the parent hotspot is located? 
 
-**Consider these questions:**
+### **Consider these questions:**
 
 -   Do most birds cross freely from one side of the border to the other?
 

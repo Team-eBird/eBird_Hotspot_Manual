@@ -1,4 +1,4 @@
-### **View the Hotspot API File in Google Earth**
+## **View the Hotspot API File in Google Earth**
 
 Hotspot CSV files can also be converted into Google Earth (kml) files. After [downloading the Hotspot CSV](DownloadHotspotFile.qmd), open the file in Excel or similar software. Insert a new, empty row 1. Enter the following column headings into your new row 1: 
 

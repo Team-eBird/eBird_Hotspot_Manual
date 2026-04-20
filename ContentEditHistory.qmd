@@ -1,4 +1,4 @@
-### **Content Edit History**
+## **Content Edit History**
 
 Only users with content editing permissions can see this panel.
 

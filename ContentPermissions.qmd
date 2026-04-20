@@ -26,10 +26,4 @@
 
 Additional content editing permissions can be granted to accounts to assist with content management. 
 
-|  |  |  |  |  |  |  |  |  |  |
-|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
-|  | Approve New Hotspots | Rename, Move, Merge Existing Hotspots | Create Hotspot Groups | Grant Content Editing Permissions | Directly Edit About Pages | Approve/Decline  Content Suggestions | Disable Suggestion Auto-approval | Auto-Approved Suggestions | Suggest Content |
-| eBird Hotspot Editors | X | X | X | X | X | X | X | X | X |
-| Accounts w/ Content Editing |  |  |  |  | X | X | X | X | X |
-| eBird Reviewers + Accounts w/ 100+ Complete Checklists in the Previous Calendar Year |  |  |  |  |  |  |  | X | X |
-| All eBirders |  |  |  |  |  |  |  |  | X |
+![](images/paste-25.png){fig-align="center"}

@@ -1,4 +1,4 @@
-### **Pending Suggestions**
+## **Pending Suggestions**
 
 **For pending (un-reviewed) suggestions**, tap “Details” to see what changed
 

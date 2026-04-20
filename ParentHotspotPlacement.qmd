@@ -1,4 +1,4 @@
-**Parent Hotspot Placement**
+## **Parent Hotspot Placement**
 
 We recommend placing the Parent hotspot at a central location away from more precisely placed hotspots. This helps to reduce site selection confusion and ensures eBird Mobile's "Recommended Location" algorithm only suggests the parent hotspot when a GPS track spans multiple sub-hotspots or covers the broader area. 
 

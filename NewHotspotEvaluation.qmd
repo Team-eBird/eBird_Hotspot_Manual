@@ -19,6 +19,6 @@
 
 If someone suggests the same Hotspot more than once, you will need to wait until the next day to review the others if you want to merge them. Likewise, if two users suggest the same location, review and accept one, then wait until the next day to review and merge the other.\
 \
-Pro Tip**:** If you accidentally accept two duplicate hotspots on the same day, add “(Merge)” to the name of one so you can easily find and correct it later. 
+**Pro Tip:** If you accidentally accept two duplicate hotspots on the same day, add “(Merge)” to the name of one so you can easily find and correct it later. 
 
 Submit Data and Hotspot editing maps are nearly live queries (every two hours), so the hotspot lists here will be almost current.

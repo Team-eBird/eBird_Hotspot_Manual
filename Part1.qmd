@@ -1,4 +1,4 @@
-## Part 1: How to Review and Edit Hotspots
+# Part 1: How to Review and Edit Hotspots
 
 -   [Overview](Overview.qmd)
 

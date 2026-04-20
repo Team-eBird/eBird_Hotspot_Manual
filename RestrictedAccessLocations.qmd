@@ -1,4 +1,4 @@
-### **Restricted Access Locations**
+## **Restricted Access Locations**
 
 Although hotspots should generally be accessible to the public, occasional locations are not open to the public but may be regularly birded by those who have been authorized to do so. It is still appropriate to list the location as a hotspot since it is desirable to pool the data from multiple observers. 
 

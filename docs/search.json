@@ -94,7 +94,7 @@
     "href": "AbbreviationsEnglish.html",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "Abbreviations (English)\n\nAvenue – Ave.\nConservation Area – CA\nCounty – Co.\nDepartment – Dept.\nHighway – Hwy.\n\nUnited States Highway 6 – US-6\nColorado Highway 8 – CO-8\nInterstate Highway 90 – I-90\nCounty Road 18 – CR-18\n\nImportant Bird Area – IBA\nKilometer – km\nMile marks – mm (e.g., I-90–mm92)\nMountain or Mount – Mt.\nNational Historic Site – NHS\nNational Park – NP \nNational Wildlife Refuge – NWR\nNatural Area – NA\nNational Monument – NM\nPoint – Pt. (do not use this for Port)\nRoad – Rd. \nSaint – St\nState Park – SP\nStreet – St.\nTownship – Twp.\nWildlife Area – WA\nWildlife Management Area – WMA\nWastewater Treatment Plant, Water Treatment Plant, or Sewage Plant – WTP\n\n*Special note for Wastewater Treatment Plants, which may have different terminology in different regions. Water Treatment Plant, Sewage Ponds, Sewage Lagoons, Sewage Treatment Plant etc. all refer to basically the same type of site (which of course are almost always hot spots for birds!). In the interest of standardization, we recommend using WTP wherever possible. If a certain site is widely known as Sewage Treatment Plant and using WTP would create confusion, it is permissible to spell those out; do not use STP or WWTP.",
+    "text": "Avenue – Ave.\nConservation Area – CA\nCounty – Co.\nDepartment – Dept.\nHighway – Hwy.\n\nUnited States Highway 6 – US-6\nColorado Highway 8 – CO-8\nInterstate Highway 90 – I-90\nCounty Road 18 – CR-18\n\nImportant Bird Area – IBA\nKilometer – km\nMile marks – mm (e.g., I-90–mm92)\nMountain or Mount – Mt.\nNational Historic Site – NHS\nNational Park – NP \nNational Wildlife Refuge – NWR\nNatural Area – NA\nNational Monument – NM\nPoint – Pt. (do not use this for Port)\nRoad – Rd. \nSaint – St\nState Park – SP\nStreet – St.\nTownship – Twp.\nWildlife Area – WA\nWildlife Management Area – WMA\nWastewater Treatment Plant, Water Treatment Plant, or Sewage Plant – WTP\n\n*Special note for Wastewater Treatment Plants, which may have different terminology in different regions. Water Treatment Plant, Sewage Ponds, Sewage Lagoons, Sewage Treatment Plant etc. all refer to basically the same type of site (which of course are almost always hot spots for birds!). In the interest of standardization, we recommend using WTP wherever possible. If a certain site is widely known as Sewage Treatment Plant and using WTP would create confusion, it is permissible to spell those out; do not use STP or WWTP.",
     "crumbs": [
       "Part 4: Standards and Naming Conventions for eBird Hotspots",
       "Additional Modifiers",
@@ -128,7 +128,7 @@
     "href": "Towns.html",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "Towns\nIn addition, in some parts of the world (e.g., western USA) it is common to go birding in small towns because the trees around town provide oasis-like habitat for migrants and vagrants. In these cases, please add “town” English), “pueblo” (Spanish), or an equivalent in parentheses after the hotspot name so that it is clear that the hotspot refers to birding in town. Do not do this for larger cities and towns, since this is intended only when a town area is fairly small and is typically covered by birding the semi-urban or suburban area on foot as a discrete habitat. (Despite the guidance above, in some cases, sub-hotspots would be appropriate when considering the town as an appropriately-sized parent hotspot.)\n\nExamples: \n\nCampo (town)\nPunta Banda (pueblo)\nRossport (town site)",
+    "text": "In addition, in some parts of the world (e.g., western USA) it is common to go birding in small towns because the trees around town provide oasis-like habitat for migrants and vagrants. In these cases, please add “town” English), “pueblo” (Spanish), or an equivalent in parentheses after the hotspot name so that it is clear that the hotspot refers to birding in town. Do not do this for larger cities and towns, since this is intended only when a town area is fairly small and is typically covered by birding the semi-urban or suburban area on foot as a discrete habitat. (Despite the guidance above, in some cases, sub-hotspots would be appropriate when considering the town as an appropriately-sized parent hotspot.)\n\nExamples: \n\nCampo (town)\nPunta Banda (pueblo)\nRossport (town site)",
     "crumbs": [
       "Part 4: Standards and Naming Conventions for eBird Hotspots",
       "Additional Modifiers",
@@ -140,7 +140,7 @@
     "href": "StakeoutHotspots.html",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "Stakeout Hotspots\nA single out-of-range rarity often generates a large amount of attention from birders. When such a bird occurs at a new site (i.e., not at an already-established hotspot) it is good practice to quickly set up a “stakeout” hotspot to give eBirders an accurate and consistent location to use when they visit. Please encourage those who “chase” these rarities to use the hotspot rather than creating their own location. These hotspots should be retained even after the bird has departed so that new eBird users can enter past rarities.\nOur conventions for “stakeout hotspots” are:\n\nPlot the point as precisely as possible in relation to where the rarity is being seen\nAlways begin with “stakeout” in lowercase \nNext, include the common name of the bird in the local language\nNext, include a geographical identifier; this can be the town, a well-known road, or other feature that will distinguish this hotspot from others for the same species in the region. \nDo not include county, state, or country, since these are automatically added by eBird. \nFinally, include the date range when the bird was seen; for ongoing rarities, these names may need to be edited in real time if the rare bird persists for months or years\n\n\n\nExamples:\n\nstakeout Black-throated Gray Warbler, 103 James H. Luther Dr., Taunton (Jan 2013)\nstakeout Black-throated Sparrow, Elora (2005-06)\nstakeout Eurasian Blackcap, Durbanville (Jul 2017)",
+    "text": "A single out-of-range rarity often generates a large amount of attention from birders. When such a bird occurs at a new site (i.e., not at an already-established hotspot) it is good practice to quickly set up a “stakeout” hotspot to give eBirders an accurate and consistent location to use when they visit. Please encourage those who “chase” these rarities to use the hotspot rather than creating their own location. These hotspots should be retained even after the bird has departed so that new eBird users can enter past rarities.\nOur conventions for “stakeout hotspots” are:\n\nPlot the point as precisely as possible in relation to where the rarity is being seen\nAlways begin with “stakeout” in lowercase \nNext, include the common name of the bird in the local language\nNext, include a geographical identifier; this can be the town, a well-known road, or other feature that will distinguish this hotspot from others for the same species in the region. \nDo not include county, state, or country, since these are automatically added by eBird. \nFinally, include the date range when the bird was seen; for ongoing rarities, these names may need to be edited in real time if the rare bird persists for months or years\n\n\n\nExamples:\n\nstakeout Black-throated Gray Warbler, 103 James H. Luther Dr., Taunton (Jan 2013)\nstakeout Black-throated Sparrow, Elora (2005-06)\nstakeout Eurasian Blackcap, Durbanville (Jul 2017)",
     "crumbs": [
       "Part 4: Standards and Naming Conventions for eBird Hotspots",
       "Additional Modifiers",
@@ -152,7 +152,7 @@
     "href": "Reviewedsuggestions.html",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "Reviewed Suggestions\nAfter tapping Accept or Decline, the suggestion will move to the “Reviewed” tab. The Details here will show you who made the suggestion and when, whether it was Accepted or Declined, and who reviewed it. \n\neBird Hotspot Administrator\nAny suggestion accepted by “eBird Hotspot Administrator” is an Auto-approved suggestion—i.e., the person who made the suggestion is either an eBird Reviewer/Hotspot Editor OR they submitted &gt;100+ complete eBird checklists in the previous calendar year.",
+    "text": "After tapping Accept or Decline, the suggestion will move to the “Reviewed” tab. The Details here will show you who made the suggestion and when, whether it was Accepted or Declined, and who reviewed it. \n\neBird Hotspot Administrator\nAny suggestion accepted by “eBird Hotspot Administrator” is an Auto-approved suggestion—i.e., the person who made the suggestion is either an eBird Reviewer/Hotspot Editor OR they submitted &gt;100+ complete eBird checklists in the previous calendar year.",
     "crumbs": [
       "Part 2: Hotspot Content",
       "Reviewing Content Suggestions",
@@ -164,11 +164,11 @@
     "href": "PrivacyConcerns.html",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "Privacy concerns\nOn rare occasions a rarity may appear on private land but access will be controlled so as to respect the wishes of the property owner. In such cases, the stakeout hotspot should be plotted some distance away from the actual location in a public area and ideally the name should indicate that the location plot is intentionally inaccurate and that the access is restricted. Ideally, once the bird of interest has departed, the hotspot can be moved to the correct location.",
+    "text": "On rare occasions a rarity may appear on private land but access will be controlled so as to respect the wishes of the property owner. In such cases, the stakeout hotspot should be plotted some distance away from the actual location in a public area and ideally the name should indicate that the location plot is intentionally inaccurate and that the access is restricted. Ideally, once the bird of interest has departed, the hotspot can be moved to the correct location.",
     "crumbs": [
       "Part 4: Standards and Naming Conventions for eBird Hotspots",
       "Additional Modifiers",
-      "Privacy concerns"
+      "Privacy Concerns"
     ]
   },
   {
@@ -176,7 +176,7 @@
     "href": "Pendingsuggestions.html",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "Pending Suggestions\nFor pending (un-reviewed) suggestions, tap “Details” to see what changed\n\nAccept: anything in GREEN will be added to the Hotspot About page\nDecline: anything in RED will be removed from the Hotspot About page\nClose: hide details without acting on them\n\nWARNING: “Details” shows how the suggested changes will impact the current About page. If the underlying About content has changed since the suggestion was made, the comparison shows what will actually change (not necessarily what the suggester saw at the time of their revisions). \nhighlights differences between the suggested revisions and the page at the time the suggestion was made, NOT the current About page. This means if you Accept more recent pending suggestions, earlier pending suggestions may no longer apply (i.e., the text being changed may no longer exist on the page) We recommend quickly scanning the Details of all pending suggestions for a single hotspot before Accepting any of them.\n(!) eBird Hotspot Editors can see the personal account details for the eBirder who made the suggestion, including contact details. People with content editing permissions can only see the name of the person who made the suggestion, with a link to their eBird profile if public. \n\n\n\n\n\nSwitch between suggestions for a single hotspot and all hotspots. You can also filter pending suggestions by language",
+    "text": "For pending (un-reviewed) suggestions, tap “Details” to see what changed\n\nAccept: anything in GREEN will be added to the Hotspot About page\nDecline: anything in RED will be removed from the Hotspot About page\nClose: hide details without acting on them\n\nWARNING: “Details” shows how the suggested changes will impact the current About page. If the underlying About content has changed since the suggestion was made, the comparison shows what will actually change (not necessarily what the suggester saw at the time of their revisions). \nhighlights differences between the suggested revisions and the page at the time the suggestion was made, NOT the current About page. This means if you Accept more recent pending suggestions, earlier pending suggestions may no longer apply (i.e., the text being changed may no longer exist on the page) We recommend quickly scanning the Details of all pending suggestions for a single hotspot before Accepting any of them.\n(!) eBird Hotspot Editors can see the personal account details for the eBirder who made the suggestion, including contact details. People with content editing permissions can only see the name of the person who made the suggestion, with a link to their eBird profile if public. \n\n\n\n\n\nSwitch between suggestions for a single hotspot and all hotspots. You can also filter pending suggestions by language",
     "crumbs": [
       "Part 2: Hotspot Content",
       "Reviewing Content Suggestions",
@@ -186,9 +186,9 @@
   {
     "objectID": "Part4.html",
     "href": "Part4.html",
-    "title": "eBird Hotspot Manual",
+    "title": "Part 4: Standards and Naming Conventions for eBird Hotspots",
     "section": "",
-    "text": "When approving new hotspots and reviewing current hotspots, try to use names that conform to the naming conventions described below. Consistent naming helps users find the correct hotspot when using the mapping tool to submit a checklist, as well as when selecting hotspots from drop-down lists. Searching for output based on hotspot names is also easier when the naming conforms to consistent standards.\nIt’s also helpful to keep in mind how eBird uses and displays hotspot names. For example, most eBird output (e.g., Hotspot Explorer, Region Explorer) includes the hotspots in geographical context, and when the name of the site is listed, it includes the county, state, and country. Therefore, it is not necessary to include the name of the county, state, province, or country in the hotspot name unless it is needed for clarity. \nHotspot names should generally use the formal, official name of the park, forest, wildlife area, or some other geographic identifier—if there is one. It is generally not good practice to name hotspots for birds that might be seen there or for habitat that may not persist over time, although there may be sites for specific species that do merit a hotspot named for the species of bird. A notable exception is for “stakeout” rarities, which have a special section (Stakeout Hotspots) below.",
+    "text": "When approving new hotspots and reviewing current hotspots, try to use names that conform to the naming conventions described below. Consistent naming helps users find the correct hotspot when using the mapping tool to submit a checklist, as well as when selecting hotspots from drop-down lists. Searching for output based on hotspot names is also easier when the naming conforms to consistent standards.\nIt’s also helpful to keep in mind how eBird uses and displays hotspot names. For example, most eBird output (e.g., Hotspot Explorer, Region Explorer) includes the hotspots in geographical context, and when the name of the site is listed, it includes the county, state, and country. Therefore, it is not necessary to include the name of the county, state, province, or country in the hotspot name unless it is needed for clarity. \nHotspot names should generally use the formal, official name of the park, forest, wildlife area, or some other geographic identifier—if there is one. It is generally not good practice to name hotspots for birds that might be seen there or for habitat that may not persist over time, although there may be sites for specific species that do merit a hotspot named for the species of bird. A notable exception is for “stakeout” rarities, which have a special section (Stakeout Hotspots) below.\n\n\n\nCapitalization\nLanguage\nHotspot Definitions and Hierarchy\nHotspot Naming-Groups\nNaming Hotspots Along Linear Routes\n\nBirding Trails\n\nAdditional Modifiers\n\nTowns\nAbbreviations (English)\nAbbreviations (Spanish)\nAbbreviations (French)\nRestricted Access Locations\nHistorical Locations\nStakeout Hotspots\nPelagic Hotspots\nPrivacy concerns\nBirdcam hotspots\nMiscellaneous Hotspot Naming Conventions\n\nDownloadable Hotspot file through the Hotspot API\n\nView the Hotspot API file in Google Earth",
     "crumbs": [
       "Part 4: Standards and Naming Conventions for eBird Hotspots"
     ]
@@ -206,9 +206,9 @@
   {
     "objectID": "Part4.html#table-of-contents",
     "href": "Part4.html#table-of-contents",
-    "title": "eBird Hotspot Manual",
-    "section": "Table of Contents:",
-    "text": "Table of Contents:\n\nCapitalization\nLanguage\nHotspot Definitions and Hierarchy\nHotspot Naming-Groups\nNaming Hotspots Along Linear Routes\n\nBirding Trails\n\nAdditional Modifiers\n\nTowns\nAbbreviations (English)\nAbbreviations (Spanish)\nAbbreviations (French)\nRestricted Access Locations\nHistorical Locations\nStakeout Hotspots\nPelagic Hotspots\nPrivacy concerns\nBirdcam hotspots\nMiscellaneous Hotspot Naming Conventions\n\nDownloadable Hotspot file through the Hotspot API\n\nView the Hotspot API file in Google Earth",
+    "title": "Part 4: Standards and Naming Conventions for eBird Hotspots",
+    "section": "",
+    "text": "Capitalization\nLanguage\nHotspot Definitions and Hierarchy\nHotspot Naming-Groups\nNaming Hotspots Along Linear Routes\n\nBirding Trails\n\nAdditional Modifiers\n\nTowns\nAbbreviations (English)\nAbbreviations (Spanish)\nAbbreviations (French)\nRestricted Access Locations\nHistorical Locations\nStakeout Hotspots\nPelagic Hotspots\nPrivacy concerns\nBirdcam hotspots\nMiscellaneous Hotspot Naming Conventions\n\nDownloadable Hotspot file through the Hotspot API\n\nView the Hotspot API file in Google Earth",
     "crumbs": [
       "Part 4: Standards and Naming Conventions for eBird Hotspots"
     ]
@@ -216,9 +216,9 @@
   {
     "objectID": "Part2.html",
     "href": "Part2.html",
-    "title": "eBird Hotspot Manual",
+    "title": "Part 2: Hotspot Content",
     "section": "",
-    "text": "Content Permissions\n\nAssigning Content Editing Permissions\n\nHotspot Content\n\nManaging Languages\nLinks\nContent Edit History\nAuto-Approval\n\nReviewing Content Suggestions\n\nPending Suggestions\nReviewed Suggestions\n\nHotspot Content FAQs",
+    "text": "Part 2: Hotspot Content\n\nContent Permissions\n\nAssigning Content Editing Permissions\n\nHotspot Content\n\nManaging Languages\nLinks\nContent Edit History\nAuto-Approval\n\nReviewing Content Suggestions\n\nPending Suggestions\nReviewed Suggestions\n\nHotspot Content FAQs",
     "crumbs": [
       "Part 2: Hotspot Content"
     ]
@@ -260,7 +260,12 @@
     "href": "ParentHotspotContent.html",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "Parent Hotspot Content\n\nAbout Sections\nAn excerpt of the parent location’s About content appears on each sub-hotspot page. Use the About sections on the parent hotspot to describe information that applies to every hotspot in the group, such as hours, fees, and stewardship details.\n\n\n\nFeatures\nFeatures are unique to each individual hotspot. Use the Parent hotspot’s Features to indicate things that are generally true for the entire area. For example, if at least one hotspot in the group has a public bathroom, select ‘Yes’ for Restrooms on the Parent hotspot. Then select ‘Yes’ or ‘No’ on individual sub-hotspots based on whether that specific site has a bathroom."
+    "text": "An excerpt of the parent location’s About content appears on each sub-hotspot page. Use the About sections on the parent hotspot to describe information that applies to every hotspot in the group, such as hours, fees, and stewardship details.\n\n\n\n\nFeatures are unique to each individual hotspot. Use the Parent hotspot’s Features to indicate things that are generally true for the entire area. For example, if at least one hotspot in the group has a public bathroom, select ‘Yes’ for Restrooms on the Parent hotspot. Then select ‘Yes’ or ‘No’ on individual sub-hotspots based on whether that specific site has a bathroom.",
+    "crumbs": [
+      "Part 3: Hotspot Groups",
+      "Parent Hotspots",
+      "Parent Hotspot Content"
+    ]
   },
   {
     "objectID": "NewHotspotEvaluation.html",
@@ -289,7 +294,7 @@
     "href": "Multi-RegionHotspotGroups.html",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "Yes! Hotspot groups can cross geopolitical boundaries. This does not mean an individual checklist will appear in multiple counties. \n\n\n\nParent hotspots display checklist activity from all sub-locations in the group. If the group covers multiple regions, data from multiple counties could appear on the parent hotspot page. This does NOT feed into greater county, state/province, or country-level data. Each hotspot counts toward only one county, one state/province, and one country’s birding activity. Individual hotspots only contribute data to the regions where they are located.\n\nIn the example Hotspot Group above, only checklists submitted to hotspots in Region A or submitted directly to the parent location will appear in Region A stats. Checklists from hotspots in Region B will also appear on the parent location page, but only count towards Region B stats. \n\n\n\nWe understand that reviewers may hesitate to create groups where the parent hotspot aggregates data from multiple regions, as it could inadvertently lead to data from one county being submitted to a parent location in another county. If you have concerns about this, please see our guidance below. \n\n\nFor hotspot groups that cross borders because they cover large areas (e.g., national parks, wildlife refuges), we are implementing a special “large area process”: any hotspot group with a bounding area greater than 80km2 will be designated a List Building Location (see above). \n\n\n\nHotspot groups &lt;80km2 can still span multiple geopolitical regions. Common examples include bridges or dams that cross borders along rivers. \nWhen the same habitats exist on both sides of a geopolitical border (e.g., a road or arbitrary line cutting through a forest), the birds found on either side should be very similar—it would be hard to tell from a single checklist which side of the border the observer was on if you didn’t know the exact location. \nConversely, when geopolitical boundaries follow strong ecological boundaries (e.g., Pima and Santa Cruz counties in Madera Canyon) the species lists of two hotspots just across the border from each other might be dramatically different—it’s easy to tell which side a checklist came from. \nWhen people submit checklists directly to the parent hotspot of a group, their observations will “roll up” into the county, state/province, and country where the parent hotspot is located. (Note: it is almost never best practice to submit to a parent hotspot, since finer-scale locations are always preferable)\nSo, if the main goal is maintaining accurate regional data, the key question is: will creating a Hotspot Group (under 80km²) clearly disrupt regional data where the parent hotspot is located? \nConsider these questions:\n\nDo most birds cross freely from one side of the border to the other?\nCould you tell which side of the border a checklist was from simply by looking at the species list and counts? \nDo the habitat conditions found on one side also exist in the other county, and vice versa?\nAre species lists, high counts, and arrival/departure dates generally similar on each side of the border?\n\nIf you answered “Yes” to these questions—assuming all other hotspot group criteria are met—then a multi-region hotspot group shouldn’t cause meaningful regional data problems. (Very long traveling checklists can still cause regional data problems, so continue to be vigilant for those!)",
+    "text": "Yes! Hotspot groups can cross geopolitical boundaries. This does not mean an individual checklist will appear in multiple counties. \n\n\n\nParent hotspots display checklist activity from all sub-locations in the group. If the group covers multiple regions, data from multiple counties could appear on the parent hotspot page. This does NOT feed into greater county, state/province, or country-level data. Each hotspot counts toward only one county, one state/province, and one country’s birding activity. Individual hotspots only contribute data to the regions where they are located.\n\nIn the example Hotspot Group above, only checklists submitted to hotspots in Region A or submitted directly to the parent location will appear in Region A stats. Checklists from hotspots in Region B will also appear on the parent location page, but only count towards Region B stats. \n\n\n\nWe understand that reviewers may hesitate to create groups where the parent hotspot aggregates data from multiple regions, as it could inadvertently lead to data from one county being submitted to a parent location in another county. If you have concerns about this, please see our guidance below. \n\n\n\nFor hotspot groups that cross borders because they cover large areas (e.g., national parks, wildlife refuges), we are implementing a special “large area process”: any hotspot group with a bounding area greater than 80km2 will be designated a List Building Location (see above). \n\n\n\nHotspot groups &lt;80km2 can still span multiple geopolitical regions. Common examples include bridges or dams that cross borders along rivers. \nWhen the same habitats exist on both sides of a geopolitical border (e.g., a road or arbitrary line cutting through a forest), the birds found on either side should be very similar—it would be hard to tell from a single checklist which side of the border the observer was on if you didn’t know the exact location. \nConversely, when geopolitical boundaries follow strong ecological boundaries (e.g., Pima and Santa Cruz counties in Madera Canyon) the species lists of two hotspots just across the border from each other might be dramatically different—it’s easy to tell which side a checklist came from. \nWhen people submit checklists directly to the parent hotspot of a group, their observations will “roll up” into the county, state/province, and country where the parent hotspot is located. (Note: it is almost never best practice to submit to a parent hotspot, since finer-scale locations are always preferable)\nSo, if the main goal is maintaining accurate regional data, the key question is: will creating a Hotspot Group (under 80km²) clearly disrupt regional data where the parent hotspot is located? \n\n\n\n\nDo most birds cross freely from one side of the border to the other?\nCould you tell which side of the border a checklist was from simply by looking at the species list and counts? \nDo the habitat conditions found on one side also exist in the other county, and vice versa?\nAre species lists, high counts, and arrival/departure dates generally similar on each side of the border?\n\nIf you answered “Yes” to these questions—assuming all other hotspot group criteria are met—then a multi-region hotspot group shouldn’t cause meaningful regional data problems. (Very long traveling checklists can still cause regional data problems, so continue to be vigilant for those!)",
     "crumbs": [
       "Part 3: Hotspot Groups",
       "Multi-Region Hotspot Groups"
@@ -300,7 +305,7 @@
     "href": "Multi-RegionHotspotGroups.html#multi-region-hotspot-groups",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "Yes! Hotspot groups can cross geopolitical boundaries. This does not mean an individual checklist will appear in multiple counties. \n\n\n\nParent hotspots display checklist activity from all sub-locations in the group. If the group covers multiple regions, data from multiple counties could appear on the parent hotspot page. This does NOT feed into greater county, state/province, or country-level data. Each hotspot counts toward only one county, one state/province, and one country’s birding activity. Individual hotspots only contribute data to the regions where they are located.\n\nIn the example Hotspot Group above, only checklists submitted to hotspots in Region A or submitted directly to the parent location will appear in Region A stats. Checklists from hotspots in Region B will also appear on the parent location page, but only count towards Region B stats. \n\n\n\nWe understand that reviewers may hesitate to create groups where the parent hotspot aggregates data from multiple regions, as it could inadvertently lead to data from one county being submitted to a parent location in another county. If you have concerns about this, please see our guidance below. \n\n\nFor hotspot groups that cross borders because they cover large areas (e.g., national parks, wildlife refuges), we are implementing a special “large area process”: any hotspot group with a bounding area greater than 80km2 will be designated a List Building Location (see above). \n\n\n\nHotspot groups &lt;80km2 can still span multiple geopolitical regions. Common examples include bridges or dams that cross borders along rivers. \nWhen the same habitats exist on both sides of a geopolitical border (e.g., a road or arbitrary line cutting through a forest), the birds found on either side should be very similar—it would be hard to tell from a single checklist which side of the border the observer was on if you didn’t know the exact location. \nConversely, when geopolitical boundaries follow strong ecological boundaries (e.g., Pima and Santa Cruz counties in Madera Canyon) the species lists of two hotspots just across the border from each other might be dramatically different—it’s easy to tell which side a checklist came from. \nWhen people submit checklists directly to the parent hotspot of a group, their observations will “roll up” into the county, state/province, and country where the parent hotspot is located. (Note: it is almost never best practice to submit to a parent hotspot, since finer-scale locations are always preferable)\nSo, if the main goal is maintaining accurate regional data, the key question is: will creating a Hotspot Group (under 80km²) clearly disrupt regional data where the parent hotspot is located? \nConsider these questions:\n\nDo most birds cross freely from one side of the border to the other?\nCould you tell which side of the border a checklist was from simply by looking at the species list and counts? \nDo the habitat conditions found on one side also exist in the other county, and vice versa?\nAre species lists, high counts, and arrival/departure dates generally similar on each side of the border?\n\nIf you answered “Yes” to these questions—assuming all other hotspot group criteria are met—then a multi-region hotspot group shouldn’t cause meaningful regional data problems. (Very long traveling checklists can still cause regional data problems, so continue to be vigilant for those!)",
+    "text": "Yes! Hotspot groups can cross geopolitical boundaries. This does not mean an individual checklist will appear in multiple counties. \n\n\n\nParent hotspots display checklist activity from all sub-locations in the group. If the group covers multiple regions, data from multiple counties could appear on the parent hotspot page. This does NOT feed into greater county, state/province, or country-level data. Each hotspot counts toward only one county, one state/province, and one country’s birding activity. Individual hotspots only contribute data to the regions where they are located.\n\nIn the example Hotspot Group above, only checklists submitted to hotspots in Region A or submitted directly to the parent location will appear in Region A stats. Checklists from hotspots in Region B will also appear on the parent location page, but only count towards Region B stats. \n\n\n\nWe understand that reviewers may hesitate to create groups where the parent hotspot aggregates data from multiple regions, as it could inadvertently lead to data from one county being submitted to a parent location in another county. If you have concerns about this, please see our guidance below. \n\n\n\nFor hotspot groups that cross borders because they cover large areas (e.g., national parks, wildlife refuges), we are implementing a special “large area process”: any hotspot group with a bounding area greater than 80km2 will be designated a List Building Location (see above). \n\n\n\nHotspot groups &lt;80km2 can still span multiple geopolitical regions. Common examples include bridges or dams that cross borders along rivers. \nWhen the same habitats exist on both sides of a geopolitical border (e.g., a road or arbitrary line cutting through a forest), the birds found on either side should be very similar—it would be hard to tell from a single checklist which side of the border the observer was on if you didn’t know the exact location. \nConversely, when geopolitical boundaries follow strong ecological boundaries (e.g., Pima and Santa Cruz counties in Madera Canyon) the species lists of two hotspots just across the border from each other might be dramatically different—it’s easy to tell which side a checklist came from. \nWhen people submit checklists directly to the parent hotspot of a group, their observations will “roll up” into the county, state/province, and country where the parent hotspot is located. (Note: it is almost never best practice to submit to a parent hotspot, since finer-scale locations are always preferable)\nSo, if the main goal is maintaining accurate regional data, the key question is: will creating a Hotspot Group (under 80km²) clearly disrupt regional data where the parent hotspot is located? \n\n\n\n\nDo most birds cross freely from one side of the border to the other?\nCould you tell which side of the border a checklist was from simply by looking at the species list and counts? \nDo the habitat conditions found on one side also exist in the other county, and vice versa?\nAre species lists, high counts, and arrival/departure dates generally similar on each side of the border?\n\nIf you answered “Yes” to these questions—assuming all other hotspot group criteria are met—then a multi-region hotspot group shouldn’t cause meaningful regional data problems. (Very long traveling checklists can still cause regional data problems, so continue to be vigilant for those!)",
     "crumbs": [
       "Part 3: Hotspot Groups",
       "Multi-Region Hotspot Groups"
@@ -333,7 +338,12 @@
     "href": "List-buildingParentHotspots.html",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "List-building Parent Hotspots (Very Large Areas)\nIn Hotspot Groups, the Parent hotspot represents the entire area covered by the group. However, some areas are so large that the Parent hotspot carries too much spatial uncertainty to be useful for scientific analyses. \nFor example, Yellowstone National Park covers 13,000 square miles (33,670 square km) and spans four US states. Any checklist assigned to the “Yellowstone National Park (general area)” hotspot lacks the spatial precision needed for eBird Status and Trends models.\nCurrently, when a traveling checklist covers a distance of 50 mi (80 km) or more, we automatically mark it Not Public. \nWhen the area within the bounding box of the group covers 80 km2 or more…\nThe Parent hotspot will not appear as a Recommended Location for eBird Mobile checklists and cannot be selected from the map when submitting eBird Mobile checklists (the parent location will still appear on eBird Mobile Explore). \nWe recommend marking any checklist submitted to a List-building Parent hotspot ‘Not Public’ with the reason “Checklist-List Building”"
+    "text": "In Hotspot Groups, the Parent hotspot represents the entire area covered by the group. However, some areas are so large that the Parent hotspot carries too much spatial uncertainty to be useful for scientific analyses. \nFor example, Yellowstone National Park covers 13,000 square miles (33,670 square km) and spans four US states. Any checklist assigned to the “Yellowstone National Park (general area)” hotspot lacks the spatial precision needed for eBird Status and Trends models.\nCurrently, when a traveling checklist covers a distance of 50 mi (80 km) or more, we automatically mark it Not Public. \nWhen the area within the bounding box of the group covers 80 km2 or more…\nThe Parent hotspot will not appear as a Recommended Location for eBird Mobile checklists and cannot be selected from the map when submitting eBird Mobile checklists (the parent location will still appear on eBird Mobile Explore). \nWe recommend marking any checklist submitted to a List-building Parent hotspot ‘Not Public’ with the reason “Checklist-List Building”",
+    "crumbs": [
+      "Part 3: Hotspot Groups",
+      "Parent Hotspots",
+      "List-building Parent Hotspots"
+    ]
   },
   {
     "objectID": "LinearRoutes.html",
@@ -395,7 +405,7 @@
     "text": "The eBird Basic Dataset (EBD) and Sampling Event Dataset (SED) provide data at the observation and checklist level, respectively. Because each checklist is associated with one specific location, Hotspot groups don’t affect how data appears in the EBD and SED. \nThe location information you’ll see depends on where the checklist was submitted:\n\nChecklist submitted to parent hotspot: The ‘LOCALITY’ and ‘LOCALITY ID’ fields show the parent hotspot name and ID\nChecklist submitted to sub-hotspot in group: The ‘LOCALITY’ and ‘LOCALITY ID’ fields show only that specific sub-hotspot—no parent or group information is included",
     "crumbs": [
       "Part 3: Hotspot Groups",
-      "HotspotGroupFAQs"
+      "Hotspot Group FAQs"
     ]
   },
   {
@@ -406,7 +416,7 @@
     "text": "The eBird Basic Dataset (EBD) and Sampling Event Dataset (SED) provide data at the observation and checklist level, respectively. Because each checklist is associated with one specific location, Hotspot groups don’t affect how data appears in the EBD and SED. \nThe location information you’ll see depends on where the checklist was submitted:\n\nChecklist submitted to parent hotspot: The ‘LOCALITY’ and ‘LOCALITY ID’ fields show the parent hotspot name and ID\nChecklist submitted to sub-hotspot in group: The ‘LOCALITY’ and ‘LOCALITY ID’ fields show only that specific sub-hotspot—no parent or group information is included",
     "crumbs": [
       "Part 3: Hotspot Groups",
-      "HotspotGroupFAQs"
+      "Hotspot Group FAQs"
     ]
   },
   {
@@ -436,7 +446,7 @@
     "href": "HistoricalLocations.html",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "Historical Locations\nIn rare cases, it can be helpful to create hotspots for sites that no longer exist. In such cases, a parenthetical note should make it clear that the described location is historical. If applicable, it may be helpful to add “before YYYY” in the parenthetical to indicate the time period that the site existed as a hotspot.\n\nExamples:\n\nAl Ain Camel Racetrack (historical)\nLuckett Rd. pond (historical)",
+    "text": "In rare cases, it can be helpful to create hotspots for sites that no longer exist. In such cases, a parenthetical note should make it clear that the described location is historical. If applicable, it may be helpful to add “before YYYY” in the parenthetical to indicate the time period that the site existed as a hotspot.\n\nExamples:\n\nAl Ain Camel Racetrack (historical)\nLuckett Rd. pond (historical)",
     "crumbs": [
       "Part 4: Standards and Naming Conventions for eBird Hotspots",
       "Additional Modifiers",
@@ -470,14 +480,19 @@
     "href": "DataAggregation.html",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "Data Aggregation\nParent locations aggregate data across all hotspots in the group. Statistics for a parent location represent the entire group’s combined data, including public checklists submitted to the parent.\nThe parent hotspot page functions as the group overview, summarizing checklist submission across all hotspots in the group. Likewise, the leaderboard shows top contributors based on combined activity across all hotspots.\nThis aggregation encourages greater location precision. You can now submit separate checklists to each hotspot and still have your activity count toward the cumulative Top 100 for the entire area.\nThis technical framework may also allow us to eventually aggregate personal locations into hotspot summaries in the future (but not any time soon).\nNote on Bar Charts: Bar Charts for the parent location will display aggregated frequency data, histograms, and chart data for the entire group. To obtain Bar Chart data for the parent hotspot ONLY, add &aggregateHotspots=false to the end of the Bar Chart web address."
+    "text": "Parent locations aggregate data across all hotspots in the group. Statistics for a parent location represent the entire group’s combined data, including public checklists submitted to the parent.\nThe parent hotspot page functions as the group overview, summarizing checklist submission across all hotspots in the group. Likewise, the leaderboard shows top contributors based on combined activity across all hotspots.\nThis aggregation encourages greater location precision. You can now submit separate checklists to each hotspot and still have your activity count toward the cumulative Top 100 for the entire area.\nThis technical framework may also allow us to eventually aggregate personal locations into hotspot summaries in the future (but not any time soon).\nNote on Bar Charts: Bar Charts for the parent location will display aggregated frequency data, histograms, and chart data for the entire group. To obtain Bar Chart data for the parent hotspot ONLY, add &aggregateHotspots=false to the end of the Bar Chart web address.",
+    "crumbs": [
+      "Part 3: Hotspot Groups",
+      "Parent Hotspots",
+      "Data Aggregation"
+    ]
   },
   {
     "objectID": "ContentPermissions.html",
     "href": "ContentPermissions.html",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "All eBirders: Can suggest new content or changes to existing content\neBird Reviewers AND eBirders with 100+ complete checklists in the previous calendar year: Content suggestions are automatically approved (except for sites with Auto-approval turned “Off”)\nAccounts with Content Editing permissions: All of the above, plus the ability to:\n\nApprove/Decline pending content suggestions\nView content suggestion history\nDirectly edit About pages (including adding links)\nDisable suggestion Auto-approval on individual hotspots\n\neBird Hotspot Editors: All of the above, plus:\n\nApprove new Hotspots\nRename, move, merge, and demote existing hotspots\nCreate or edit Hotspot Groups\nGrant content editing permissions (to any subregion(s) within their assigned hotspot region)\n\n\nAdditional content editing permissions can be granted to accounts to assist with content management. \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nApprove New Hotspots\nRename, Move, Merge Existing Hotspots\nCreate Hotspot Groups\nGrant Content Editing Permissions\nDirectly Edit About Pages\nApprove/Decline  Content Suggestions\nDisable Suggestion Auto-approval\nAuto-Approved Suggestions\nSuggest Content\n\n\neBird Hotspot Editors\nX\nX\nX\nX\nX\nX\nX\nX\nX\n\n\nAccounts w/ Content Editing\n\n\n\n\nX\nX\nX\nX\nX\n\n\neBird Reviewers + Accounts w/ 100+ Complete Checklists in the Previous Calendar Year\n\n\n\n\n\n\n\nX\nX\n\n\nAll eBirders\n\n\n\n\n\n\n\n\nX",
+    "text": "All eBirders: Can suggest new content or changes to existing content\neBird Reviewers AND eBirders with 100+ complete checklists in the previous calendar year: Content suggestions are automatically approved (except for sites with Auto-approval turned “Off”)\nAccounts with Content Editing permissions: All of the above, plus the ability to:\n\nApprove/Decline pending content suggestions\nView content suggestion history\nDirectly edit About pages (including adding links)\nDisable suggestion Auto-approval on individual hotspots\n\neBird Hotspot Editors: All of the above, plus:\n\nApprove new Hotspots\nRename, move, merge, and demote existing hotspots\nCreate or edit Hotspot Groups\nGrant content editing permissions (to any subregion(s) within their assigned hotspot region)\n\n\nAdditional content editing permissions can be granted to accounts to assist with content management.",
     "crumbs": [
       "Part 2: Hotspot Content",
       "Content Permissions"
@@ -488,7 +503,7 @@
     "href": "ContentPermissions.html#content-permissions",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "All eBirders: Can suggest new content or changes to existing content\neBird Reviewers AND eBirders with 100+ complete checklists in the previous calendar year: Content suggestions are automatically approved (except for sites with Auto-approval turned “Off”)\nAccounts with Content Editing permissions: All of the above, plus the ability to:\n\nApprove/Decline pending content suggestions\nView content suggestion history\nDirectly edit About pages (including adding links)\nDisable suggestion Auto-approval on individual hotspots\n\neBird Hotspot Editors: All of the above, plus:\n\nApprove new Hotspots\nRename, move, merge, and demote existing hotspots\nCreate or edit Hotspot Groups\nGrant content editing permissions (to any subregion(s) within their assigned hotspot region)\n\n\nAdditional content editing permissions can be granted to accounts to assist with content management. \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nApprove New Hotspots\nRename, Move, Merge Existing Hotspots\nCreate Hotspot Groups\nGrant Content Editing Permissions\nDirectly Edit About Pages\nApprove/Decline  Content Suggestions\nDisable Suggestion Auto-approval\nAuto-Approved Suggestions\nSuggest Content\n\n\neBird Hotspot Editors\nX\nX\nX\nX\nX\nX\nX\nX\nX\n\n\nAccounts w/ Content Editing\n\n\n\n\nX\nX\nX\nX\nX\n\n\neBird Reviewers + Accounts w/ 100+ Complete Checklists in the Previous Calendar Year\n\n\n\n\n\n\n\nX\nX\n\n\nAll eBirders\n\n\n\n\n\n\n\n\nX",
+    "text": "All eBirders: Can suggest new content or changes to existing content\neBird Reviewers AND eBirders with 100+ complete checklists in the previous calendar year: Content suggestions are automatically approved (except for sites with Auto-approval turned “Off”)\nAccounts with Content Editing permissions: All of the above, plus the ability to:\n\nApprove/Decline pending content suggestions\nView content suggestion history\nDirectly edit About pages (including adding links)\nDisable suggestion Auto-approval on individual hotspots\n\neBird Hotspot Editors: All of the above, plus:\n\nApprove new Hotspots\nRename, move, merge, and demote existing hotspots\nCreate or edit Hotspot Groups\nGrant content editing permissions (to any subregion(s) within their assigned hotspot region)\n\n\nAdditional content editing permissions can be granted to accounts to assist with content management.",
     "crumbs": [
       "Part 2: Hotspot Content",
       "Content Permissions"
@@ -521,11 +536,11 @@
     "href": "BirdcamHotspots.html",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "Birdcam hotspots\nIt has become increasingly popular to watch birdcams (or other remote-sensing technology) and keep lists in eBird. This practice is not formally endorsed by eBird (see our policy here), but since these checklists may be treated as Public and may have public records, it is preferable to use established hotspot locations when this practice is being adopted by multiple people to avoid too much location scatter. Please get in touch with eBird Central for approval of any such hotspots. We recommend including the overarching hotspot/area name, followed by a double-dash and “feedercam” or “trailcam,” to make sure these are readily identifiable; the name in parentheses is the official name of the camera. Please do not add the camera weblink.\n\nExamples: \n\nCanopy Lodge–feedercam only (Panama Fruit Feeder Cam)\nManitouwadge–feedercam only (Ontario FeederWatch Cam)",
+    "text": "It has become increasingly popular to watch birdcams (or other remote-sensing technology) and keep lists in eBird. This practice is not formally endorsed by eBird (see our policy here), but since these checklists may be treated as Public and may have public records, it is preferable to use established hotspot locations when this practice is being adopted by multiple people to avoid too much location scatter. Please get in touch with eBird Central for approval of any such hotspots. We recommend including the overarching hotspot/area name, followed by a double-dash and “feedercam” or “trailcam,” to make sure these are readily identifiable; the name in parentheses is the official name of the camera. Please do not add the camera weblink.\n\nExamples: \n\nCanopy Lodge–feedercam only (Panama Fruit Feeder Cam)\nManitouwadge–feedercam only (Ontario FeederWatch Cam)",
     "crumbs": [
       "Part 4: Standards and Naming Conventions for eBird Hotspots",
       "Additional Modifiers",
-      "Birdcam hotspots"
+      "Birdcam Hotspots"
     ]
   },
   {
@@ -533,7 +548,7 @@
     "href": "AssigningContentEditingPermissions.html",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "Assigning Content Editing Permissions\neBird Hotspot Editors go to https://review.ebird.org/review/hotspots/manage-access OR navigate to any Hotspot in your assigned region and tap About &gt; Review &gt; Manage Access.  \nYou will need to know the eBird User ID of the account—this is different than their username. User IDs are formatted as USER123456\nIf you are not sure of the person’s User ID: \n\nGo to search.macaulaylibrary.org \nTap Contributor, type their name*, and tap when it appears in the dropdown\nTheir UserID will be displayed in the resulting webpage address (e.g., https://search.macaulaylibrary.org/catalog?userId=USER123456) \n\n* If multiple accounts share the same name, you may need to ask the account holder to perform these steps, repeating Step 2 as necessary  until the correct account is selected (process of elimination). \nIf you still can’t figure out the name, any eBird observation reviewer can see this by clicking on the user’s name from the Review Tools.",
+    "text": "eBird Hotspot Editors go to https://review.ebird.org/review/hotspots/manage-access OR navigate to any Hotspot in your assigned region and tap About &gt; Review &gt; Manage Access.  \nYou will need to know the eBird User ID of the account—this is different than their username. User IDs are formatted as USER123456\nIf you are not sure of the person’s User ID: \n\nGo to search.macaulaylibrary.org \nTap Contributor, type their name*, and tap when it appears in the dropdown\nTheir UserID will be displayed in the resulting webpage address (e.g., https://search.macaulaylibrary.org/catalog?userId=USER123456) \n\n* If multiple accounts share the same name, you may need to ask the account holder to perform these steps, repeating Step 2 as necessary  until the correct account is selected (process of elimination). \nIf you still can’t figure out the name, any eBird observation reviewer can see this by clicking on the user’s name from the Review Tools.",
     "crumbs": [
       "Part 2: Hotspot Content",
       "Content Permissions",
@@ -567,7 +582,7 @@
     "href": "AbbreviationsSpanish.html",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "Abbreviations (Spanish)\n\nArea Importante para la Conservación de las Aves – AICA (same designation as IBA in English)\nParque Nacional – PNac\nParque Natural – PNat \nSaint or Sainte – St or Ste",
+    "text": "Area Importante para la Conservación de las Aves – AICA (same designation as IBA in English)\nParque Nacional – PNac\nParque Natural – PNat \nSaint or Sainte – St or Ste",
     "crumbs": [
       "Part 4: Standards and Naming Conventions for eBird Hotspots",
       "Additional Modifiers",
@@ -579,7 +594,7 @@
     "href": "AbbreviationsFrench.html",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "Abbreviations (French)\n\nChemin – Ch. \nCompté – Cté\nParc Nacional – PNac\nRefuge faunique or Réserve faunique – RF \nSaint or Sainte – St or Ste\nZone d’exploitation contrôlée – ZECOther abbreviations, especially in non-English languages, can be adopted by local hotspot teams. However, these need to be readily understood by the eBirding community and also need to be used consistently within the region and (ideally) outside of it. In general, use “and” instead of an ampersand (&), but in cases where hotspot names are very long, or where ampersands are already widely used (e.g., C&O Canal–Violette’s Lock), feel free to use an ampersand to reduce the length.\nIt is acceptable to use internationally recognized region abbreviations (which appear in URLs in eBird, such as https://ebird.org/region/MX-CHP) for countries, states, or provinces. Please use other abbreviations very sparingly. Please be careful when using abbreviations that can be confused with internationally recognized postal abbreviations (in the above list, CA (California), NA (Namibia), NM (New Mexico), and WA (Washington) are confusing exceptions given the other abbreviations we allow). Do not abbreviate the full name of a national park or wildlife area (For example, please use Rocky Mountain NP, not RMNP). When in doubt, spell it out.",
+    "text": "Chemin – Ch. \nCompté – Cté\nParc Nacional – PNac\nRefuge faunique or Réserve faunique – RF \nSaint or Sainte – St or Ste\nZone d’exploitation contrôlée – ZECOther abbreviations, especially in non-English languages, can be adopted by local hotspot teams. However, these need to be readily understood by the eBirding community and also need to be used consistently within the region and (ideally) outside of it. In general, use “and” instead of an ampersand (&), but in cases where hotspot names are very long, or where ampersands are already widely used (e.g., C&O Canal–Violette’s Lock), feel free to use an ampersand to reduce the length.\nIt is acceptable to use internationally recognized region abbreviations (which appear in URLs in eBird, such as https://ebird.org/region/MX-CHP) for countries, states, or provinces. Please use other abbreviations very sparingly. Please be careful when using abbreviations that can be confused with internationally recognized postal abbreviations (in the above list, CA (California), NA (Namibia), NM (New Mexico), and WA (Washington) are confusing exceptions given the other abbreviations we allow). Do not abbreviate the full name of a national park or wildlife area (For example, please use Rocky Mountain NP, not RMNP). When in doubt, spell it out.",
     "crumbs": [
       "Part 4: Standards and Naming Conventions for eBird Hotspots",
       "Additional Modifiers",
@@ -601,14 +616,19 @@
     "href": "AdditionalParentHotspotUI.html",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "Additional Parent Hotspot UI\n\nGroup Map\nWhen you visit the Parent hotspot page (the group overview page), you will see a map of all hotspots in the group. \n\n\n\n\n\n\n\n\n\n\n\n\nHotspot Standings\nEach parent hotspot has a ‘Hotspots’ page that lists all hotspots within that group, ranked by number of checklists and species—similar to the Hotspot and Subregion rankings found on eBird Region pages. The checklist and species totals for the parent hotspot are displayed separately at the bottom of the page."
+    "text": "When you visit the Parent hotspot page (the group overview page), you will see a map of all hotspots in the group. \n\n\n\n\n\n\n\n\n\n\n\n\n\nEach parent hotspot has a ‘Hotspots’ page that lists all hotspots within that group, ranked by number of checklists and species—similar to the Hotspot and Subregion rankings found on eBird Region pages. The checklist and species totals for the parent hotspot are displayed separately at the bottom of the page.",
+    "crumbs": [
+      "Part 3: Hotspot Groups",
+      "Parent Hotspots",
+      "Additional Parent Hotspot UI"
+    ]
   },
   {
     "objectID": "Auto-Approval.html",
     "href": "Auto-Approval.html",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "Auto-Approval\neBird volunteers and anyone with &gt;100 complete eBird checklists in the previous year will have their suggestions automatically approved, meaning their edits will appear on the public About page immediately upon submission. Automatically approved changes will be tracked in the Content Edit History and Reviewed Content Suggestions (below) and Content Editors can always adjust or reverse changes by copying text from an earlier version of the page and pasting it back into the relevant sections.",
+    "text": "eBird volunteers and anyone with &gt;100 complete eBird checklists in the previous year will have their suggestions automatically approved, meaning their edits will appear on the public About page immediately upon submission. Automatically approved changes will be tracked in the Content Edit History and Reviewed Content Suggestions (below) and Content Editors can always adjust or reverse changes by copying text from an earlier version of the page and pasting it back into the relevant sections.",
     "crumbs": [
       "Part 2: Hotspot Content",
       "Hotspot Content",
@@ -620,7 +640,7 @@
     "href": "BirdingTrails.html",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "Birding Trails\nEntire “Birding Trails”—multiple sites across a large region not all along the same road—should never be grouped or have sub-hotspots. In the great majority of birding trails, each site or stop on a birding trail should have its own location, either as a standalone hotspot or a sub-hotspot within a local group.",
+    "text": "Entire “Birding Trails”—multiple sites across a large region not all along the same road—should never be grouped or have sub-hotspots. In the great majority of birding trails, each site or stop on a birding trail should have its own location, either as a standalone hotspot or a sub-hotspot within a local group.",
     "crumbs": [
       "Part 4: Standards and Naming Conventions for eBird Hotspots",
       "Linear Routes",
@@ -632,7 +652,7 @@
     "href": "ContentEditHistory.html",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "Content Edit History\nOnly users with content editing permissions can see this panel.\nContent Edit History shows the last 100 edits made to this hotspot’s About content sections, including who made the change and when. Changes to Features and Links are not reflected here. \nDetails show comparison with the version before it—added text is highlighted in green and removed text in red. Uncheck “Compare with previous version” on any entry to view the content without highlights.",
+    "text": "Only users with content editing permissions can see this panel.\nContent Edit History shows the last 100 edits made to this hotspot’s About content sections, including who made the change and when. Changes to Features and Links are not reflected here. \nDetails show comparison with the version before it—added text is highlighted in green and removed text in red. Uncheck “Compare with previous version” on any entry to view the content without highlights.",
     "crumbs": [
       "Part 2: Hotspot Content",
       "Hotspot Content",
@@ -688,7 +708,7 @@
     "href": "GroupsIntroduction.html",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "What is a Hotspot Group?\nA Hotspot Group consists of two or more hotspots that are part of the same continuous geographical area.\nHotspot Groups organize multiple hotspots within a larger area. For example, a state park or wildlife refuge might contain separate eBird hotspots for individual trails, viewpoints, or other popular birding spots. These hotspots would collectively form a hotspot group under a single overview page (AKA parent hotspot) that refers to the entire area.\nEach hotspot can only belong to one group at a time due to technical requirements related to data aggregation.\nHotspots should only be grouped if they occupy the same general area—typically this area has clearly defined boundaries and/or is under a single jurisdiction or management entity (i.e., sites should generally form a contiguous cluster). Birders often may visit multiple hotspots within this boundary on a single visit (ideally, but not always, keeping separate checklists). \n\n\nWhat is NOT a hotspot group?\nThe following should NOT be made into hotspot groups:\n\nLong linear routes (long trails, river stretches, highways, etc.) unless they are part of a single administrative unit (e.g., Buffalo National River is a single national park) \nLarge cities (small towns under 7 sq mi / 20 sq km are OK)  \nMany isolated or non-contiguous properties, even if under the same managing organization.\n\n\n\nCan hotspot groups cross administrative boundaries?\nYes! See our guidance for Hotspot Groups that cross administrative boundaries below. \nWhen a hotspot group crosses county/state/district/province lines, we recommend creating a “regional” hotspot on each side of the border. Include the respective administrative area in parentheses at the end of the hotspot name—e.g., “Blue Lake (Lewis Co.)” and “Blue Lake (Cowlitz Co.)”",
+    "text": "A Hotspot Group consists of two or more hotspots that are part of the same continuous geographical area.\nHotspot Groups organize multiple hotspots within a larger area. For example, a state park or wildlife refuge might contain separate eBird hotspots for individual trails, viewpoints, or other popular birding spots. These hotspots would collectively form a hotspot group under a single overview page (AKA parent hotspot) that refers to the entire area.\nEach hotspot can only belong to one group at a time due to technical requirements related to data aggregation.\nHotspots should only be grouped if they occupy the same general area—typically this area has clearly defined boundaries and/or is under a single jurisdiction or management entity (i.e., sites should generally form a contiguous cluster). Birders often may visit multiple hotspots within this boundary on a single visit (ideally, but not always, keeping separate checklists). \n\n\nThe following should NOT be made into hotspot groups:\n\nLong linear routes (long trails, river stretches, highways, etc.) unless they are part of a single administrative unit (e.g., Buffalo National River is a single national park) \nLarge cities (small towns under 7 sq mi / 20 sq km are OK)  \nMany isolated or non-contiguous properties, even if under the same managing organization.\n\n\n\n\nYes! See our guidance for Hotspot Groups that cross administrative boundaries below. \nWhen a hotspot group crosses county/state/district/province lines, we recommend creating a “regional” hotspot on each side of the border. Include the respective administrative area in parentheses at the end of the hotspot name—e.g., “Blue Lake (Lewis Co.)” and “Blue Lake (Cowlitz Co.)”",
     "crumbs": [
       "Part 3: Hotspot Groups",
       "Hotspot Groups Overview"
@@ -743,7 +763,7 @@
     "href": "HotspotNaming-Groups.html",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "The parent hotspot should be named for the area that encompasses the entire group. “General” or “general area” may be appended to the Parent hotspot name if there is the potential for confusion between the parent hotspot (referring to checklists spanning multiple sites or the entire area) and any specific, individual sub-hotspot.\nAny modifiers or warnings that are specific to the parent location alone (e.g., “Use more precise location”) should be added in parentheses.\nList-building Parent Hotspots\nList-building parent hotspots represent very large areas that are too spatially imprecise to be useful for most scientific analyses. In Hotspot Groups, List-building parent hotspots are automatically identified for any group with a bounding perimeter area of &gt;80km2.\nFor very large list-building hotspots, we recommend including a parenthetical note that discourages casual or regular use of these Hotspots and encourages more specific birding—e.g., “(use more precise loc.)”—whenever there is space to use it. Our recommendation is to keep this as short and direct as possible. \n Any list-building parent hotspot that is considered problematic for data entry should include an asterisk after the core part of the name. An asterisk following the name is also meant to be a warning to savvy eBirders not to pick this spot if they are willing and able to submit their checklist at a more precise location. The asterisk may also help to ensure that scientific data users don’t treat these as site-specific checklists. We ask that asterisks not be used anywhere else in hotspots so that they can be specifically used to designate these special types of locations. \nThe below hotspots use our recommended names:\n\nGlacier NP* general (use more precise loc.)\nKhao Yai NP* general (use more precise loc.)\nMaasai Mara NR* general (use more precise loc.)\nCerro Punta* general area (use more precise loc.)\nAkatau Mountains* general area (use more precise loc.)\n\n\n\n\nSub-hotspots should follow the parent hotspot separated by a double hyphen (–) without spaces on either side. The correct structure is: [Parent Hotspot]–[sub-hotspot]. For example, “Montezuma NWR–Towpath Rd.”\n\nThe following variations are INCORRECT:\n\nSpaces on either side of the dashes: “Montezuma NWR – Towpath Rd.”\nSingle dash: “Montezuma NWR-Towpath Rd.” \nEmdash: Montezuma NWR—Towpath Rd.” (A common autocorrect change to watch out for!)\n\nNOTE: Using the correct structure here has been critically important since 2021, since this naming structure is used in eBird Mobile to recommend specific hotspots to the user.\n\nExamples:\n\nKhao Yai NP–headquarters vicinity\nKhao Yai NP–Nong Phak Chi\nYosemite NP–Tuolumne Meadows\nYosemite NP–Glacier Pt.\nReserva de la Biosfera El Cielo–Senda Alta Cima\nReserva de la Biosfera El Cielo–Rancho del Cielo\n\n\nDo not make a city or town a parent hotspot with sub-hotspots. When it is helpful to identify a location by city or town, please use this format: [Location], [City or Town Name]. Furthermore, large cities do not ever need to be specified in the location name (except when two hotspots with the same name might be confused). For example, “Garden of the Gods Park, Colorado Springs” is undesirable; it should be named “Garden of the Gods Park” and the mapped location will indicate where it is more specifically. If a city, town, or township is used with a road name it should generally follow the road name. For instance, “Butler Rd., Olmito” rather than “Olmito–Butler Rd.”\nEntire “Birding Trails”, covering a large section of a state, should never have sub-hotspots. In the great majority of birding trails, each site or stop on a birding trail should have its own location, either as a hotspot or a sub-hotspots within another entity. It is permissible to have a birding trail site number in parentheses after the name, for example, Laguna Atascosa NWR (LTC 024).\n\n\n\nIn cases where the parent location name is long, abbreviations can be established for sub-hotspots, provided the parent hotspot uses the full, unabbreviated version. For example, in Figure 2 above, Cape Island–SCMM–Cove Pool is allowed because SCMM is defined (as South Cape May Meadows) in the nearby parent hotspot.",
+    "text": "The parent hotspot should be named for the area that encompasses the entire group. “General” or “general area” may be appended to the Parent hotspot name if there is the potential for confusion between the parent hotspot (referring to checklists spanning multiple sites or the entire area) and any specific, individual sub-hotspot.\nAny modifiers or warnings that are specific to the parent location alone (e.g., “Use more precise location”) should be added in parentheses.\n\n\n\nList-building parent hotspots represent very large areas that are too spatially imprecise to be useful for most scientific analyses. In Hotspot Groups, List-building parent hotspots are automatically identified for any group with a bounding perimeter area of &gt;80km2.\nFor very large list-building hotspots, we recommend including a parenthetical note that discourages casual or regular use of these Hotspots and encourages more specific birding—e.g., “(use more precise loc.)”—whenever there is space to use it. Our recommendation is to keep this as short and direct as possible. \n Any list-building parent hotspot that is considered problematic for data entry should include an asterisk after the core part of the name. An asterisk following the name is also meant to be a warning to savvy eBirders not to pick this spot if they are willing and able to submit their checklist at a more precise location. The asterisk may also help to ensure that scientific data users don’t treat these as site-specific checklists. We ask that asterisks not be used anywhere else in hotspots so that they can be specifically used to designate these special types of locations. \nThe below hotspots use our recommended names:\n\nGlacier NP* general (use more precise loc.)\nKhao Yai NP* general (use more precise loc.)\nMaasai Mara NR* general (use more precise loc.)\nCerro Punta* general area (use more precise loc.)\nAkatau Mountains* general area (use more precise loc.)\n\n\n\n\nSub-hotspots should follow the parent hotspot separated by a double hyphen (–) without spaces on either side. The correct structure is: [Parent Hotspot]–[sub-hotspot]. For example, “Montezuma NWR–Towpath Rd.”\n\nThe following variations are INCORRECT:\n\nSpaces on either side of the dashes: “Montezuma NWR – Towpath Rd.”\nSingle dash: “Montezuma NWR-Towpath Rd.” \nEmdash: Montezuma NWR—Towpath Rd.” (A common autocorrect change to watch out for!)\n\nNOTE: Using the correct structure here has been critically important since 2021, since this naming structure is used in eBird Mobile to recommend specific hotspots to the user.\n\nExamples:\n\nKhao Yai NP–headquarters vicinity\nKhao Yai NP–Nong Phak Chi\nYosemite NP–Tuolumne Meadows\nYosemite NP–Glacier Pt.\nReserva de la Biosfera El Cielo–Senda Alta Cima\nReserva de la Biosfera El Cielo–Rancho del Cielo\n\n\nDo not make a city or town a parent hotspot with sub-hotspots. When it is helpful to identify a location by city or town, please use this format: [Location], [City or Town Name]. Furthermore, large cities do not ever need to be specified in the location name (except when two hotspots with the same name might be confused). For example, “Garden of the Gods Park, Colorado Springs” is undesirable; it should be named “Garden of the Gods Park” and the mapped location will indicate where it is more specifically. If a city, town, or township is used with a road name it should generally follow the road name. For instance, “Butler Rd., Olmito” rather than “Olmito–Butler Rd.”\nEntire “Birding Trails”, covering a large section of a state, should never have sub-hotspots. In the great majority of birding trails, each site or stop on a birding trail should have its own location, either as a hotspot or a sub-hotspots within another entity. It is permissible to have a birding trail site number in parentheses after the name, for example, Laguna Atascosa NWR (LTC 024).\n\n\n\nIn cases where the parent location name is long, abbreviations can be established for sub-hotspots, provided the parent hotspot uses the full, unabbreviated version. For example, in Figure 2 above, Cape Island–SCMM–Cove Pool is allowed because SCMM is defined (as South Cape May Meadows) in the nearby parent hotspot.",
     "crumbs": [
       "Part 4: Standards and Naming Conventions for eBird Hotspots",
       "Hotspot Naming-Groups"
@@ -754,7 +774,7 @@
     "href": "HotspotNaming-Groups.html#hotspot-naminggroups",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "The parent hotspot should be named for the area that encompasses the entire group. “General” or “general area” may be appended to the Parent hotspot name if there is the potential for confusion between the parent hotspot (referring to checklists spanning multiple sites or the entire area) and any specific, individual sub-hotspot.\nAny modifiers or warnings that are specific to the parent location alone (e.g., “Use more precise location”) should be added in parentheses.\nList-building Parent Hotspots\nList-building parent hotspots represent very large areas that are too spatially imprecise to be useful for most scientific analyses. In Hotspot Groups, List-building parent hotspots are automatically identified for any group with a bounding perimeter area of &gt;80km2.\nFor very large list-building hotspots, we recommend including a parenthetical note that discourages casual or regular use of these Hotspots and encourages more specific birding—e.g., “(use more precise loc.)”—whenever there is space to use it. Our recommendation is to keep this as short and direct as possible. \n Any list-building parent hotspot that is considered problematic for data entry should include an asterisk after the core part of the name. An asterisk following the name is also meant to be a warning to savvy eBirders not to pick this spot if they are willing and able to submit their checklist at a more precise location. The asterisk may also help to ensure that scientific data users don’t treat these as site-specific checklists. We ask that asterisks not be used anywhere else in hotspots so that they can be specifically used to designate these special types of locations. \nThe below hotspots use our recommended names:\n\nGlacier NP* general (use more precise loc.)\nKhao Yai NP* general (use more precise loc.)\nMaasai Mara NR* general (use more precise loc.)\nCerro Punta* general area (use more precise loc.)\nAkatau Mountains* general area (use more precise loc.)\n\n\n\n\nSub-hotspots should follow the parent hotspot separated by a double hyphen (–) without spaces on either side. The correct structure is: [Parent Hotspot]–[sub-hotspot]. For example, “Montezuma NWR–Towpath Rd.”\n\nThe following variations are INCORRECT:\n\nSpaces on either side of the dashes: “Montezuma NWR – Towpath Rd.”\nSingle dash: “Montezuma NWR-Towpath Rd.” \nEmdash: Montezuma NWR—Towpath Rd.” (A common autocorrect change to watch out for!)\n\nNOTE: Using the correct structure here has been critically important since 2021, since this naming structure is used in eBird Mobile to recommend specific hotspots to the user.\n\nExamples:\n\nKhao Yai NP–headquarters vicinity\nKhao Yai NP–Nong Phak Chi\nYosemite NP–Tuolumne Meadows\nYosemite NP–Glacier Pt.\nReserva de la Biosfera El Cielo–Senda Alta Cima\nReserva de la Biosfera El Cielo–Rancho del Cielo\n\n\nDo not make a city or town a parent hotspot with sub-hotspots. When it is helpful to identify a location by city or town, please use this format: [Location], [City or Town Name]. Furthermore, large cities do not ever need to be specified in the location name (except when two hotspots with the same name might be confused). For example, “Garden of the Gods Park, Colorado Springs” is undesirable; it should be named “Garden of the Gods Park” and the mapped location will indicate where it is more specifically. If a city, town, or township is used with a road name it should generally follow the road name. For instance, “Butler Rd., Olmito” rather than “Olmito–Butler Rd.”\nEntire “Birding Trails”, covering a large section of a state, should never have sub-hotspots. In the great majority of birding trails, each site or stop on a birding trail should have its own location, either as a hotspot or a sub-hotspots within another entity. It is permissible to have a birding trail site number in parentheses after the name, for example, Laguna Atascosa NWR (LTC 024).\n\n\n\nIn cases where the parent location name is long, abbreviations can be established for sub-hotspots, provided the parent hotspot uses the full, unabbreviated version. For example, in Figure 2 above, Cape Island–SCMM–Cove Pool is allowed because SCMM is defined (as South Cape May Meadows) in the nearby parent hotspot.",
+    "text": "The parent hotspot should be named for the area that encompasses the entire group. “General” or “general area” may be appended to the Parent hotspot name if there is the potential for confusion between the parent hotspot (referring to checklists spanning multiple sites or the entire area) and any specific, individual sub-hotspot.\nAny modifiers or warnings that are specific to the parent location alone (e.g., “Use more precise location”) should be added in parentheses.\n\n\n\nList-building parent hotspots represent very large areas that are too spatially imprecise to be useful for most scientific analyses. In Hotspot Groups, List-building parent hotspots are automatically identified for any group with a bounding perimeter area of &gt;80km2.\nFor very large list-building hotspots, we recommend including a parenthetical note that discourages casual or regular use of these Hotspots and encourages more specific birding—e.g., “(use more precise loc.)”—whenever there is space to use it. Our recommendation is to keep this as short and direct as possible. \n Any list-building parent hotspot that is considered problematic for data entry should include an asterisk after the core part of the name. An asterisk following the name is also meant to be a warning to savvy eBirders not to pick this spot if they are willing and able to submit their checklist at a more precise location. The asterisk may also help to ensure that scientific data users don’t treat these as site-specific checklists. We ask that asterisks not be used anywhere else in hotspots so that they can be specifically used to designate these special types of locations. \nThe below hotspots use our recommended names:\n\nGlacier NP* general (use more precise loc.)\nKhao Yai NP* general (use more precise loc.)\nMaasai Mara NR* general (use more precise loc.)\nCerro Punta* general area (use more precise loc.)\nAkatau Mountains* general area (use more precise loc.)\n\n\n\n\nSub-hotspots should follow the parent hotspot separated by a double hyphen (–) without spaces on either side. The correct structure is: [Parent Hotspot]–[sub-hotspot]. For example, “Montezuma NWR–Towpath Rd.”\n\nThe following variations are INCORRECT:\n\nSpaces on either side of the dashes: “Montezuma NWR – Towpath Rd.”\nSingle dash: “Montezuma NWR-Towpath Rd.” \nEmdash: Montezuma NWR—Towpath Rd.” (A common autocorrect change to watch out for!)\n\nNOTE: Using the correct structure here has been critically important since 2021, since this naming structure is used in eBird Mobile to recommend specific hotspots to the user.\n\nExamples:\n\nKhao Yai NP–headquarters vicinity\nKhao Yai NP–Nong Phak Chi\nYosemite NP–Tuolumne Meadows\nYosemite NP–Glacier Pt.\nReserva de la Biosfera El Cielo–Senda Alta Cima\nReserva de la Biosfera El Cielo–Rancho del Cielo\n\n\nDo not make a city or town a parent hotspot with sub-hotspots. When it is helpful to identify a location by city or town, please use this format: [Location], [City or Town Name]. Furthermore, large cities do not ever need to be specified in the location name (except when two hotspots with the same name might be confused). For example, “Garden of the Gods Park, Colorado Springs” is undesirable; it should be named “Garden of the Gods Park” and the mapped location will indicate where it is more specifically. If a city, town, or township is used with a road name it should generally follow the road name. For instance, “Butler Rd., Olmito” rather than “Olmito–Butler Rd.”\nEntire “Birding Trails”, covering a large section of a state, should never have sub-hotspots. In the great majority of birding trails, each site or stop on a birding trail should have its own location, either as a hotspot or a sub-hotspots within another entity. It is permissible to have a birding trail site number in parentheses after the name, for example, Laguna Atascosa NWR (LTC 024).\n\n\n\nIn cases where the parent location name is long, abbreviations can be established for sub-hotspots, provided the parent hotspot uses the full, unabbreviated version. For example, in Figure 2 above, Cape Island–SCMM–Cove Pool is allowed because SCMM is defined (as South Cape May Meadows) in the nearby parent hotspot.",
     "crumbs": [
       "Part 4: Standards and Naming Conventions for eBird Hotspots",
       "Hotspot Naming-Groups"
@@ -787,7 +807,7 @@
     "href": "Links.html",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "Links\nOnly Hotspot Editors and accounts with content editing permissions can add and manage Hotspot About links. \nThere can only be one “Official Website” link. This link will be more prominently highlighted at the top of the hotspot content. \nYou can have unlimited Hotspot links. Link Titles appear the same across all languages. We recommend using a short, descriptive title of the page in its default language.",
+    "text": "Only Hotspot Editors and accounts with content editing permissions can add and manage Hotspot About links. \nThere can only be one “Official Website” link. This link will be more prominently highlighted at the top of the hotspot content. \nYou can have unlimited Hotspot links. Link Titles appear the same across all languages. We recommend using a short, descriptive title of the page in its default language.",
     "crumbs": [
       "Part 2: Hotspot Content",
       "Hotspot Content",
@@ -799,7 +819,7 @@
     "href": "ManagingLanguages.html",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "Managing Languages\n\nWhich language is displayed first?\n\nIf a user has the eBird website or their browser set to a particular language, we first display About content in that language, if available.\nIf no content is available in the user’s browser/web language, we then try to display content in the regional default language, if applicable. (e.g., For eBird Japan, the regional default language is Japanese. For eBird Chile, the regional default language is Spanish)\nIf there is no content in either the user’s preferred language or the regional default language, we will show ANY available content.* \nFinally, if there is no content at all, we display a message “Nothing added yet for this hotspot. Suggest content”\nNote that bird names that use the species tags will always display for logged-in users according to the user’s common name preferences, regardless of the other language settings.\n\n* Whenever multiple languages are available, go to Edit Content &gt; Manage Languages to choose which language is displayed first. \n\n\n\n\n\nIf a language has no content: Go to Edit Content &gt; Manage Languages to delete it. (Be careful, this will also delete any existing content!)",
+    "text": "Which language is displayed first?\n\nIf a user has the eBird website or their browser set to a particular language, we first display About content in that language, if available.\nIf no content is available in the user’s browser/web language, we then try to display content in the regional default language, if applicable. (e.g., For eBird Japan, the regional default language is Japanese. For eBird Chile, the regional default language is Spanish)\nIf there is no content in either the user’s preferred language or the regional default language, we will show ANY available content.* \nFinally, if there is no content at all, we display a message “Nothing added yet for this hotspot. Suggest content”\nNote that bird names that use the species tags will always display for logged-in users according to the user’s common name preferences, regardless of the other language settings.\n\n* Whenever multiple languages are available, go to Edit Content &gt; Manage Languages to choose which language is displayed first. \n\n\n\n\n\nIf a language has no content: Go to Edit Content &gt; Manage Languages to delete it. (Be careful, this will also delete any existing content!)",
     "crumbs": [
       "Part 2: Hotspot Content",
       "Hotspot Content",
@@ -811,7 +831,7 @@
     "href": "MiscNaming.html",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "Miscellaneous Hotspot Naming Conventions\n\nKeep Names Concise – Hotspot names should be under 100 characters, with shorter names always preferred. Brevity helps ensure clarity, ease of use, and consistency across platforms. Opt for widely recognized place names or simple descriptive terms to maintain readability whenever possible.\nAvoid Emojis – Emojis should not be included in hotspot names. This is the official policy to maintain compatibility with analytical software and ensure consistency across eBird’s global dataset. We recognize the value visual indicators can bring, and we are actively exploring alternative ways to incorporate this information without affecting data integrity.",
+    "text": "Keep Names Concise – Hotspot names should be under 100 characters, with shorter names always preferred. Brevity helps ensure clarity, ease of use, and consistency across platforms. Opt for widely recognized place names or simple descriptive terms to maintain readability whenever possible.\nAvoid Emojis – Emojis should not be included in hotspot names. This is the official policy to maintain compatibility with analytical software and ensure consistency across eBird’s global dataset. We recognize the value visual indicators can bring, and we are actively exploring alternative ways to incorporate this information without affecting data integrity.",
     "crumbs": [
       "Part 4: Standards and Naming Conventions for eBird Hotspots",
       "Additional Modifiers",
@@ -823,7 +843,12 @@
     "href": "NamingParentandSub-Hotspots.html",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "Naming Parent Hotspots and Sub-hotspots\nFollow Hotspot Naming policies. Parent locations should have “general” or “general area” in the name if there could be confusion between a precise site and the overarching area. \nSub-hotspots do not HAVE to include the parent location in the name. In other words, you can form Hotspots groups where sub-hotspots follow mixed naming practices, some with the parent location in the name and some without. \nSub-hotspots SHOULD have the parent location at the beginning of their name, followed by double-dash (–) and the sub-hotspot descriptor unless the sub-hotspot is an obvious and well-known standalone location. \nIncluding the parent location in the subhotspot name is helpful to ensure hotspots from the same area are grouped together in dropdown lists and search results."
+    "text": "Follow Hotspot Naming policies. Parent locations should have “general” or “general area” in the name if there could be confusion between a precise site and the overarching area. \nSub-hotspots do not HAVE to include the parent location in the name. In other words, you can form Hotspots groups where sub-hotspots follow mixed naming practices, some with the parent location in the name and some without. \nSub-hotspots SHOULD have the parent location at the beginning of their name, followed by double-dash (–) and the sub-hotspot descriptor unless the sub-hotspot is an obvious and well-known standalone location. \nIncluding the parent location in the subhotspot name is helpful to ensure hotspots from the same area are grouped together in dropdown lists and search results.",
+    "crumbs": [
+      "Part 3: Hotspot Groups",
+      "Parent Hotspots",
+      "Naming Parent Hotspots and Sub-hotspots"
+    ]
   },
   {
     "objectID": "Overview.html",
@@ -841,14 +866,19 @@
     "href": "ParentHotspotPlacement.html",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "Parent Hotspot Placement\nWe recommend placing the Parent hotspot at a central location away from more precisely placed hotspots. This helps to reduce site selection confusion and ensures eBird Mobile’s “Recommended Location” algorithm only suggests the parent hotspot when a GPS track spans multiple sub-hotspots or covers the broader area. \nIf the group includes two or more regions (counties, states/provinces, or countries) place the Parent hotspot in the region with the most group hotspots and checklist activity. \nSee also: Plotting Hotspots"
+    "text": "We recommend placing the Parent hotspot at a central location away from more precisely placed hotspots. This helps to reduce site selection confusion and ensures eBird Mobile’s “Recommended Location” algorithm only suggests the parent hotspot when a GPS track spans multiple sub-hotspots or covers the broader area. \nIf the group includes two or more regions (counties, states/provinces, or countries) place the Parent hotspot in the region with the most group hotspots and checklist activity. \nSee also: Plotting Hotspots",
+    "crumbs": [
+      "Part 3: Hotspot Groups",
+      "Parent Hotspots",
+      "Parent Hotspot Placement"
+    ]
   },
   {
     "objectID": "Part1.html",
     "href": "Part1.html",
-    "title": "eBird Hotspot Manual",
+    "title": "Part 1: How to Review and Edit Hotspots",
     "section": "",
-    "text": "Overview\nTo Accept or Not Accept\nNew Hotspot Evaluation\nViewing Reviewed Hotspots\nEditing Existing Hotspots\nPlotting Hotspots\nMerging Hotspots",
+    "text": "Part 1: How to Review and Edit Hotspots\n\nOverview\nTo Accept or Not Accept\nNew Hotspot Evaluation\nViewing Reviewed Hotspots\nEditing Existing Hotspots\nPlotting Hotspots\nMerging Hotspots",
     "crumbs": [
       "Part 1: How to Review and Edit Hotspots"
     ]
@@ -866,9 +896,9 @@
   {
     "objectID": "Part3.html",
     "href": "Part3.html",
-    "title": "eBird Hotspot Manual",
+    "title": "Part III: Hotspot Groups",
     "section": "",
-    "text": "Hotspot Groups Overview\nParent Hotspots\n\nParent Hotspot Content\nAdditional Parent Hotspot UI\nData Aggregation\nParent Hotspot Placement\nNaming Parent Hotspots and Sub-hotspots\nList-building Parent Hotspots\n\nCreating and Managing Hotspot Groups\nMulti-Region Hotspot Groups\nHotspot Group FAQs",
+    "text": "Part III: Hotspot Groups\n\nHotspot Groups Overview\nParent Hotspots\n\nParent Hotspot Content\nAdditional Parent Hotspot UI\nData Aggregation\nParent Hotspot Placement\nNaming Parent Hotspots and Sub-hotspots\nList-building Parent Hotspots\n\nCreating and Managing Hotspot Groups\nMulti-Region Hotspot Groups\nHotspot Group FAQs",
     "crumbs": [
       "Part 3: Hotspot Groups"
     ]
@@ -888,7 +918,7 @@
     "href": "PelagicHotspots.html",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "Pelagic Hotspots\nIt is not encouraged to use hotspots for pelagic birding, since the eBird best practice is to follow the eBird Pelagic Protocol and plot locations based on the exact route you traveled, ideally using tracks in eBird mobile. But there are two scenarios where hotspots have been established and these can be useful for aggregating data, especially when the data were not collected with rigorous tracks of GPS location services.\n\nGeneral pelagic locations: Like other list-building parent hotspots , these are most useful for aggregation of historical data under a single hotspot that is reasonably well sited. They should be named according to conventions described above for list-building parent hotspots and should only be used when established boat trips regularly visit roughly the same waters.\n\n\nExamples:\n\nKaikoura–offshore–Albatross Encounter pelagic (general)\nTofino pelagic trip\n\n\n\nSpecific pelagic locations: Sometimes an underwater feature (e.g., canyon, seamount, shelf, bank) or other specific habitat is a specific area that is regularly targeted for pelagic birding. These can be appropriate hotspots, but of course should only be used for observations in the immediate vicinity of these features; since this is hard to define for a birder on a boat, these hotspots should only be established with good reason and should always be used with great care. Otherwise, see above for conventions.\n\n\nExamples:\n\nHudson Canyon (Atlantic Ocean)\nEscollo Gorda",
+    "text": "It is not encouraged to use hotspots for pelagic birding, since the eBird best practice is to follow the eBird Pelagic Protocol and plot locations based on the exact route you traveled, ideally using tracks in eBird mobile. But there are two scenarios where hotspots have been established and these can be useful for aggregating data, especially when the data were not collected with rigorous tracks of GPS location services.\n\nGeneral pelagic locations: Like other list-building parent hotspots , these are most useful for aggregation of historical data under a single hotspot that is reasonably well sited. They should be named according to conventions described above for list-building parent hotspots and should only be used when established boat trips regularly visit roughly the same waters.\n\n\nExamples:\n\nKaikoura–offshore–Albatross Encounter pelagic (general)\nTofino pelagic trip\n\n\n\nSpecific pelagic locations: Sometimes an underwater feature (e.g., canyon, seamount, shelf, bank) or other specific habitat is a specific area that is regularly targeted for pelagic birding. These can be appropriate hotspots, but of course should only be used for observations in the immediate vicinity of these features; since this is hard to define for a birder on a boat, these hotspots should only be established with good reason and should always be used with great care. Otherwise, see above for conventions.\n\n\nExamples:\n\nHudson Canyon (Atlantic Ocean)\nEscollo Gorda",
     "crumbs": [
       "Part 4: Standards and Naming Conventions for eBird Hotspots",
       "Additional Modifiers",
@@ -922,7 +952,7 @@
     "href": "RestrictedAccessLocations.html",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "Restricted Access Locations\nAlthough hotspots should generally be accessible to the public, occasional locations are not open to the public but may be regularly birded by those who have been authorized to do so. It is still appropriate to list the location as a hotspot since it is desirable to pool the data from multiple observers. \nBe sure to indicate a hotspot is Restricted Access in the Hotspot Features list. This will ensure that a “Restricted Access” tag also appears next to the hotspot name on the eBird website. Until a similar UI tag is available in eBird mobile, we recommend also placing  the words “restricted access” (or the equivalent in the local language) in lower-case in parentheses following the location name. Detailed access instructions should not be part of the hotspot name; provide these in the Plan Your Visit section of the Hotspot about page.\n\nExamples:\n\nPatuxent River Naval Air Station (restricted access)\nHolme Bird Observatory (restricted access)\nFinca Tempixque (acceso restringido)",
+    "text": "Although hotspots should generally be accessible to the public, occasional locations are not open to the public but may be regularly birded by those who have been authorized to do so. It is still appropriate to list the location as a hotspot since it is desirable to pool the data from multiple observers. \nBe sure to indicate a hotspot is Restricted Access in the Hotspot Features list. This will ensure that a “Restricted Access” tag also appears next to the hotspot name on the eBird website. Until a similar UI tag is available in eBird mobile, we recommend also placing  the words “restricted access” (or the equivalent in the local language) in lower-case in parentheses following the location name. Detailed access instructions should not be part of the hotspot name; provide these in the Plan Your Visit section of the Hotspot about page.\n\nExamples:\n\nPatuxent River Naval Air Station (restricted access)\nHolme Bird Observatory (restricted access)\nFinca Tempixque (acceso restringido)",
     "crumbs": [
       "Part 4: Standards and Naming Conventions for eBird Hotspots",
       "Additional Modifiers",
@@ -978,11 +1008,334 @@
     "href": "ViewInGoogleEarth.html",
     "title": "eBird Hotspot Manual",
     "section": "",
-    "text": "View the Hotspot API File in Google Earth\nHotspot CSV files can also be converted into Google Earth (kml) files. After downloading the Hotspot CSV, open the file in Excel or similar software. Insert a new, empty row 1. Enter the following column headings into your new row 1: \n\nLocalityID\nCountry\nSubnat1\nSubnat2\nLatitude\nLongitude\nName\nEditDate\nSpecies\n\nOnly Latitude (column E), Longitude (column F), and Name (column G) are required for Google Earth. The remaining columns can be deleted if you do not plan to use them in your KML file. \nSave the updated file in CSV or XLSX format. Then, use a KML converter—such as http://www.earthpoint.us/ExcelToKml.aspx—to prepare the file for Google Earth. \nInstead of a KML converter, you can create a new personal map on Google Maps (https://www.google.com/maps/d/), import your formatted CSV or XLSX file, and then export it as KML/KMZ.",
+    "text": "Hotspot CSV files can also be converted into Google Earth (kml) files. After downloading the Hotspot CSV, open the file in Excel or similar software. Insert a new, empty row 1. Enter the following column headings into your new row 1: \n\nLocalityID\nCountry\nSubnat1\nSubnat2\nLatitude\nLongitude\nName\nEditDate\nSpecies\n\nOnly Latitude (column E), Longitude (column F), and Name (column G) are required for Google Earth. The remaining columns can be deleted if you do not plan to use them in your KML file. \nSave the updated file in CSV or XLSX format. Then, use a KML converter—such as http://www.earthpoint.us/ExcelToKml.aspx—to prepare the file for Google Earth. \nInstead of a KML converter, you can create a new personal map on Google Maps (https://www.google.com/maps/d/), import your formatted CSV or XLSX file, and then export it as KML/KMZ.",
     "crumbs": [
       "Part 4: Standards and Naming Conventions for eBird Hotspots",
       "Downloadable Hotspot file through the Hotspot API",
       "View the Hotspot API file in Google Earth"
+    ]
+  },
+  {
+    "objectID": "ViewInGoogleEarth.html#view-the-hotspot-api-file-in-google-earth",
+    "href": "ViewInGoogleEarth.html#view-the-hotspot-api-file-in-google-earth",
+    "title": "eBird Hotspot Manual",
+    "section": "",
+    "text": "Hotspot CSV files can also be converted into Google Earth (kml) files. After downloading the Hotspot CSV, open the file in Excel or similar software. Insert a new, empty row 1. Enter the following column headings into your new row 1: \n\nLocalityID\nCountry\nSubnat1\nSubnat2\nLatitude\nLongitude\nName\nEditDate\nSpecies\n\nOnly Latitude (column E), Longitude (column F), and Name (column G) are required for Google Earth. The remaining columns can be deleted if you do not plan to use them in your KML file. \nSave the updated file in CSV or XLSX format. Then, use a KML converter—such as http://www.earthpoint.us/ExcelToKml.aspx—to prepare the file for Google Earth. \nInstead of a KML converter, you can create a new personal map on Google Maps (https://www.google.com/maps/d/), import your formatted CSV or XLSX file, and then export it as KML/KMZ.",
+    "crumbs": [
+      "Part 4: Standards and Naming Conventions for eBird Hotspots",
+      "Downloadable Hotspot file through the Hotspot API",
+      "View the Hotspot API file in Google Earth"
+    ]
+  },
+  {
+    "objectID": "Reviewedsuggestions.html#reviewed-suggestions",
+    "href": "Reviewedsuggestions.html#reviewed-suggestions",
+    "title": "eBird Hotspot Manual",
+    "section": "",
+    "text": "After tapping Accept or Decline, the suggestion will move to the “Reviewed” tab. The Details here will show you who made the suggestion and when, whether it was Accepted or Declined, and who reviewed it. \n\neBird Hotspot Administrator\nAny suggestion accepted by “eBird Hotspot Administrator” is an Auto-approved suggestion—i.e., the person who made the suggestion is either an eBird Reviewer/Hotspot Editor OR they submitted &gt;100+ complete eBird checklists in the previous calendar year.",
+    "crumbs": [
+      "Part 2: Hotspot Content",
+      "Reviewing Content Suggestions",
+      "Reviewed Suggestions"
+    ]
+  },
+  {
+    "objectID": "PrivacyConcerns.html#privacy-concerns",
+    "href": "PrivacyConcerns.html#privacy-concerns",
+    "title": "eBird Hotspot Manual",
+    "section": "",
+    "text": "On rare occasions a rarity may appear on private land but access will be controlled so as to respect the wishes of the property owner. In such cases, the stakeout hotspot should be plotted some distance away from the actual location in a public area and ideally the name should indicate that the location plot is intentionally inaccurate and that the access is restricted. Ideally, once the bird of interest has departed, the hotspot can be moved to the correct location.",
+    "crumbs": [
+      "Part 4: Standards and Naming Conventions for eBird Hotspots",
+      "Additional Modifiers",
+      "Privacy Concerns"
+    ]
+  },
+  {
+    "objectID": "PelagicHotspots.html#pelagic-hotspots",
+    "href": "PelagicHotspots.html#pelagic-hotspots",
+    "title": "eBird Hotspot Manual",
+    "section": "",
+    "text": "It is not encouraged to use hotspots for pelagic birding, since the eBird best practice is to follow the eBird Pelagic Protocol and plot locations based on the exact route you traveled, ideally using tracks in eBird mobile. But there are two scenarios where hotspots have been established and these can be useful for aggregating data, especially when the data were not collected with rigorous tracks of GPS location services.\n\nGeneral pelagic locations: Like other list-building parent hotspots , these are most useful for aggregation of historical data under a single hotspot that is reasonably well sited. They should be named according to conventions described above for list-building parent hotspots and should only be used when established boat trips regularly visit roughly the same waters.\n\n\nExamples:\n\nKaikoura–offshore–Albatross Encounter pelagic (general)\nTofino pelagic trip\n\n\n\nSpecific pelagic locations: Sometimes an underwater feature (e.g., canyon, seamount, shelf, bank) or other specific habitat is a specific area that is regularly targeted for pelagic birding. These can be appropriate hotspots, but of course should only be used for observations in the immediate vicinity of these features; since this is hard to define for a birder on a boat, these hotspots should only be established with good reason and should always be used with great care. Otherwise, see above for conventions.\n\n\nExamples:\n\nHudson Canyon (Atlantic Ocean)\nEscollo Gorda",
+    "crumbs": [
+      "Part 4: Standards and Naming Conventions for eBird Hotspots",
+      "Additional Modifiers",
+      "Pelagic Hotspots"
+    ]
+  },
+  {
+    "objectID": "ParentHotspotContent.html#parent-hotspot-content",
+    "href": "ParentHotspotContent.html#parent-hotspot-content",
+    "title": "eBird Hotspot Manual",
+    "section": "",
+    "text": "An excerpt of the parent location’s About content appears on each sub-hotspot page. Use the About sections on the parent hotspot to describe information that applies to every hotspot in the group, such as hours, fees, and stewardship details.\n\n\n\n\nFeatures are unique to each individual hotspot. Use the Parent hotspot’s Features to indicate things that are generally true for the entire area. For example, if at least one hotspot in the group has a public bathroom, select ‘Yes’ for Restrooms on the Parent hotspot. Then select ‘Yes’ or ‘No’ on individual sub-hotspots based on whether that specific site has a bathroom.",
+    "crumbs": [
+      "Part 3: Hotspot Groups",
+      "Parent Hotspots",
+      "Parent Hotspot Content"
+    ]
+  },
+  {
+    "objectID": "NamingParentandSub-Hotspots.html#naming-parent-hotspots-and-sub-hotspots",
+    "href": "NamingParentandSub-Hotspots.html#naming-parent-hotspots-and-sub-hotspots",
+    "title": "eBird Hotspot Manual",
+    "section": "",
+    "text": "Follow Hotspot Naming policies. Parent locations should have “general” or “general area” in the name if there could be confusion between a precise site and the overarching area. \nSub-hotspots do not HAVE to include the parent location in the name. In other words, you can form Hotspots groups where sub-hotspots follow mixed naming practices, some with the parent location in the name and some without. \nSub-hotspots SHOULD have the parent location at the beginning of their name, followed by double-dash (–) and the sub-hotspot descriptor unless the sub-hotspot is an obvious and well-known standalone location. \nIncluding the parent location in the subhotspot name is helpful to ensure hotspots from the same area are grouped together in dropdown lists and search results.",
+    "crumbs": [
+      "Part 3: Hotspot Groups",
+      "Parent Hotspots",
+      "Naming Parent Hotspots and Sub-hotspots"
+    ]
+  },
+  {
+    "objectID": "MiscNaming.html#miscellaneous-hotspot-naming-conventions",
+    "href": "MiscNaming.html#miscellaneous-hotspot-naming-conventions",
+    "title": "eBird Hotspot Manual",
+    "section": "",
+    "text": "Keep Names Concise – Hotspot names should be under 100 characters, with shorter names always preferred. Brevity helps ensure clarity, ease of use, and consistency across platforms. Opt for widely recognized place names or simple descriptive terms to maintain readability whenever possible.\nAvoid Emojis – Emojis should not be included in hotspot names. This is the official policy to maintain compatibility with analytical software and ensure consistency across eBird’s global dataset. We recognize the value visual indicators can bring, and we are actively exploring alternative ways to incorporate this information without affecting data integrity.",
+    "crumbs": [
+      "Part 4: Standards and Naming Conventions for eBird Hotspots",
+      "Additional Modifiers",
+      "Miscellaneous Hotspot Naming Conventions"
+    ]
+  },
+  {
+    "objectID": "List-buildingParentHotspots.html#list-building-parent-hotspots-very-large-areas",
+    "href": "List-buildingParentHotspots.html#list-building-parent-hotspots-very-large-areas",
+    "title": "eBird Hotspot Manual",
+    "section": "",
+    "text": "In Hotspot Groups, the Parent hotspot represents the entire area covered by the group. However, some areas are so large that the Parent hotspot carries too much spatial uncertainty to be useful for scientific analyses. \nFor example, Yellowstone National Park covers 13,000 square miles (33,670 square km) and spans four US states. Any checklist assigned to the “Yellowstone National Park (general area)” hotspot lacks the spatial precision needed for eBird Status and Trends models.\nCurrently, when a traveling checklist covers a distance of 50 mi (80 km) or more, we automatically mark it Not Public. \nWhen the area within the bounding box of the group covers 80 km2 or more…\nThe Parent hotspot will not appear as a Recommended Location for eBird Mobile checklists and cannot be selected from the map when submitting eBird Mobile checklists (the parent location will still appear on eBird Mobile Explore). \nWe recommend marking any checklist submitted to a List-building Parent hotspot ‘Not Public’ with the reason “Checklist-List Building”",
+    "crumbs": [
+      "Part 3: Hotspot Groups",
+      "Parent Hotspots",
+      "List-building Parent Hotspots"
+    ]
+  },
+  {
+    "objectID": "HistoricalLocations.html#historical-locations",
+    "href": "HistoricalLocations.html#historical-locations",
+    "title": "eBird Hotspot Manual",
+    "section": "",
+    "text": "In rare cases, it can be helpful to create hotspots for sites that no longer exist. In such cases, a parenthetical note should make it clear that the described location is historical. If applicable, it may be helpful to add “before YYYY” in the parenthetical to indicate the time period that the site existed as a hotspot.\n\nExamples:\n\nAl Ain Camel Racetrack (historical)\nLuckett Rd. pond (historical)",
+    "crumbs": [
+      "Part 4: Standards and Naming Conventions for eBird Hotspots",
+      "Additional Modifiers",
+      "Historical Locations"
+    ]
+  },
+  {
+    "objectID": "DataAggregation.html#data-aggregation",
+    "href": "DataAggregation.html#data-aggregation",
+    "title": "eBird Hotspot Manual",
+    "section": "",
+    "text": "Parent locations aggregate data across all hotspots in the group. Statistics for a parent location represent the entire group’s combined data, including public checklists submitted to the parent.\nThe parent hotspot page functions as the group overview, summarizing checklist submission across all hotspots in the group. Likewise, the leaderboard shows top contributors based on combined activity across all hotspots.\nThis aggregation encourages greater location precision. You can now submit separate checklists to each hotspot and still have your activity count toward the cumulative Top 100 for the entire area.\nThis technical framework may also allow us to eventually aggregate personal locations into hotspot summaries in the future (but not any time soon).\nNote on Bar Charts: Bar Charts for the parent location will display aggregated frequency data, histograms, and chart data for the entire group. To obtain Bar Chart data for the parent hotspot ONLY, add &aggregateHotspots=false to the end of the Bar Chart web address.",
+    "crumbs": [
+      "Part 3: Hotspot Groups",
+      "Parent Hotspots",
+      "Data Aggregation"
+    ]
+  },
+  {
+    "objectID": "BirdingTrails.html#birding-trails",
+    "href": "BirdingTrails.html#birding-trails",
+    "title": "eBird Hotspot Manual",
+    "section": "",
+    "text": "Entire “Birding Trails”—multiple sites across a large region not all along the same road—should never be grouped or have sub-hotspots. In the great majority of birding trails, each site or stop on a birding trail should have its own location, either as a standalone hotspot or a sub-hotspot within a local group.",
+    "crumbs": [
+      "Part 4: Standards and Naming Conventions for eBird Hotspots",
+      "Linear Routes",
+      "Birding Trails"
+    ]
+  },
+  {
+    "objectID": "Auto-Approval.html#auto-approval",
+    "href": "Auto-Approval.html#auto-approval",
+    "title": "eBird Hotspot Manual",
+    "section": "",
+    "text": "eBird volunteers and anyone with &gt;100 complete eBird checklists in the previous year will have their suggestions automatically approved, meaning their edits will appear on the public About page immediately upon submission. Automatically approved changes will be tracked in the Content Edit History and Reviewed Content Suggestions (below) and Content Editors can always adjust or reverse changes by copying text from an earlier version of the page and pasting it back into the relevant sections.",
+    "crumbs": [
+      "Part 2: Hotspot Content",
+      "Hotspot Content",
+      "Auto-Approval"
+    ]
+  },
+  {
+    "objectID": "AdditionalParentHotspotUI.html#additional-parent-hotspot-ui",
+    "href": "AdditionalParentHotspotUI.html#additional-parent-hotspot-ui",
+    "title": "eBird Hotspot Manual",
+    "section": "",
+    "text": "When you visit the Parent hotspot page (the group overview page), you will see a map of all hotspots in the group. \n\n\n\n\n\n\n\n\n\n\n\n\n\nEach parent hotspot has a ‘Hotspots’ page that lists all hotspots within that group, ranked by number of checklists and species—similar to the Hotspot and Subregion rankings found on eBird Region pages. The checklist and species totals for the parent hotspot are displayed separately at the bottom of the page.",
+    "crumbs": [
+      "Part 3: Hotspot Groups",
+      "Parent Hotspots",
+      "Additional Parent Hotspot UI"
+    ]
+  },
+  {
+    "objectID": "AbbreviationsFrench.html#abbreviations-french",
+    "href": "AbbreviationsFrench.html#abbreviations-french",
+    "title": "eBird Hotspot Manual",
+    "section": "",
+    "text": "Chemin – Ch. \nCompté – Cté\nParc Nacional – PNac\nRefuge faunique or Réserve faunique – RF \nSaint or Sainte – St or Ste\nZone d’exploitation contrôlée – ZECOther abbreviations, especially in non-English languages, can be adopted by local hotspot teams. However, these need to be readily understood by the eBirding community and also need to be used consistently within the region and (ideally) outside of it. In general, use “and” instead of an ampersand (&), but in cases where hotspot names are very long, or where ampersands are already widely used (e.g., C&O Canal–Violette’s Lock), feel free to use an ampersand to reduce the length.\nIt is acceptable to use internationally recognized region abbreviations (which appear in URLs in eBird, such as https://ebird.org/region/MX-CHP) for countries, states, or provinces. Please use other abbreviations very sparingly. Please be careful when using abbreviations that can be confused with internationally recognized postal abbreviations (in the above list, CA (California), NA (Namibia), NM (New Mexico), and WA (Washington) are confusing exceptions given the other abbreviations we allow). Do not abbreviate the full name of a national park or wildlife area (For example, please use Rocky Mountain NP, not RMNP). When in doubt, spell it out.",
+    "crumbs": [
+      "Part 4: Standards and Naming Conventions for eBird Hotspots",
+      "Additional Modifiers",
+      "Abbreviations (French)"
+    ]
+  },
+  {
+    "objectID": "AbbreviationsEnglish.html#abbreviations-english",
+    "href": "AbbreviationsEnglish.html#abbreviations-english",
+    "title": "eBird Hotspot Manual",
+    "section": "",
+    "text": "Avenue – Ave.\nConservation Area – CA\nCounty – Co.\nDepartment – Dept.\nHighway – Hwy.\n\nUnited States Highway 6 – US-6\nColorado Highway 8 – CO-8\nInterstate Highway 90 – I-90\nCounty Road 18 – CR-18\n\nImportant Bird Area – IBA\nKilometer – km\nMile marks – mm (e.g., I-90–mm92)\nMountain or Mount – Mt.\nNational Historic Site – NHS\nNational Park – NP \nNational Wildlife Refuge – NWR\nNatural Area – NA\nNational Monument – NM\nPoint – Pt. (do not use this for Port)\nRoad – Rd. \nSaint – St\nState Park – SP\nStreet – St.\nTownship – Twp.\nWildlife Area – WA\nWildlife Management Area – WMA\nWastewater Treatment Plant, Water Treatment Plant, or Sewage Plant – WTP\n\n*Special note for Wastewater Treatment Plants, which may have different terminology in different regions. Water Treatment Plant, Sewage Ponds, Sewage Lagoons, Sewage Treatment Plant etc. all refer to basically the same type of site (which of course are almost always hot spots for birds!). In the interest of standardization, we recommend using WTP wherever possible. If a certain site is widely known as Sewage Treatment Plant and using WTP would create confusion, it is permissible to spell those out; do not use STP or WWTP.",
+    "crumbs": [
+      "Part 4: Standards and Naming Conventions for eBird Hotspots",
+      "Additional Modifiers",
+      "Abbreviations (English)"
+    ]
+  },
+  {
+    "objectID": "AbbreviationsSpanish.html#abbreviations-spanish",
+    "href": "AbbreviationsSpanish.html#abbreviations-spanish",
+    "title": "eBird Hotspot Manual",
+    "section": "",
+    "text": "Area Importante para la Conservación de las Aves – AICA (same designation as IBA in English)\nParque Nacional – PNac\nParque Natural – PNat \nSaint or Sainte – St or Ste",
+    "crumbs": [
+      "Part 4: Standards and Naming Conventions for eBird Hotspots",
+      "Additional Modifiers",
+      "Abbreviations (Spanish)"
+    ]
+  },
+  {
+    "objectID": "AssigningContentEditingPermissions.html#assigning-content-editing-permissions",
+    "href": "AssigningContentEditingPermissions.html#assigning-content-editing-permissions",
+    "title": "eBird Hotspot Manual",
+    "section": "",
+    "text": "eBird Hotspot Editors go to https://review.ebird.org/review/hotspots/manage-access OR navigate to any Hotspot in your assigned region and tap About &gt; Review &gt; Manage Access.  \nYou will need to know the eBird User ID of the account—this is different than their username. User IDs are formatted as USER123456\nIf you are not sure of the person’s User ID: \n\nGo to search.macaulaylibrary.org \nTap Contributor, type their name*, and tap when it appears in the dropdown\nTheir UserID will be displayed in the resulting webpage address (e.g., https://search.macaulaylibrary.org/catalog?userId=USER123456) \n\n* If multiple accounts share the same name, you may need to ask the account holder to perform these steps, repeating Step 2 as necessary  until the correct account is selected (process of elimination). \nIf you still can’t figure out the name, any eBird observation reviewer can see this by clicking on the user’s name from the Review Tools.",
+    "crumbs": [
+      "Part 2: Hotspot Content",
+      "Content Permissions",
+      "Assigning Content Editing Permissions"
+    ]
+  },
+  {
+    "objectID": "BirdcamHotspots.html#birdcam-hotspots",
+    "href": "BirdcamHotspots.html#birdcam-hotspots",
+    "title": "eBird Hotspot Manual",
+    "section": "",
+    "text": "It has become increasingly popular to watch birdcams (or other remote-sensing technology) and keep lists in eBird. This practice is not formally endorsed by eBird (see our policy here), but since these checklists may be treated as Public and may have public records, it is preferable to use established hotspot locations when this practice is being adopted by multiple people to avoid too much location scatter. Please get in touch with eBird Central for approval of any such hotspots. We recommend including the overarching hotspot/area name, followed by a double-dash and “feedercam” or “trailcam,” to make sure these are readily identifiable; the name in parentheses is the official name of the camera. Please do not add the camera weblink.\n\nExamples: \n\nCanopy Lodge–feedercam only (Panama Fruit Feeder Cam)\nManitouwadge–feedercam only (Ontario FeederWatch Cam)",
+    "crumbs": [
+      "Part 4: Standards and Naming Conventions for eBird Hotspots",
+      "Additional Modifiers",
+      "Birdcam Hotspots"
+    ]
+  },
+  {
+    "objectID": "ContentEditHistory.html#content-edit-history",
+    "href": "ContentEditHistory.html#content-edit-history",
+    "title": "eBird Hotspot Manual",
+    "section": "",
+    "text": "Only users with content editing permissions can see this panel.\nContent Edit History shows the last 100 edits made to this hotspot’s About content sections, including who made the change and when. Changes to Features and Links are not reflected here. \nDetails show comparison with the version before it—added text is highlighted in green and removed text in red. Uncheck “Compare with previous version” on any entry to view the content without highlights.",
+    "crumbs": [
+      "Part 2: Hotspot Content",
+      "Hotspot Content",
+      "Content Edit History"
+    ]
+  },
+  {
+    "objectID": "GroupsIntroduction.html#what-is-a-hotspot-group",
+    "href": "GroupsIntroduction.html#what-is-a-hotspot-group",
+    "title": "eBird Hotspot Manual",
+    "section": "",
+    "text": "A Hotspot Group consists of two or more hotspots that are part of the same continuous geographical area.\nHotspot Groups organize multiple hotspots within a larger area. For example, a state park or wildlife refuge might contain separate eBird hotspots for individual trails, viewpoints, or other popular birding spots. These hotspots would collectively form a hotspot group under a single overview page (AKA parent hotspot) that refers to the entire area.\nEach hotspot can only belong to one group at a time due to technical requirements related to data aggregation.\nHotspots should only be grouped if they occupy the same general area—typically this area has clearly defined boundaries and/or is under a single jurisdiction or management entity (i.e., sites should generally form a contiguous cluster). Birders often may visit multiple hotspots within this boundary on a single visit (ideally, but not always, keeping separate checklists). \n\n\nThe following should NOT be made into hotspot groups:\n\nLong linear routes (long trails, river stretches, highways, etc.) unless they are part of a single administrative unit (e.g., Buffalo National River is a single national park) \nLarge cities (small towns under 7 sq mi / 20 sq km are OK)  \nMany isolated or non-contiguous properties, even if under the same managing organization.\n\n\n\n\nYes! See our guidance for Hotspot Groups that cross administrative boundaries below. \nWhen a hotspot group crosses county/state/district/province lines, we recommend creating a “regional” hotspot on each side of the border. Include the respective administrative area in parentheses at the end of the hotspot name—e.g., “Blue Lake (Lewis Co.)” and “Blue Lake (Cowlitz Co.)”",
+    "crumbs": [
+      "Part 3: Hotspot Groups",
+      "Hotspot Groups Overview"
+    ]
+  },
+  {
+    "objectID": "Links.html#links",
+    "href": "Links.html#links",
+    "title": "eBird Hotspot Manual",
+    "section": "",
+    "text": "Only Hotspot Editors and accounts with content editing permissions can add and manage Hotspot About links. \nThere can only be one “Official Website” link. This link will be more prominently highlighted at the top of the hotspot content. \nYou can have unlimited Hotspot links. Link Titles appear the same across all languages. We recommend using a short, descriptive title of the page in its default language.",
+    "crumbs": [
+      "Part 2: Hotspot Content",
+      "Hotspot Content",
+      "Links"
+    ]
+  },
+  {
+    "objectID": "ManagingLanguages.html#managing-languages",
+    "href": "ManagingLanguages.html#managing-languages",
+    "title": "eBird Hotspot Manual",
+    "section": "",
+    "text": "Which language is displayed first?\n\nIf a user has the eBird website or their browser set to a particular language, we first display About content in that language, if available.\nIf no content is available in the user’s browser/web language, we then try to display content in the regional default language, if applicable. (e.g., For eBird Japan, the regional default language is Japanese. For eBird Chile, the regional default language is Spanish)\nIf there is no content in either the user’s preferred language or the regional default language, we will show ANY available content.* \nFinally, if there is no content at all, we display a message “Nothing added yet for this hotspot. Suggest content”\nNote that bird names that use the species tags will always display for logged-in users according to the user’s common name preferences, regardless of the other language settings.\n\n* Whenever multiple languages are available, go to Edit Content &gt; Manage Languages to choose which language is displayed first. \n\n\n\n\n\nIf a language has no content: Go to Edit Content &gt; Manage Languages to delete it. (Be careful, this will also delete any existing content!)",
+    "crumbs": [
+      "Part 2: Hotspot Content",
+      "Hotspot Content",
+      "Managing Languages"
+    ]
+  },
+  {
+    "objectID": "ParentHotspotPlacement.html#parent-hotspot-placement",
+    "href": "ParentHotspotPlacement.html#parent-hotspot-placement",
+    "title": "eBird Hotspot Manual",
+    "section": "",
+    "text": "We recommend placing the Parent hotspot at a central location away from more precisely placed hotspots. This helps to reduce site selection confusion and ensures eBird Mobile’s “Recommended Location” algorithm only suggests the parent hotspot when a GPS track spans multiple sub-hotspots or covers the broader area. \nIf the group includes two or more regions (counties, states/provinces, or countries) place the Parent hotspot in the region with the most group hotspots and checklist activity. \nSee also: Plotting Hotspots",
+    "crumbs": [
+      "Part 3: Hotspot Groups",
+      "Parent Hotspots",
+      "Parent Hotspot Placement"
+    ]
+  },
+  {
+    "objectID": "Pendingsuggestions.html#pending-suggestions",
+    "href": "Pendingsuggestions.html#pending-suggestions",
+    "title": "eBird Hotspot Manual",
+    "section": "",
+    "text": "For pending (un-reviewed) suggestions, tap “Details” to see what changed\n\nAccept: anything in GREEN will be added to the Hotspot About page\nDecline: anything in RED will be removed from the Hotspot About page\nClose: hide details without acting on them\n\nWARNING: “Details” shows how the suggested changes will impact the current About page. If the underlying About content has changed since the suggestion was made, the comparison shows what will actually change (not necessarily what the suggester saw at the time of their revisions). \nhighlights differences between the suggested revisions and the page at the time the suggestion was made, NOT the current About page. This means if you Accept more recent pending suggestions, earlier pending suggestions may no longer apply (i.e., the text being changed may no longer exist on the page) We recommend quickly scanning the Details of all pending suggestions for a single hotspot before Accepting any of them.\n(!) eBird Hotspot Editors can see the personal account details for the eBirder who made the suggestion, including contact details. People with content editing permissions can only see the name of the person who made the suggestion, with a link to their eBird profile if public. \n\n\n\n\n\nSwitch between suggestions for a single hotspot and all hotspots. You can also filter pending suggestions by language",
+    "crumbs": [
+      "Part 2: Hotspot Content",
+      "Reviewing Content Suggestions",
+      "Pending Suggestions"
+    ]
+  },
+  {
+    "objectID": "RestrictedAccessLocations.html#restricted-access-locations",
+    "href": "RestrictedAccessLocations.html#restricted-access-locations",
+    "title": "eBird Hotspot Manual",
+    "section": "",
+    "text": "Although hotspots should generally be accessible to the public, occasional locations are not open to the public but may be regularly birded by those who have been authorized to do so. It is still appropriate to list the location as a hotspot since it is desirable to pool the data from multiple observers. \nBe sure to indicate a hotspot is Restricted Access in the Hotspot Features list. This will ensure that a “Restricted Access” tag also appears next to the hotspot name on the eBird website. Until a similar UI tag is available in eBird mobile, we recommend also placing  the words “restricted access” (or the equivalent in the local language) in lower-case in parentheses following the location name. Detailed access instructions should not be part of the hotspot name; provide these in the Plan Your Visit section of the Hotspot about page.\n\nExamples:\n\nPatuxent River Naval Air Station (restricted access)\nHolme Bird Observatory (restricted access)\nFinca Tempixque (acceso restringido)",
+    "crumbs": [
+      "Part 4: Standards and Naming Conventions for eBird Hotspots",
+      "Additional Modifiers",
+      "Restricted Access Locations"
+    ]
+  },
+  {
+    "objectID": "StakeoutHotspots.html#stakeout-hotspots",
+    "href": "StakeoutHotspots.html#stakeout-hotspots",
+    "title": "eBird Hotspot Manual",
+    "section": "",
+    "text": "A single out-of-range rarity often generates a large amount of attention from birders. When such a bird occurs at a new site (i.e., not at an already-established hotspot) it is good practice to quickly set up a “stakeout” hotspot to give eBirders an accurate and consistent location to use when they visit. Please encourage those who “chase” these rarities to use the hotspot rather than creating their own location. These hotspots should be retained even after the bird has departed so that new eBird users can enter past rarities.\nOur conventions for “stakeout hotspots” are:\n\nPlot the point as precisely as possible in relation to where the rarity is being seen\nAlways begin with “stakeout” in lowercase \nNext, include the common name of the bird in the local language\nNext, include a geographical identifier; this can be the town, a well-known road, or other feature that will distinguish this hotspot from others for the same species in the region. \nDo not include county, state, or country, since these are automatically added by eBird. \nFinally, include the date range when the bird was seen; for ongoing rarities, these names may need to be edited in real time if the rare bird persists for months or years\n\n\n\nExamples:\n\nstakeout Black-throated Gray Warbler, 103 James H. Luther Dr., Taunton (Jan 2013)\nstakeout Black-throated Sparrow, Elora (2005-06)\nstakeout Eurasian Blackcap, Durbanville (Jul 2017)",
+    "crumbs": [
+      "Part 4: Standards and Naming Conventions for eBird Hotspots",
+      "Additional Modifiers",
+      "Stakeout Hotspots"
+    ]
+  },
+  {
+    "objectID": "Towns.html#towns",
+    "href": "Towns.html#towns",
+    "title": "eBird Hotspot Manual",
+    "section": "",
+    "text": "In addition, in some parts of the world (e.g., western USA) it is common to go birding in small towns because the trees around town provide oasis-like habitat for migrants and vagrants. In these cases, please add “town” English), “pueblo” (Spanish), or an equivalent in parentheses after the hotspot name so that it is clear that the hotspot refers to birding in town. Do not do this for larger cities and towns, since this is intended only when a town area is fairly small and is typically covered by birding the semi-urban or suburban area on foot as a discrete habitat. (Despite the guidance above, in some cases, sub-hotspots would be appropriate when considering the town as an appropriately-sized parent hotspot.)\n\nExamples: \n\nCampo (town)\nPunta Banda (pueblo)\nRossport (town site)",
+    "crumbs": [
+      "Part 4: Standards and Naming Conventions for eBird Hotspots",
+      "Additional Modifiers",
+      "Towns"
     ]
   }
 ]

@@ -1,4 +1,4 @@
-### **List-building Parent Hotspots (Very Large Areas)**
+## **List-building Parent Hotspots (Very Large Areas)**
 
 In Hotspot Groups, the Parent hotspot represents the entire area covered by the group. However, some areas are so large that the Parent hotspot carries too much spatial uncertainty to be useful for scientific analyses. 
 

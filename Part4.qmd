@@ -1,4 +1,4 @@
-## Part 4: Standards and Naming Conventions for eBird Hotspots
+# Part 4: Standards and Naming Conventions for eBird Hotspots
 
 When approving new hotspots and reviewing current hotspots, try to use names that conform to the naming conventions described below. Consistent naming helps users find the correct hotspot when using the mapping tool to submit a checklist, as well as when selecting hotspots from drop-down lists. Searching for output based on hotspot names is also easier when the naming conforms to consistent standards.
 

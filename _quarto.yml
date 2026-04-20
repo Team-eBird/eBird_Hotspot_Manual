@@ -72,11 +72,11 @@ website:
             text: Hotspot Groups Overview
           - href: ParentHotspots.qmd
             text: Parent Hotspots
-            content:
+            contents:
               - href: ParentHotspotContent.qmd
                 text: Parent Hotspot Content
               - href: AdditionalParentHotspotUI.qmd
-                text: AdditionalParentHotspotUI
+                text: Additional Parent Hotspot UI
               - href: DataAggregation.qmd
                 text: Data Aggregation
               - href: ParentHotspotPlacement.qmd
@@ -84,13 +84,13 @@ website:
               - href: NamingParentandSub-Hotspots.qmd
                 text: Naming Parent Hotspots and Sub-hotspots
               - href: List-buildingParentHotspots.qmd
-                text: List-buildingParentHotspots
+                text: List-building Parent Hotspots
           - href: CreatingandManaging.qmd
             text: Creating and Managing Hotspot Groups
           - href: Multi-RegionHotspotGroups.qmd
             text: Multi-Region Hotspot Groups
           - href: HotspotGroupFAQs.qmd
-            text: HotspotGroupFAQs
+            text: Hotspot Group FAQs
         
             
 
@@ -130,9 +130,9 @@ website:
               - href: PelagicHotspots.qmd
                 text: Pelagic Hotspots
               - href: PrivacyConcerns.qmd
-                text: Privacy concerns
+                text: Privacy Concerns
               - href: BirdcamHotspots.qmd
-                text: Birdcam hotspots
+                text: Birdcam Hotspots
               - href: MiscNaming.qmd
                 text: Miscellaneous Hotspot Naming Conventions
           - href: DownloadHotspotFile.qmd

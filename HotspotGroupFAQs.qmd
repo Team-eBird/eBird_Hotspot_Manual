@@ -1,6 +1,6 @@
 ## **Hotspot Group FAQs**
 
-#### **What do Hotspot Groups look like in the eBird Basic Dataset (EBD)?**
+### **What do Hotspot Groups look like in the eBird Basic Dataset (EBD)?**
 
 The eBird Basic Dataset (EBD) and Sampling Event Dataset (SED) provide data at the observation and checklist level, respectively. Because each checklist is associated with one specific location, Hotspot groups don’t affect how data appears in the EBD and SED. 
 

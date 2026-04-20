@@ -1,4 +1,4 @@
-### **What is a Hotspot Group?**
+## **What is a Hotspot Group?**
 
 A **Hotspot Group** consists of two or more hotspots that are part of the same continuous geographical area.
 

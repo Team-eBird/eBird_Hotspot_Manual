@@ -2,7 +2,7 @@
 
 Only eBird Hotspot Editors can create and manage Hotspot groups. 
 
-#### **Create a Hotspot Group**
+### **Create a Hotspot Group**
 
 1.  Navigate to the hotspot you want to act as the parent location
 
@@ -24,7 +24,7 @@ Only eBird Hotspot Editors can create and manage Hotspot groups. 
 
 ![](images/paste-20.png)
 
-#### **Dissolve a Hotspot Group**
+### **Dissolve a Hotspot Group**
 
 1.  Follow steps 1 and 2 from **Create a Hotspot Group** (above) to access the **Manage Sub-hotspots** tab on the Parent Hotspot’s Adminpage. 
 
