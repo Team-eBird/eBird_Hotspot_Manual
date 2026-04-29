@@ -1,5 +1,0 @@
-## **Hotspot Content FAQs**
-
-### **Can I undo or revert an About page back to an earlier version?**
-
-While it is not possible to undo or reverse changes once accepted, you can always restore a previous version of About content by copy-pasting text from the [Content Edit History](ContentEditHistory.qmd) panel. (Uncheck the “Compare with previous version” box so that you can copy the text without highlighted changes.)

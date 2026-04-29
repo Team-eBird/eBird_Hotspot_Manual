@@ -1,3 +1,0 @@
-## **Auto-Approval**
-
-eBird volunteers and anyone with \>100 complete eBird checklists in the previous year will have their suggestions automatically approved, meaning their edits will appear on the public About page immediately upon submission. Automatically approved changes will be tracked in the Content Edit History and [Reviewed Content Suggestions](Reviewedsuggestions.qmd) (below) and Content Editors can always adjust or reverse changes by copying text from an earlier version of the page and pasting it back into the relevant sections.

@@ -1,9 +1,0 @@
-## **Links**
-
-Only Hotspot Editors and accounts with content editing permissions can add and manage Hotspot About links. 
-
-There can only be one “Official Website” link. This link will be more prominently highlighted at the top of the hotspot content. 
-
-You can have unlimited Hotspot links. Link Titles appear the same across all languages. We recommend using a short, descriptive title of the page in its default language. 
-
-![](images/paste-11.png){fig-align="center"}
