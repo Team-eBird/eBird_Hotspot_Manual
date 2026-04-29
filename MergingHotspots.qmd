@@ -8,4 +8,4 @@ ALWAYS KEEP MORE REFINED LOCATIONS SEPARATE FROM THE MAIN LOCATION \[e.g., DO NO
 
 ![](images/paste-9.png){fig-align="center"}
 
-Above: This warning appears if you attempt to Merge any hotspot that is actively part of a Hotspot Group.
+Above: This warning appears if you attempt to Merge any hotspot that is actively part of a Hotspot Group. Go to the Hotspot Admin page for the parent hotspot and remove the hotspot from the group. It can then be reverted to a personal location. 

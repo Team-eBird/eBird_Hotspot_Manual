@@ -10,6 +10,4 @@
 
 -   Saint or Sainte – St or Ste
 
--   Zone d’exploitation contrôlée – ZECOther abbreviations, especially in non-English languages, can be adopted by local hotspot teams. However, these need to be readily understood by the eBirding community and also need to be used consistently within the region and (ideally) outside of it. In general, use “and” instead of an ampersand (&), but in cases where hotspot names are very long, or where ampersands are already widely used (e.g., [C&O Canal--Violette’s Lock](https://ebird.org/hotspot/L192824)), feel free to use an ampersand to reduce the length.
-
-    It is acceptable to use internationally recognized region abbreviations (which appear in URLs in eBird, such as <https://ebird.org/region/MX-CHP>) for countries, states, or provinces. Please use other abbreviations very sparingly. Please be careful when using abbreviations that can be confused with internationally recognized postal abbreviations (in the above list, CA (California), NA (Namibia), NM (New Mexico), and WA (Washington) are confusing exceptions given the other abbreviations we allow). Do not abbreviate the full name of a national park or wildlife area (For example, please use Rocky Mountain NP, not RMNP). When in doubt, spell it out.
+-   Zone d’exploitation contrôlée – ZEC

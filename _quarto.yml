@@ -121,6 +121,8 @@ website:
                 text: Abbreviations (Spanish)
               - href: AbbreviationsFrench.qmd
                 text: Abbreviations (French)
+              - href: OtherAbbreviations.qmd
+                text: Other Abbreviations
               - href: RestrictedAccessLocations.qmd
                 text: Restricted Access Locations
               - href: HistoricalLocations.qmd
@@ -147,3 +149,4 @@ format:
   html:
     theme: cosmo
     toc: true
+    from: markdown-smart

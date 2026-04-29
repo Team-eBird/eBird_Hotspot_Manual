@@ -16,4 +16,4 @@ If you Accept more recent pending suggestions, earlier pending suggestions may n
 
 ![](images/paste-12.png){fig-align="center"}
 
-Switch between suggestions for a single hotspot and all hotspots. You can also filter pending suggestions by language
+Switch between suggestions for a single hotspot and all hotspots. You can also filter pending suggestions by language.
