@@ -1,0 +1,3422 @@
+# Spanish translations for jc package
+# Copyright (C) 2026 Free Software Foundation, Inc.
+# This file is distributed under the same license as the jc package.
+# Automatically generated, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: jc 2585\n"
+"POT-Creation-Date: 2026-07-01 15:29-0700\n"
+"PO-Revision-Date: 2026-07-01 15:29-0700\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. type: Plain text
+#: index.qmd:2
+msgid "<br> <br> <br> <br>"
+msgstr ""
+
+#. type: Plain text
+#: index.qmd:6
+msgid "::: {style=\"text-align: center;\"} ![](ebird_logo_front.png)  :::"
+msgstr ""
+
+#. type: Plain text
+#: index.qmd:9
+msgid "::: {style=\"text-align: center;\"} # Hotspot Handbook"
+msgstr ""
+
+#. type: Plain text
+#: index.qmd:12
+msgid "## Hotspot review policies, instructions, and standards :::"
+msgstr ""
+
+#. type: Plain text
+#: Introduction.qmd:2
+msgid "# Introduction"
+msgstr ""
+
+#. type: Plain text
+#: Introduction.qmd:4
+msgid ""
+"Thank you for volunteering to help review and manage eBird hotspots. This "
+"document describes the purpose of hotspots, how to review and approve "
+"requests for new hotspots, and how to rename, relocate, merge and manage the "
+"hierarchy of existing hotspots."
+msgstr ""
+
+#. type: Plain text
+#: Introduction.qmd:6
+msgid ""
+"Hotspots allow birders to submit data to common locations. The idea is to "
+"aggregate data from these hotspots and provide output that is useful to "
+"birders wishing to learn more about birds and their distribution. With "
+"pooled data from multiple observers, hotspots become a valuable tool for "
+"finding out when and where to see birds in your area and elsewhere. All "
+"eBird hotspots appear in the eBird Hotspot Explorer (<http://ebird.org/ebird/"
+"hotspots>)."
+msgstr ""
+
+#. type: Plain text
+#: Introduction.qmd:8
+msgid ""
+"It is important to remember that **data collected at FINE resolutions are "
+"much more valuable than data aggregated over very large areas**. For this "
+"reason, we try to include sub-hotpots (see [Hotspot Definitions and "
+"Hierarchy](HotspotDefinitions.qmd)) in order to incentivize birders towards "
+"birding across shorter distances and using hotspots that are closely tied to "
+"their location on the ground.  So, while we do have a hotspot for Rocky "
+"Mountain NP (Larimer Co), we also have many hotspots for locations within "
+"Rocky Mountain NP, for example [Rocky Mountain NP--Endovalley Picnic Area]"
+"(https://ebird.org/hotspot/L6136876)."
+msgstr ""
+
+#. type: Plain text
+#: Introduction.qmd:10
+msgid "## **What is an eBird Hotspot?**"
+msgstr ""
+
+#. type: Plain text
+#: Introduction.qmd:12
+msgid ""
+"eBird hotspots are primarily useful as a way of aggregating data from "
+"multiple observers under a single location. This simplifies data entry by "
+"providing curated, properly-sited, and sensibly-named locations that "
+"represent a given birding site and aggregates similar birding effort under a "
+"single location. Because Hotspots can significantly impact the data entry "
+"process—influencing where birders choose to go both within a site and within "
+"a region—they should be created, named, and positioned to clearly and "
+"intuitively reflect the area they cover. Most hotspots should be publicly "
+"accessible, but see [Restricted Access locations]"
+"(RestrictedAccessLocations.qmd) section below. "
+msgstr ""
+
+#. type: Plain text
+#: Introduction.qmd:14
+msgid ""
+"During data entry in eBird mobile, users that start a checklist will get a "
+"list of recommended hotspots nearby. Submitted data can then easily be "
+"explored on eBird hotspot pages on the web, which includes tools like bar "
+"charts, iconic birds, illustrated checklists, photo galleries, recent "
+"visits, and of course an official list of species for the site. Hotspot "
+"summary pages can be really useful for landowners or land managers as a "
+"quick way to understand birds on the property, but see below section on "
+"[Hotspot Definitions and Hierarchy](HotspotDefinitions.qmd) and note that "
+"hotspots should not be merged just to improve data summaries (data can be "
+"combined for data summaries in other ways!). "
+msgstr ""
+
+#. type: Plain text
+#: Introduction.qmd:16
+msgid ""
+"Please think of eBird hotspots as **curated sites visited repeatedly by the "
+"eBird community**."
+msgstr ""
+
+#. type: Plain text
+#: Introduction.qmd:18
+msgid ""
+"eBird hotspots are **not** necessarily superlative birding locations; they "
+"can be designated for high species diversity, presence of one or several "
+"specialty species, a regularly birded location that is publicly accessible, "
+"or almost anywhere in which it is desirable to aggregate data from multiple "
+"eBirders in a single point. Sometimes hotspots represent frequently visited "
+"tourist sites where birders are likely to keep an eBird checklist, "
+"especially if visiting from abroad and experiencing new life birds. In "
+"certain cases, eBird hotspots are established for scientific surveys. Some "
+"examples of hotspots that may not be obvious include:"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Introduction.qmd:20
+msgid ""
+"[Piazza San Pietro](https://ebird.org/hotspot/L1107515) \\[urban, paved "
+"plaza, and popular tourist site\\]"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Introduction.qmd:22
+msgid ""
+"[Sap Anan--PTT gas station on Hwy. 4 (southbound)](https://ebird.org/hotspot/"
+"L6368496) \\[gas station and rest area along route popular with birders; not "
+"particularly good for birds but a spot many birders will stretch their legs "
+"and take a break\\]"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Introduction.qmd:24
+msgid ""
+"[Detroit Metro Airport (restricted access)](https://ebird.org/hotspot/"
+"L299938) \\[this and many airports are appropriate hotspots, even when "
+"viewing from the terminals only; many traveling birders will enter lists and "
+"airports do provide grassland habitat that may attract specialty species\\]"
+msgstr ""
+
+#. type: Plain text
+#: Introduction.qmd:26
+msgid "## **What is not an eBird hotspot?**"
+msgstr ""
+
+#. type: Plain text
+#: Introduction.qmd:28
+msgid "Examples of sites that should not be hotspots include:"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Introduction.qmd:30
+msgid "Personal yards and other private property"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Introduction.qmd:32
+msgid "Personal walking routes"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Introduction.qmd:34
+msgid ""
+"Property that is visited only by one person or by small numbers of people "
+"with permission only"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Introduction.qmd:35
+msgid ""
+"Random interesting observations unlikely to be repeated (e.g., along a major "
+"road or at an unremarkable area of urban or suburban habitat)"
+msgstr ""
+
+#. type: Plain text
+#: Overview.qmd:2
+msgid ""
+"This section describes how to sign in to the Hotspot Review Tools, view "
+"hotspot suggestions in your area, open and review a hotspot suggestion, and "
+"then accept (or reject) a hotspot. Chrome, Safari, and Mozilla Firefox "
+"browsers are all fully supported; other browsers may not work as well. "
+msgstr ""
+
+#. type: Bullet: '1.  '
+#: Overview.qmd:4
+msgid ""
+"Log in to the eBird Hotspot Review Tools (<https://ebird.org/admin/"
+"hotspots.htm>) using your standard eBird credentials. If you are logged in "
+"to a different account, you will not be able to edit hotspots. We recommend "
+"bookmarking this page."
+msgstr ""
+
+#. type: Bullet: '2.  '
+#: Overview.qmd:6
+msgid ""
+"Make sure that you are in the Hotspots tab at the top left of the screen "
+"(see below)."
+msgstr ""
+
+#. type: Plain text
+#: Overview.qmd:8
+msgid "![](images/paste-3.png)"
+msgstr ""
+
+#. type: Plain text
+#: Overview.qmd:10
+#, no-wrap
+msgid "**View and Sort Pending Hotspot Suggestions**\n"
+msgstr ""
+
+#. type: Plain text
+#: Overview.qmd:12
+msgid ""
+"The list of hotspots waiting for evaluation in your review region is visible "
+"on the default page of the Hotspot Review Tools: <https://ebird.org/admin/"
+"hotspots.htm>. You can sort this page by any of the columns; just click the "
+"header (e.g., Name, Country), and you’ll be all set. You can also search the "
+"list of pending hotspots by using Command+F on a Mac, or Ctrl+F on a PC. "
+msgstr ""
+
+#. type: Plain text
+#: Overview.qmd:14
+#, no-wrap
+msgid "**Open and Review Hotspot Suggestions**\n"
+msgstr ""
+
+#. type: Plain text
+#: Overview.qmd:16
+msgid "![](images/paste-4.png){fig-align=\"center\"}"
+msgstr ""
+
+#. type: Plain text
+#: Overview.qmd:18
+msgid ""
+"It is important to know that **clicking “Review” immediately accepts a given "
+"hotspot**, and then allows editing (changing name, location, or merging) to "
+"improve it as needed. If it is [not an appropriate hotspot]"
+"(ToAcceptorNotAccept.qmd), there are just two clicks required: “Review” and "
+"then “Revert to personal location” and then the hotspot request is removed "
+"and the hotspot will not be created. This tentative acceptance makes the "
+"process efficient, but it is important to understand. "
+msgstr ""
+
+#. type: Plain text
+#: Overview.qmd:19
+#, no-wrap
+msgid "**Note:** For more details and explanations on editing hotspots (including deleting a hotspot and reverting a hotspot to a personal location) refer to the “[Editing Existing Hotspots](EditingExistingHotspots.qmd)” section.\n"
+msgstr ""
+
+#. type: Plain text
+#: ToAcceptorNotAccept.qmd:2
+msgid "## **To Accept or Not Accept**"
+msgstr ""
+
+#. type: Plain text
+#: ToAcceptorNotAccept.qmd:4
+msgid ""
+"Many hotspots cannot be immediately accepted, or accepted at all. Here are "
+"some common situations."
+msgstr ""
+
+#. type: Bullet: '-   '
+#: ToAcceptorNotAccept.qmd:6
+msgid ""
+"If a user recommends a hotspot that clearly does not meet the criteria for a "
+"shared hotspot (such as \"My Backyard\" or just the user’s name such as "
+"\"Steve Jones\"), go ahead and resolve the recommendation by clicking "
+"“Review” and then “Revert to Personal Location.”"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: ToAcceptorNotAccept.qmd:8
+msgid ""
+"Be conscious of duplicate suggestions. Sometimes, a user will recommend a "
+"hotspot similar to one that already exists. In that case, don’t accept the "
+"Hotspot. Consider merging the suggested hotspot. If the suggestion is an "
+"improvement over the existing hotspot, merge the suggestion, then move or "
+"rename the existing hotspot."
+msgstr ""
+
+#. type: Bullet: '-   '
+#: ToAcceptorNotAccept.qmd:10
+msgid ""
+"Occasionally, a hotspot will be recommended that has no data associated with "
+"it. In these cases the hotspot editing screen will have a delete option next "
+"to the hotspot name. This only appears for locations with no data associated "
+"with them (i.e., you cannot delete a location that has associated data). In "
+"these cases, feel free to delete the location if it is not a worthy hotspot. "
+"Some hotspots might appear to have no data, but they won’t have the deletion "
+"option. This is most likely because they have hidden checklists or only have "
+"sensitive, rare and/or unaccepted species, but they still have data, so "
+"deletion isn’t an option."
+msgstr ""
+
+#. type: Bullet: '-   '
+#: ToAcceptorNotAccept.qmd:12
+msgid ""
+"If you just can't figure out what the user's intent was, send an email to "
+"find out. When in doubt, revert to a personal location. This is always the "
+"safest option."
+msgstr ""
+
+#. type: Plain text
+#: ToAcceptorNotAccept.qmd:14
+msgid ""
+"\\ Hotspot organization and hierarchy can be managed in additional ways, so "
+"decisions to accept new hotspots should focus on their potential benefit to "
+"data entry and aggregation. Read the sections on [What is a Hotspot?]"
+"(Introduction.qmd#what-is-an-ebird-hotspot) and [Hotspot Naming]"
+"(HotspotNaming-Groups.qmd) for guidance on special circumstances such as sub-"
+"hotspots or list-building parent hotspots."
+msgstr ""
+
+#. type: Plain text
+#: NewHotspotEvaluation.qmd:2
+msgid "## **New Hotspot Evaluation**"
+msgstr ""
+
+#. type: Bullet: '1.  '
+#: NewHotspotEvaluation.qmd:4
+msgid ""
+"**Check for duplicates**—Select the Merge option. This does not merge the "
+"hotspot yet, but loads other hotspots in the area so that you can check if "
+"the hotspot you just accepted already exists nearby with the same or a "
+"similar name. If it does already exist, merge the new location with the "
+"existing hotspot. If it does not already exist, proceed with the next steps. "
+"Caution: Make sure the new hotspot is really a duplicate before merging. "
+"Merging cannot be reversed! \\*\\*NOTE: When merging with an existing "
+"hotspot if you do not select Delete after merging, the new hotspot will "
+"persist with no data.**"
+msgstr ""
+
+#. type: Bullet: '2.  '
+#: NewHotspotEvaluation.qmd:6
+msgid ""
+"**Consider if the hotspot is acceptable**—see “[To Accept or Not Accept]"
+"(ToAcceptorNotAccept.qmd)”"
+msgstr ""
+
+#. type: Bullet: '3.  '
+#: NewHotspotEvaluation.qmd:8
+msgid ""
+"**Check that the name matches eBird naming protocols** (see [Part IV]"
+"(Part4.qmd)). If necessary, click **Rename** and rename the hotspot."
+msgstr ""
+
+#. type: Bullet: '4.  '
+#: NewHotspotEvaluation.qmd:10
+msgid ""
+"**Confirm location—**If you need to move the new hotspot, select the "
+"**Move** option, click the new location on the map, and then click **Move** "
+"again. \\*\\***NOTE:** This step should be last, because it automatically "
+"closes the hotspot editing window."
+msgstr ""
+
+#. type: Bullet: '5.  '
+#: NewHotspotEvaluation.qmd:12
+msgid ""
+"**Consider hotspot hierarchy–if the new hotspot is best understood as a "
+"subhotspot within a group that already exists, go to the parent hotspot "
+"Admin tools and add the new one as a subhotspot. Similarly, for new parent "
+"hotspots, add any subhotspots to them.**"
+msgstr ""
+
+#. type: Plain text
+#: NewHotspotEvaluation.qmd:14
+#, no-wrap
+msgid "**Finito! You’re done, and another hotspot has joined the system!!!** Return to the Hotspot Review Tools, and the suggestion no longer appears in the unreviewed hotspots page. \n"
+msgstr ""
+
+#. type: Plain text
+#: NewHotspotEvaluation.qmd:17
+#, no-wrap
+msgid ""
+"**\\\n"
+"\\*\\*NOTE**: If you change your mind on acceptance or need to revisit the hotspot, see the [Viewing Reviewed Hotspots](ViewingReviewedHotspots.qmd) section below.\n"
+msgstr ""
+
+#. type: Plain text
+#: NewHotspotEvaluation.qmd:19
+#, no-wrap
+msgid "**Allow time for the database to update**. The hotspot page will be viewable with the correct link immediately, and checklists will correctly link to it, but some of the exploration tools in the Hotspot Explorer (including the map) update once every \\~24 hours. \n"
+msgstr ""
+
+#. type: Plain text
+#: NewHotspotEvaluation.qmd:23
+msgid ""
+"If someone suggests the same Hotspot more than once, you will need to wait "
+"until the next day to review the others if you want to merge them. Likewise, "
+"if two users suggest the same location, review and accept one, then wait "
+"until the next day to review and merge the other.\\ \\ **Pro Tip:** If you "
+"accidentally accept two duplicate hotspots on the same day, add “(Merge)” to "
+"the name of one so you can easily find and correct it later. "
+msgstr ""
+
+#. type: Plain text
+#: NewHotspotEvaluation.qmd:24
+msgid ""
+"Submit Data and Hotspot editing maps are nearly live queries (every two "
+"hours), so the hotspot lists here will be almost current."
+msgstr ""
+
+#. type: Plain text
+#: ViewingReviewedHotspots.qmd:2
+msgid "## **Viewing Reviewed Hotspots**"
+msgstr ""
+
+#. type: Plain text
+#: ViewingReviewedHotspots.qmd:4
+msgid ""
+"At the top right of the Hotspot Review Tools page, there is a “Show "
+"Reviewed” button. Click to see list of all the hotspots that have already "
+"been reviewed in your review region except for merged . This page shows who "
+"accepted or didn’t accept the hotspot and when."
+msgstr ""
+
+#. type: Plain text
+#: ViewingReviewedHotspots.qmd:6
+msgid "![](images/paste-5.png){fig-align=\"center\"}"
+msgstr ""
+
+#. type: Plain text
+#: ViewingReviewedHotspots.qmd:8
+msgid ""
+"All columns on this page are sortable if you click on the header—with the "
+"right two being most important. The “Reviewed On” column lets you view by "
+"time of review, and “View in eBird” takes you to the Edit hotspot screen "
+"where you can revisit hotspot decisions that have already been made."
+msgstr ""
+
+#. type: Plain text
+#: ViewingReviewedHotspots.qmd:9
+#, no-wrap
+msgid "**Re-review** will re-Accept a hotspot that was previously marked Not Accepted.  giving you the option to review (rename, merge, or move) it again.\n"
+msgstr ""
+
+#. type: Plain text
+#: EditingExistingHotspots.qmd:2
+msgid "## **Editing Existing Hotspots**"
+msgstr ""
+
+#. type: Plain text
+#: EditingExistingHotspots.qmd:4
+msgid ""
+"Existing hotspots can be renamed, moved, merged, deleted, and reverted to "
+"personal locations using the Hotspot Explorer in eBird. "
+msgstr ""
+
+#. type: Bullet: '1.  '
+#: EditingExistingHotspots.qmd:6
+msgid "Sign in to eBird."
+msgstr ""
+
+#. type: Bullet: '2.  '
+#: EditingExistingHotspots.qmd:8
+msgid "Navigate to the hotspot you wish to edit. Easy ways to do that include:"
+msgstr ""
+
+#. type: Bullet: '    1.  '
+#: EditingExistingHotspots.qmd:10
+msgid "Click the hotspot name from an eBird checklist."
+msgstr ""
+
+#. type: Bullet: '    2.  '
+#: EditingExistingHotspots.qmd:12
+msgid "Find it on the eBird Hotspot map (https://ebird.org/hotspots). "
+msgstr ""
+
+#. type: Bullet: '    3.  '
+#: EditingExistingHotspots.qmd:14
+msgid ""
+"Select it from the list of hotspots on a region page (top 100 hotspots only)."
+msgstr ""
+
+#. type: Bullet: '3.  '
+#: EditingExistingHotspots.qmd:17
+msgid ""
+"From the Hotspot map: Click the **Edit** link to open the Edit Location page."
+"\\ From an individual Hotspot page: Tap **Admin** from the navigation sidebar"
+msgstr ""
+
+#. type: Plain text
+#: EditingExistingHotspots.qmd:19
+msgid "![](images/paste-6.png){fig-align=\"center\"}"
+msgstr ""
+
+#. type: Plain text
+#: EditingExistingHotspots.qmd:21
+msgid "![](images/paste-7.png){fig-align=\"center\"}"
+msgstr ""
+
+#. type: Plain text
+#: EditingExistingHotspots.qmd:23
+#, no-wrap
+msgid "**Rename**—To change the hotspot name, select the **Rename** option, type the new name, and click **Rename**. (See [Part IV: Standards and Naming Conventions for eBird Hotspots](Part4.qmd))\n"
+msgstr ""
+
+#. type: Plain text
+#: EditingExistingHotspots.qmd:26
+#, no-wrap
+msgid ""
+"**\\\n"
+"Manage Sub-Hotspots**—[see Hotspot Groups](Part3.qmd)\n"
+msgstr ""
+
+#. type: Plain text
+#: EditingExistingHotspots.qmd:28
+#, no-wrap
+msgid "**Move—**To move the hotspot, select the **Move** option, click on the map to plot the new location, and then click **Move** again. (See [Plotting Hotspots](PlottingHotspots.qmd)) **NOTE:** If you know the coordinates of the new location, enter them in the **Zoom to:** box, press the **\\<Enter\\>** key, and then click **Move**.\n"
+msgstr ""
+
+#. type: Plain text
+#: EditingExistingHotspots.qmd:30
+#, no-wrap
+msgid "**Merge—**See [Merging Hotspots](MergingHotspots.qmd). The option to merge only appears if a Hotspot has at least one eBird checklist associated with it. To merge two hotspots, select the **Merge** option. The map will display the surrounding hotspots as red pins, and the hotspot you’re working with will be shown as an orange pin with a plus sign. Click the hotspot that you want to merge your current hotspot *INTO*, select the **Delete after merging** check box, and then click **Merge**. Be careful! Merging cannot be undone.\n"
+msgstr ""
+
+#. type: Plain text
+#: EditingExistingHotspots.qmd:32
+#, no-wrap
+msgid "**NOTE:** If you do not select Delete after merging, the old hotspot will persist with no data.\n"
+msgstr ""
+
+#. type: Plain text
+#: EditingExistingHotspots.qmd:34
+#, no-wrap
+msgid "**Revert to Personal Location—**Reverts a hotspot to a personal location. If the personal location that is created is shared among several observers, the one with the oldest checklist (i.e., the first checklist ever submitted for the site, not the oldest observation date) will become the \"owner\" of the location and is  responsible for any moves, renaming, or merging of this location, and also is the only one able to recommend it again as a hotspot. **NOTE:** You can still find these in the “Reviewed” tab if you want to reverse your decision.\n"
+msgstr ""
+
+#. type: Plain text
+#: EditingExistingHotspots.qmd:36
+msgid "![](images/paste-8.png){fig-align=\"center\"}"
+msgstr ""
+
+#. type: Plain text
+#: EditingExistingHotspots.qmd:38
+msgid ""
+"Above: This warning appears if you attempt to Revert any hotspot that is "
+"actively part of a Hotspot Group. Go to the Hotspot Admin page for the "
+"[parent hotspot](https://team-ebird.github.io/eBird_Hotspot_Manual/"
+"Part3.html) and remove the hotspot from the group. It can then be reverted "
+"to a personal location."
+msgstr ""
+
+#. type: Plain text
+#: EditingExistingHotspots.qmd:39
+#, no-wrap
+msgid "**Delete—**You will only see the option to delete a hotspot if it has no eBird checklists associated with it. In this case, a blue **delete** option appears next to the name. There is little point in maintaining hotspots with no data, unless you are confident they will be useful in the future. Please delete these if you deem it appropriate.\n"
+msgstr ""
+
+#. type: Plain text
+#: PlottingHotspots.qmd:2
+msgid "## **Plotting Hotspots**"
+msgstr ""
+
+#. type: Plain text
+#: PlottingHotspots.qmd:4
+msgid ""
+"Exactly where to plot a hotspot is something of a judgment call. These "
+"general rules should be followed:"
+msgstr ""
+
+#. type: Bullet: '1.  '
+#: PlottingHotspots.qmd:6
+msgid ""
+"Plot the hotspot in a place that is a good representation of where most "
+"birding takes place. If a 400 hectare park has a well-used hiking trail in "
+"the western third and a patch of forest with no trails that takes up the "
+"eastern two-thirds, plot the hotspot closer to the heavily used western end, "
+"not in the middle or eastern portion."
+msgstr ""
+
+#. type: Bullet: '2.  '
+#: PlottingHotspots.qmd:8
+msgid ""
+"Plot the hotspot in a place that navigation apps (e.g., Google Maps, Waze) "
+"will accurately direct a birder to the location. For example, placing a "
+"hotspot in the middle of the woods that would direct Google Maps to an "
+"access point that does not exist, instead of the primary parking area, is "
+"not ideal."
+msgstr ""
+
+#. type: Bullet: '3.  '
+#: PlottingHotspots.qmd:9
+msgid ""
+"For general areas (AKA “[list-building parent hotspots](List-"
+"buildingParentHotspots.qmd)”),  plot them in a central location relative to "
+"their constituent sub-hotspots, but make sure they are sufficiently "
+"separated from other hotspots to stand out from the rest. This helps "
+"identify the list-building parent hotspots on a map. For example, if there "
+"are a cluster of hotspots around a wildlife drive in a refuge, place the "
+"list-building parent hotspot towards the refuge’s center, sufficiently away "
+"from the other hotspots so that users can easily find it and select it."
+msgstr ""
+
+#. type: Plain text
+#: MergingHotspots.qmd:2
+msgid "## **Merging Hotspots**"
+msgstr ""
+
+#. type: Plain text
+#: MergingHotspots.qmd:4
+msgid ""
+"When you merge two hotspots, the data from two locations is combined into a "
+"single hotspot. For example, if hotspot A is plotted correctly, but hotspot "
+"B has a similar name and is plotted nearby (and is a clear duplicate), you "
+"should merge hotspot B \\*into\\* hotspot A. In almost all cases, you should "
+"also select the \"Delete after merging” check box so that the hotspot you "
+"merged the data from (in this case hotspot B) will be deleted. "
+msgstr ""
+
+#. type: Plain text
+#: MergingHotspots.qmd:6
+#, no-wrap
+msgid "**Note:** Please be VERY careful when merging and deleting hotspots as this action cannot be reversed. \n"
+msgstr ""
+
+#. type: Plain text
+#: MergingHotspots.qmd:8
+msgid ""
+"ALWAYS KEEP MORE REFINED LOCATIONS SEPARATE FROM THE MAIN LOCATION \\[e.g., "
+"DO NOT MERGE “Rocky Mountain NP--Endovalley Campground” into the “Rocky "
+"Mountain NP (Larimer Co)” hotspot\\]."
+msgstr ""
+
+#. type: Plain text
+#: MergingHotspots.qmd:10
+msgid "![](images/paste-9.png){fig-align=\"center\"}"
+msgstr ""
+
+#. type: Plain text
+#: MergingHotspots.qmd:11
+msgid ""
+"Above: This warning appears if you attempt to Merge any hotspot that is "
+"actively part of a Hotspot Group. Go to the Hotspot Admin page for the "
+"parent hotspot and remove the hotspot from the group. It can then be "
+"reverted to a personal location."
+msgstr ""
+
+#. type: Plain text
+#: ContentPermissions.qmd:2
+msgid "## **Content Permissions**"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: ContentPermissions.qmd:4
+msgid ""
+"**All eBirders:** Can suggest new content or changes to existing content"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: ContentPermissions.qmd:6
+msgid ""
+"**eBird Reviewers AND eBirders with 100+ complete checklists in the previous "
+"calendar year:** Content suggestions are automatically approved (except for "
+"sites with Auto-approval turned “Off”)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: ContentPermissions.qmd:8
+msgid ""
+"**Accounts with Content Editing permissions:** All of the above, plus the "
+"ability to:"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: ContentPermissions.qmd:10
+msgid "Approve/Decline pending content suggestions"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: ContentPermissions.qmd:12
+msgid "View content suggestion history"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: ContentPermissions.qmd:14
+msgid "Directly edit About pages (including adding links)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: ContentPermissions.qmd:16
+msgid "Disable suggestion Auto-approval on individual hotspots"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: ContentPermissions.qmd:18
+msgid "**eBird Hotspot Editors:** All of the above, plus:"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: ContentPermissions.qmd:20
+msgid "Approve new Hotspots"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: ContentPermissions.qmd:22
+msgid "Rename, move, merge, and demote existing hotspots"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: ContentPermissions.qmd:24
+msgid "Create or edit Hotspot Groups"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: ContentPermissions.qmd:26
+msgid ""
+"Grant content editing permissions (to any subregion(s) within their assigned "
+"hotspot region)"
+msgstr ""
+
+#. type: Plain text
+#: ContentPermissions.qmd:28
+msgid ""
+"Additional content editing permissions can be granted to accounts to assist "
+"with content management. "
+msgstr ""
+
+#. type: Plain text
+#: ContentPermissions.qmd:29
+msgid "![](images/paste-25.png){fig-align=\"center\"}"
+msgstr ""
+
+#. type: Plain text
+#: AssigningContentEditingPermissions.qmd:2
+msgid "## Assigning Content Editing Permissions"
+msgstr ""
+
+#. type: Plain text
+#: AssigningContentEditingPermissions.qmd:4
+msgid ""
+"eBird Hotspot Editors go to <https://review.ebird.org/review/hotspots/manage-"
+"access> OR navigate to any Hotspot in your assigned region and tap About \\> "
+"Review \\> Manage Access.  "
+msgstr ""
+
+#. type: Plain text
+#: AssigningContentEditingPermissions.qmd:6
+msgid ""
+"You will need to know the eBird User ID of the account—this is different "
+"than their username. User IDs are formatted as USER123456"
+msgstr ""
+
+#. type: Plain text
+#: AssigningContentEditingPermissions.qmd:8
+msgid "If you are not sure of the person’s User ID: "
+msgstr ""
+
+#. type: Bullet: '1.  '
+#: AssigningContentEditingPermissions.qmd:10
+msgid "Go to [search.macaulaylibrary.org](http://search.macaulaylibrary.org) "
+msgstr ""
+
+#. type: Bullet: '2.  '
+#: AssigningContentEditingPermissions.qmd:12
+msgid ""
+"Tap Contributor, type their name\\*, and tap when it appears in the dropdown"
+msgstr ""
+
+#. type: Bullet: '3.  '
+#: AssigningContentEditingPermissions.qmd:14
+msgid ""
+"Their UserID will be displayed in the resulting webpage address (e.g., "
+"<https://search.macaulaylibrary.org/catalog?userId=USER123456>) "
+msgstr ""
+
+#. type: Plain text
+#: AssigningContentEditingPermissions.qmd:16
+msgid ""
+"\\* If multiple accounts share the same name, you may need to ask the "
+"account holder to perform these steps, repeating Step 2 as necessary  until "
+"the correct account is selected (process of elimination). "
+msgstr ""
+
+#. type: Plain text
+#: AssigningContentEditingPermissions.qmd:17
+msgid ""
+"If you still can’t figure out the name, any eBird observation reviewer can "
+"see this by clicking on the user’s name from the Review Tools."
+msgstr ""
+
+#. type: Plain text
+#: HotspotContent.qmd:2
+msgid "## **Hotspot Content**"
+msgstr ""
+
+#. type: Plain text
+#: HotspotContent.qmd:4
+msgid ""
+"For instructions on About This Hotspot text sections and Features, visit the "
+"eBird help center: [eBird Hotspot About Pages](https://support.ebird.org/en/"
+"support/solutions/articles/48001281732)"
+msgstr ""
+
+#. type: Plain text
+#: HotspotContent.qmd:6
+msgid "A note to editors on using AI to generate Hotspot content**:**"
+msgstr ""
+
+#. type: Plain text
+#: HotspotContent.qmd:8
+msgid ""
+"AI can be a helpful tool to organize, format, and copyedit About content. "
+"However, AI has its limitations and should always be read and human-verified "
+"before publishing. "
+msgstr ""
+
+#. type: Plain text
+#: HotspotContent.qmd:10
+msgid ""
+"When considering using AI for Hotspot content, we first strongly recommend "
+"generating content for the Hotspots that you are the MOST familiar with. "
+"Review the content, noting any inaccuracies. If possible, ask the AI for its "
+"sources and consult them directly to understand where content is obtained "
+"and how accurately it has been adapted. Repeat until you feel you have a "
+"good sense of the AI tool’s performance. "
+msgstr ""
+
+#. type: Bullet: '-   '
+#: HotspotContent.qmd:12
+msgid "Always read the content word-for-word "
+msgstr ""
+
+#. type: Bullet: '-   '
+#: HotspotContent.qmd:14
+msgid ""
+"If you are not familiar with a site, try to find someone who is familiar "
+"with it to review its content (consider: if the AI output is wrong, how will "
+"you know?) "
+msgstr ""
+
+#. type: Bullet: '-   '
+#: HotspotContent.qmd:16
+msgid ""
+"Double-check AI-generated hours, dates, posted fees, and anything involving "
+"numbers (AI is known to hallucinate!)"
+msgstr ""
+
+#. type: Plain text
+#: HotspotContent.qmd:18
+msgid ""
+"\\ A note on Accessibility: Humans and AI alike are encouraged to avoid "
+"subjective assessments of accessibility such as “Wheelchair friendly” or "
+"“Easily accessible”. Instead of these vague phrases, provide detailed "
+"information about the physical description of the birding location. Include "
+"details such as trail surfaces, gradient/slope, safety features, degree of "
+"maintenance, crowd and noise levels, etc. **Consider using the [Birdability]"
+"(https://www.birdability.org/) Site Review Checklist to guide your "
+"description.** Aim to help others make an assessment for themselves whether "
+"the site is accessible to them."
+msgstr ""
+
+#. type: Plain text
+#: ManagingLanguages.qmd:2
+msgid "## **Managing Languages**"
+msgstr ""
+
+#. type: Plain text
+#: ManagingLanguages.qmd:5
+msgid "\\ Which language is displayed first?"
+msgstr ""
+
+#. type: Bullet: '1.  '
+#: ManagingLanguages.qmd:7
+msgid ""
+"If a user has the eBird website or their browser set to a particular "
+"language, we first display About content in that language, if available."
+msgstr ""
+
+#. type: Bullet: '2.  '
+#: ManagingLanguages.qmd:9
+msgid ""
+"If no content is available in the user's browser/web language, we then try "
+"to display content in the regional default language, if applicable. (e.g., "
+"For eBird Japan, the regional default language is Japanese. For eBird Chile, "
+"the regional default language is Spanish)"
+msgstr ""
+
+#. type: Bullet: '3.  '
+#: ManagingLanguages.qmd:11
+msgid ""
+"If there is no content in either the user's preferred language or the "
+"regional default language, we will show ANY available content.\\* "
+msgstr ""
+
+#. type: Bullet: '4.  '
+#: ManagingLanguages.qmd:13
+msgid ""
+"Finally, if there is no content at all, we display a message \"Nothing added "
+"yet for this hotspot. Suggest content\""
+msgstr ""
+
+#. type: Bullet: '5.  '
+#: ManagingLanguages.qmd:15
+msgid ""
+"Note that bird names that use the species tags will always display for "
+"logged-in users according to the user’s [common name preferences](https://"
+"ebird.org/prefs), regardless of the other language settings."
+msgstr ""
+
+#. type: Plain text
+#: ManagingLanguages.qmd:17
+msgid ""
+"\\* Whenever multiple languages are available, go to Edit Content \\> Manage "
+"Languages to choose which language is displayed first. "
+msgstr ""
+
+#. type: Plain text
+#: ManagingLanguages.qmd:19
+msgid "![](images/paste-10.png){fig-align=\"center\"}"
+msgstr ""
+
+#. type: Plain text
+#: ManagingLanguages.qmd:20
+#, no-wrap
+msgid "**If a language has no content**: Go to Edit Content \\> Manage Languages to delete it. (Be careful, this will also delete any existing content!)\n"
+msgstr ""
+
+#. type: Plain text
+#: Links.qmd:2
+msgid "## **Links**"
+msgstr ""
+
+#. type: Plain text
+#: Links.qmd:4
+msgid ""
+"Only Hotspot Editors and accounts with content editing permissions can add "
+"and manage Hotspot About links. "
+msgstr ""
+
+#. type: Plain text
+#: Links.qmd:6
+msgid ""
+"There can only be one “Official Website” link. This link will be more "
+"prominently highlighted at the top of the hotspot content. "
+msgstr ""
+
+#. type: Plain text
+#: Links.qmd:8
+msgid ""
+"You can have unlimited Hotspot links. Link Titles appear the same across all "
+"languages. We recommend using a short, descriptive title of the page in its "
+"default language. "
+msgstr ""
+
+#. type: Plain text
+#: Links.qmd:9
+msgid "![](images/paste-11.png){fig-align=\"center\"}"
+msgstr ""
+
+#. type: Plain text
+#: ContentEditHistory.qmd:2
+msgid "## **Content Edit History**"
+msgstr ""
+
+#. type: Plain text
+#: ContentEditHistory.qmd:4
+msgid "Only users with content editing permissions can see this panel."
+msgstr ""
+
+#. type: Plain text
+#: ContentEditHistory.qmd:6
+msgid ""
+"Content Edit History shows the last 100 edits made to this hotspot's About "
+"content sections, including who made the change and when. Changes to "
+"Features and Links are not reflected here. "
+msgstr ""
+
+#. type: Plain text
+#: ContentEditHistory.qmd:7
+msgid ""
+"Details show comparison with the version before it—added text is highlighted "
+"in green and removed text in red. Uncheck \"Compare with previous version\" "
+"on any entry to view the content without highlights."
+msgstr ""
+
+#. type: Plain text
+#: Auto-Approval.qmd:2
+msgid "## **Auto-Approval**"
+msgstr ""
+
+#. type: Plain text
+#: Auto-Approval.qmd:3
+msgid ""
+"eBird volunteers and anyone with \\>100 complete eBird checklists in the "
+"previous year will have their suggestions automatically approved, meaning "
+"their edits will appear on the public About page immediately upon "
+"submission. Automatically approved changes will be tracked in the Content "
+"Edit History and [Reviewed Content Suggestions](Reviewedsuggestions.qmd) "
+"(below) and Content Editors can always adjust or reverse changes by copying "
+"text from an earlier version of the page and pasting it back into the "
+"relevant sections."
+msgstr ""
+
+#. type: Plain text
+#: Reviewingcontentsuggestions.qmd:2
+msgid "## **Reviewing Content Suggestions**"
+msgstr ""
+
+#. type: Plain text
+#: Reviewingcontentsuggestions.qmd:4
+msgid ""
+"eBird Hotspot Editors and anyone with content editing permissions for a "
+"hotspot can review suggestions made by eBirders without these permissions. "
+msgstr ""
+
+#. type: Plain text
+#: Reviewingcontentsuggestions.qmd:6
+#, no-wrap
+msgid "**To review content**, tap the “Review” button on any Hotspot About page in your assigned region OR\n"
+msgstr ""
+
+#. type: Plain text
+#: Reviewingcontentsuggestions.qmd:7
+#, no-wrap
+msgid "**Bookmark <https://review.ebird.org/review/hotspots/content-suggestions>** for quick access to your entire suggestion queue\n"
+msgstr ""
+
+#. type: Plain text
+#: Pendingsuggestions.qmd:2
+msgid "## **Pending Suggestions**"
+msgstr ""
+
+#. type: Plain text
+#: Pendingsuggestions.qmd:4
+#, no-wrap
+msgid "**For pending (un-reviewed) suggestions**, tap “Details” to see what changed\n"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Pendingsuggestions.qmd:6
+msgid "**Accept:** anything in GREEN will be added to the Hotspot About page"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Pendingsuggestions.qmd:8
+msgid ""
+"**Decline: anything in RED will be removed from the Hotspot About page**"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Pendingsuggestions.qmd:10
+msgid "**Close: hide details without acting on them**"
+msgstr ""
+
+#. type: Plain text
+#: Pendingsuggestions.qmd:12
+msgid ""
+"WARNING: “Details” shows how the suggested changes will impact the current "
+"About page. If the underlying About content has changed since the suggestion "
+"was made, the comparison shows what will actually change (not necessarily "
+"what the suggester saw at the time of their revisions). "
+msgstr ""
+
+#. type: Plain text
+#: Pendingsuggestions.qmd:14
+msgid ""
+"If you Accept more recent pending suggestions, earlier pending suggestions "
+"may no longer apply (i.e., the text being changed may no longer exist on the "
+"page) We recommend quickly scanning the Details of all pending suggestions "
+"for a single hotspot before Accepting any of them."
+msgstr ""
+
+#. type: Plain text
+#: Pendingsuggestions.qmd:16
+#, no-wrap
+msgid "**(!)** eBird Hotspot Editors can see the personal account details for the eBirder who made the suggestion, including contact details. People with content editing permissions can only see the name of the person who made the suggestion, with a link to their eBird profile if public. \n"
+msgstr ""
+
+#. type: Plain text
+#: Pendingsuggestions.qmd:18
+msgid "![](images/paste-12.png){fig-align=\"center\"}"
+msgstr ""
+
+#. type: Plain text
+#: Pendingsuggestions.qmd:19
+msgid ""
+"Switch between suggestions for a single hotspot and all hotspots. You can "
+"also filter pending suggestions by language."
+msgstr ""
+
+#. type: Plain text
+#: Reviewedsuggestions.qmd:2
+msgid "## **Reviewed Suggestions**"
+msgstr ""
+
+#. type: Plain text
+#: Reviewedsuggestions.qmd:4
+msgid ""
+"After tapping Accept or Decline, the suggestion will move to the “Reviewed” "
+"tab. The Details here will show you who made the suggestion and when, "
+"whether it was Accepted or Declined, and who reviewed it. "
+msgstr ""
+
+#. type: Plain text
+#: Reviewedsuggestions.qmd:6
+msgid "![](images/paste-13.png)"
+msgstr ""
+
+#. type: Plain text
+#: Reviewedsuggestions.qmd:8
+#, no-wrap
+msgid "**eBird Hotspot Administrator**\n"
+msgstr ""
+
+#. type: Plain text
+#: Reviewedsuggestions.qmd:9
+msgid ""
+"Any suggestion accepted by “eBird Hotspot Administrator” is an Auto-approved "
+"suggestion—i.e., the person who made the suggestion is either an eBird "
+"Reviewer/Hotspot Editor OR they submitted \\>100+ complete eBird checklists "
+"in the previous calendar year."
+msgstr ""
+
+#. type: Plain text
+#: HotspotcontentFAQs.qmd:2
+msgid "## **Hotspot Content FAQs**"
+msgstr ""
+
+#. type: Plain text
+#: HotspotcontentFAQs.qmd:4
+msgid "### **Can I undo or revert an About page back to an earlier version?**"
+msgstr ""
+
+#. type: Plain text
+#: HotspotcontentFAQs.qmd:5
+msgid ""
+"While it is not possible to undo or reverse changes once accepted, you can "
+"always restore a previous version of About content by copy-pasting text from "
+"the [Content Edit History](ContentEditHistory.qmd) panel. (Uncheck the "
+"“Compare with previous version” box so that you can copy the text without "
+"highlighted changes.)"
+msgstr ""
+
+#. type: Plain text
+#: GroupsIntroduction.qmd:2
+msgid "## **What is a Hotspot Group?**"
+msgstr ""
+
+#. type: Plain text
+#: GroupsIntroduction.qmd:4
+msgid ""
+"A **Hotspot Group** consists of two or more hotspots that are part of the "
+"same continuous geographical area."
+msgstr ""
+
+#. type: Plain text
+#: GroupsIntroduction.qmd:6
+msgid ""
+"Hotspot Groups organize multiple hotspots within a larger area. For example, "
+"a state park or wildlife refuge might contain separate eBird hotspots for "
+"individual trails, viewpoints, or other popular birding spots. These "
+"hotspots would collectively form a hotspot group under a single overview "
+"page (AKA [parent hotspot](ParentHotspots.qmd)) that refers to the entire "
+"area."
+msgstr ""
+
+#. type: Plain text
+#: GroupsIntroduction.qmd:8
+#, no-wrap
+msgid "**Each hotspot can only belong to one group at a time** due to technical requirements related to [data aggregation](DataAggregation.qmd).\n"
+msgstr ""
+
+#. type: Plain text
+#: GroupsIntroduction.qmd:10
+msgid ""
+"Hotspots should only be grouped if they occupy the same general area—"
+"typically this area has clearly defined boundaries and/or is under a single "
+"jurisdiction or management entity (i.e., sites should generally form a "
+"contiguous cluster). Birders often may visit multiple hotspots within this "
+"boundary on a single visit (ideally, but not always, keeping separate "
+"checklists). "
+msgstr ""
+
+#. type: Plain text
+#: GroupsIntroduction.qmd:12
+msgid "### **What is NOT a hotspot group?**"
+msgstr ""
+
+#. type: Plain text
+#: GroupsIntroduction.qmd:14
+msgid "The following should NOT be made into hotspot groups:"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: GroupsIntroduction.qmd:16
+msgid ""
+"Long linear routes (long trails, river stretches, highways, etc.) unless "
+"they are part of a single administrative unit (e.g., Buffalo National River "
+"is a single national park) "
+msgstr ""
+
+#. type: Bullet: '-   '
+#: GroupsIntroduction.qmd:18
+msgid "Large cities (small towns under 7 sq mi / 20 sq km are OK)  "
+msgstr ""
+
+#. type: Bullet: '-   '
+#: GroupsIntroduction.qmd:20
+msgid ""
+"Many isolated or non-contiguous properties, even if under the same managing "
+"organization."
+msgstr ""
+
+#. type: Plain text
+#: GroupsIntroduction.qmd:22
+msgid "### **Can hotspot groups cross administrative boundaries?**"
+msgstr ""
+
+#. type: Plain text
+#: GroupsIntroduction.qmd:24
+msgid ""
+"Yes! See our guidance for [Hotspot Groups that cross administrative "
+"boundaries](Multi-RegionHotspotGroups.qmd) below. "
+msgstr ""
+
+#. type: Plain text
+#: GroupsIntroduction.qmd:25
+msgid ""
+"When a hotspot group crosses county/state/district/province lines, we "
+"recommend creating a “regional” hotspot on each side of the border. Include "
+"the respective administrative area in parentheses at the end of the hotspot "
+"name—e.g., “Blue Lake (Lewis Co.)” and “Blue Lake (Cowlitz Co.)”"
+msgstr ""
+
+#. type: Plain text
+#: ParentHotspots.qmd:2
+msgid "## **Parent Hotspots**"
+msgstr ""
+
+#. type: Plain text
+#: ParentHotspots.qmd:4
+msgid ""
+"Every Hotspot Group MUST have a **Parent Hotspot**: a location that "
+"represents the entire area. The parent location’s Hotspot page serves as an "
+"overview for the whole group."
+msgstr ""
+
+#. type: Plain text
+#: ParentHotspots.qmd:5
+msgid "![](images/paste-14.png)"
+msgstr ""
+
+#. type: Plain text
+#: ParentHotspotContent.qmd:2
+msgid "## **Parent Hotspot Content**"
+msgstr ""
+
+#. type: Plain text
+#: ParentHotspotContent.qmd:4
+msgid "### **About Sections**"
+msgstr ""
+
+#. type: Plain text
+#: ParentHotspotContent.qmd:6
+msgid ""
+"An excerpt of the parent location's About content appears on each sub-"
+"hotspot page. Use the About sections on the parent hotspot to describe "
+"information that applies to every hotspot in the group, such as hours, fees, "
+"and stewardship details."
+msgstr ""
+
+#. type: Plain text
+#: ParentHotspotContent.qmd:8
+msgid "![](images/paste-15.png)"
+msgstr ""
+
+#. type: Plain text
+#: ParentHotspotContent.qmd:10
+msgid "### **Features**"
+msgstr ""
+
+#. type: Plain text
+#: ParentHotspotContent.qmd:11
+msgid ""
+"Features are unique to each individual hotspot. Use the Parent hotspot's "
+"Features to indicate things that are generally true for the entire area. For "
+"example, if at least one hotspot in the group has a public bathroom, select "
+"'Yes' for Restrooms on the Parent hotspot. Then select ‘Yes’ or ‘No’ on "
+"individual sub-hotspots based on whether that specific site has a bathroom."
+msgstr ""
+
+#. type: Plain text
+#: AdditionalParentHotspotUI.qmd:2
+msgid "## **Additional Parent Hotspot UI**"
+msgstr ""
+
+#. type: Plain text
+#: AdditionalParentHotspotUI.qmd:4
+msgid "### **Group Map**"
+msgstr ""
+
+#. type: Plain text
+#: AdditionalParentHotspotUI.qmd:6
+msgid ""
+"When you visit the Parent hotspot page (the group overview page), you will "
+"see a map of all hotspots in the group. "
+msgstr ""
+
+#. type: Plain text
+#: AdditionalParentHotspotUI.qmd:8
+msgid "![](images/paste-16.png){fig-align=\"center\"}"
+msgstr ""
+
+#. type: Plain text
+#: AdditionalParentHotspotUI.qmd:10
+msgid "![](images/paste-18.png){fig-align=\"center\"}"
+msgstr ""
+
+#. type: Plain text
+#: AdditionalParentHotspotUI.qmd:12
+msgid "### **Hotspot Standings**"
+msgstr ""
+
+#. type: Plain text
+#: AdditionalParentHotspotUI.qmd:14
+msgid ""
+"Each parent hotspot has a 'Hotspots' page that lists all hotspots within "
+"that group, ranked by number of checklists and species—similar to the "
+"Hotspot and Subregion rankings found on eBird Region pages. The checklist "
+"and species totals for the parent hotspot are displayed separately at the "
+"bottom of the page. "
+msgstr ""
+
+#. type: Plain text
+#: AdditionalParentHotspotUI.qmd:15
+msgid "![](images/paste-19.png)"
+msgstr ""
+
+#. type: Plain text
+#: DataAggregation.qmd:2
+msgid "## **Data Aggregation**"
+msgstr ""
+
+#. type: Plain text
+#: DataAggregation.qmd:4
+#, no-wrap
+msgid "**Parent locations aggregate data across all hotspots in the group.** Statistics for a parent location represent the entire group's combined data, including public checklists submitted to the parent.\n"
+msgstr ""
+
+#. type: Plain text
+#: DataAggregation.qmd:6
+msgid ""
+"The parent hotspot page functions as the group overview, summarizing "
+"checklist submission across all hotspots in the group. Likewise, the "
+"leaderboard shows top contributors based on combined activity across all "
+"hotspots."
+msgstr ""
+
+#. type: Plain text
+#: DataAggregation.qmd:8
+msgid ""
+"This aggregation encourages greater location precision. You can now submit "
+"separate checklists to each hotspot and still have your activity count "
+"toward the cumulative Top 100 for the entire area."
+msgstr ""
+
+#. type: Plain text
+#: DataAggregation.qmd:10
+msgid ""
+"This technical framework may also allow us to eventually aggregate personal "
+"locations into hotspot summaries in the future (but not any time soon)."
+msgstr ""
+
+#. type: Plain text
+#: DataAggregation.qmd:11
+msgid ""
+"Note on Bar Charts: Bar Charts for the parent location will display "
+"aggregated frequency data, histograms, and chart data for the entire group. "
+"To obtain Bar Chart data for the parent hotspot ONLY, add "
+"&aggregateHotspots=false to the end of the Bar Chart web address."
+msgstr ""
+
+#. type: Plain text
+#: ParentHotspotPlacement.qmd:2
+msgid "## **Parent Hotspot Placement**"
+msgstr ""
+
+#. type: Plain text
+#: ParentHotspotPlacement.qmd:4
+msgid ""
+"We recommend placing the Parent hotspot at a central location away from more "
+"precisely placed hotspots. This helps to reduce site selection confusion and "
+"ensures eBird Mobile's \"Recommended Location\" algorithm only suggests the "
+"parent hotspot when a GPS track spans multiple sub-hotspots or covers the "
+"broader area. "
+msgstr ""
+
+#. type: Plain text
+#: ParentHotspotPlacement.qmd:6
+msgid ""
+"If the group includes two or more regions (counties, states/provinces, or "
+"countries) place the Parent hotspot in the region with the most group "
+"hotspots and checklist activity. "
+msgstr ""
+
+#. type: Plain text
+#: ParentHotspotPlacement.qmd:7
+msgid "See also: [Plotting Hotspots](PlottingHotspots.qmd)"
+msgstr ""
+
+#. type: Plain text
+#: NamingParentandSub-Hotspots.qmd:2
+msgid "## **Naming Parent Hotspots and Sub-hotspots**"
+msgstr ""
+
+#. type: Plain text
+#: NamingParentandSub-Hotspots.qmd:4
+msgid ""
+"Follow [Hotspot Naming policies](index.qmd). Parent locations should have "
+"“general” or “general area” in the name if there could be confusion between "
+"a precise site and the overarching area. "
+msgstr ""
+
+#. type: Plain text
+#: NamingParentandSub-Hotspots.qmd:6
+msgid ""
+"Sub-hotspots do not HAVE to include the parent location in the name. In "
+"other words, you can form Hotspots groups where sub-hotspots follow mixed "
+"naming practices, some with the parent location in the name and some "
+"without. "
+msgstr ""
+
+#. type: Plain text
+#: NamingParentandSub-Hotspots.qmd:8
+msgid ""
+"Sub-hotspots SHOULD have the parent location at the beginning of their name, "
+"followed by double-dash (--) and the sub-hotspot descriptor unless the sub-"
+"hotspot is an obvious and well-known standalone location. "
+msgstr ""
+
+#. type: Plain text
+#: NamingParentandSub-Hotspots.qmd:10
+msgid ""
+"Including the parent location in the subhotspot name is helpful to ensure "
+"hotspots from the same area are grouped together in dropdown lists and "
+"search results."
+msgstr ""
+
+#. type: Plain text
+#: NamingParentandSub-Hotspots.qmd:11
+msgid "![](images/paste-24.png){fig-align=\"center\"}"
+msgstr ""
+
+#. type: Plain text
+#: List-buildingParentHotspots.qmd:2
+msgid "## **List-building Parent Hotspots (Very Large Areas)**"
+msgstr ""
+
+#. type: Plain text
+#: List-buildingParentHotspots.qmd:4
+msgid ""
+"In Hotspot Groups, the Parent hotspot represents the entire area covered by "
+"the group. However, some areas are so large that the Parent hotspot carries "
+"too much spatial uncertainty to be useful for scientific analyses. "
+msgstr ""
+
+#. type: Plain text
+#: List-buildingParentHotspots.qmd:6
+msgid ""
+"For example, Yellowstone National Park covers 13,000 square miles (33,670 "
+"square km) and spans four US states. Any checklist assigned to the "
+"\"Yellowstone National Park (general area)\" hotspot lacks the spatial "
+"precision needed for eBird Status and Trends models."
+msgstr ""
+
+#. type: Plain text
+#: List-buildingParentHotspots.qmd:8
+msgid ""
+"Currently, when a traveling checklist covers a distance of 50 mi (80 km) or "
+"more, we automatically mark it Not Public. "
+msgstr ""
+
+#. type: Plain text
+#: List-buildingParentHotspots.qmd:10
+#, no-wrap
+msgid "**When the area within the bounding box of the group covers 80 km2 or more…**\n"
+msgstr ""
+
+#. type: Plain text
+#: List-buildingParentHotspots.qmd:12
+msgid ""
+"The Parent hotspot will not appear as a Recommended Location for eBird "
+"Mobile checklists and cannot be selected from the map when submitting eBird "
+"Mobile checklists (the parent location will still appear on eBird Mobile "
+"Explore). "
+msgstr ""
+
+#. type: Plain text
+#: List-buildingParentHotspots.qmd:13
+msgid ""
+"We recommend marking any checklist submitted to a List-building Parent "
+"hotspot ‘Not Public’ with the reason “Checklist-List Building”"
+msgstr ""
+
+#. type: Plain text
+#: CreatingandManaging.qmd:2
+msgid "## **Creating and Managing Hotspot Groups**"
+msgstr ""
+
+#. type: Plain text
+#: CreatingandManaging.qmd:4
+msgid "Only eBird Hotspot Editors can create and manage Hotspot groups. "
+msgstr ""
+
+#. type: Plain text
+#: CreatingandManaging.qmd:6
+msgid "### **Create a Hotspot Group**"
+msgstr ""
+
+#. type: Bullet: '1.  '
+#: CreatingandManaging.qmd:8
+msgid "Navigate to the hotspot you want to act as the parent location"
+msgstr ""
+
+#. type: Bullet: '    1.  '
+#: CreatingandManaging.qmd:10
+msgid ""
+"From the Hotspot map: Locate and tap the appropriate Hotspot pin, then click "
+"the **Edit** link (upper right corner)."
+msgstr ""
+
+#. type: Bullet: '    2.  '
+#: CreatingandManaging.qmd:12
+msgid ""
+"From an individual Hotspot page: Tap **Admin** from the navigation sidebar"
+msgstr ""
+
+#. type: Bullet: '2.  '
+#: CreatingandManaging.qmd:14
+msgid "Tap **Manage Sub-hotspots**"
+msgstr ""
+
+#. type: Bullet: '3.  '
+#: CreatingandManaging.qmd:16
+msgid ""
+"Locate nearby hotspots on the map or use the search bar to look them up by "
+"name (another good reason to have the parent location in all sub-hotspot "
+"names!) "
+msgstr ""
+
+#. type: Bullet: '4.  '
+#: CreatingandManaging.qmd:18
+msgid ""
+"Once a pin is selected on the map, tap the **Add** button to add that "
+"hotspot to the group"
+msgstr ""
+
+#. type: Bullet: '5.  '
+#: CreatingandManaging.qmd:20
+msgid ""
+"Tap the **Remove** button on the Sub-hotspots list to remove a hotspot from "
+"the group"
+msgstr ""
+
+#. type: Bullet: '    1.  '
+#: CreatingandManaging.qmd:22
+msgid ""
+"You can also tap a pin on the map and, if it is already part of the group, "
+"tap Remove to remove it. "
+msgstr ""
+
+#. type: Bullet: '6.  '
+#: CreatingandManaging.qmd:24
+msgid "IMPORTANT: Tap the **Save Sub-hotspots** button to save your changes"
+msgstr ""
+
+#. type: Plain text
+#: CreatingandManaging.qmd:26
+msgid "![](images/paste-20.png)"
+msgstr ""
+
+#. type: Plain text
+#: CreatingandManaging.qmd:28
+msgid "### **Dissolve a Hotspot Group**"
+msgstr ""
+
+#. type: Bullet: '1.  '
+#: CreatingandManaging.qmd:30
+msgid ""
+"Follow steps 1 and 2 from **Create a Hotspot Group** (above) to access the "
+"**Manage Sub-hotspots** tab on the Parent Hotspot’s Adminpage. "
+msgstr ""
+
+#. type: Bullet: '2.  '
+#: CreatingandManaging.qmd:32
+msgid "Tap **Remove** next to each sub-hotspot in the Sub-hotspots list"
+msgstr ""
+
+#. type: Bullet: '3.  '
+#: CreatingandManaging.qmd:33
+msgid ""
+"Once all sub-hotspots are removed, the hotspot will no longer function as a "
+"parent location and the group will effectively no longer exist"
+msgstr ""
+
+#. type: Plain text
+#: Multi-RegionHotspotGroups.qmd:2
+msgid "## **Multi-Region Hotspot Groups**"
+msgstr ""
+
+#. type: Plain text
+#: Multi-RegionHotspotGroups.qmd:4
+msgid "### **Can a Hotspot Group Include Locations from Multiple Regions?**"
+msgstr ""
+
+#. type: Plain text
+#: Multi-RegionHotspotGroups.qmd:6
+msgid ""
+"Yes! Hotspot groups can cross geopolitical boundaries. This does not mean an "
+"individual checklist will appear in multiple counties. "
+msgstr ""
+
+#. type: Plain text
+#: Multi-RegionHotspotGroups.qmd:8
+msgid ""
+"### **What is the Expected Behavior When a Group Spans Multiple Regions?**"
+msgstr ""
+
+#. type: Plain text
+#: Multi-RegionHotspotGroups.qmd:10
+msgid ""
+"Parent hotspots display checklist activity from all sub-locations in the "
+"group. If the group covers multiple regions, data from multiple counties "
+"could appear on the parent hotspot page. This does NOT feed into greater "
+"county, state/province, or country-level data. Each hotspot counts toward "
+"only one county, one state/province, and one country's birding activity. "
+"Individual hotspots only contribute data to the regions where they are "
+"located."
+msgstr ""
+
+#. type: Plain text
+#: Multi-RegionHotspotGroups.qmd:12
+msgid "![](images/paste-21.png)"
+msgstr ""
+
+#. type: Plain text
+#: Multi-RegionHotspotGroups.qmd:14
+msgid ""
+"In the example Hotspot Group above, only checklists submitted to hotspots in "
+"Region A or submitted directly to the parent location will appear in Region "
+"A stats. Checklists from hotspots in Region B will also appear on the parent "
+"location page, but only count towards Region B stats. "
+msgstr ""
+
+#. type: Plain text
+#: Multi-RegionHotspotGroups.qmd:16
+msgid "### **Should a Hotspot Group Include Locations from Multiple Regions?**"
+msgstr ""
+
+#. type: Plain text
+#: Multi-RegionHotspotGroups.qmd:18
+msgid ""
+"We understand that reviewers may hesitate to create groups where the parent "
+"hotspot aggregates data from multiple regions, as it could inadvertently "
+"lead to data from one county being submitted to a parent location in another "
+"county. If you have concerns about this, please see our guidance below. "
+msgstr ""
+
+#. type: Plain text
+#: Multi-RegionHotspotGroups.qmd:20
+msgid "### **Large Areas**"
+msgstr ""
+
+#. type: Plain text
+#: Multi-RegionHotspotGroups.qmd:22
+msgid ""
+"For hotspot groups that cross borders because they cover large areas (e.g., "
+"national parks, wildlife refuges), we are implementing a special “large area "
+"process”: any hotspot group with a bounding area greater than 80km2 will be "
+"designated a [List Building Location](List-buildingParentHotspots.qmd) (see "
+"above). "
+msgstr ""
+
+#. type: Plain text
+#: Multi-RegionHotspotGroups.qmd:24
+msgid "### **Small Areas**"
+msgstr ""
+
+#. type: Plain text
+#: Multi-RegionHotspotGroups.qmd:26
+msgid ""
+"Hotspot groups \\<80km2 can still span multiple geopolitical regions. Common "
+"examples include bridges or dams that cross borders along rivers. "
+msgstr ""
+
+#. type: Plain text
+#: Multi-RegionHotspotGroups.qmd:28
+msgid ""
+"When the same habitats exist on both sides of a geopolitical border (e.g., a "
+"road or arbitrary line cutting through a forest), the birds found on either "
+"side should be very similar—it would be hard to tell from a single checklist "
+"which side of the border the observer was on if you didn’t know the exact "
+"location. "
+msgstr ""
+
+#. type: Plain text
+#: Multi-RegionHotspotGroups.qmd:30
+msgid ""
+"Conversely, when geopolitical boundaries follow strong ecological boundaries "
+"(e.g., Pima and Santa Cruz counties in Madera Canyon) the species lists of "
+"two hotspots just across the border from each other might be dramatically "
+"different—it’s easy to tell which side a checklist came from. "
+msgstr ""
+
+#. type: Plain text
+#: Multi-RegionHotspotGroups.qmd:32
+msgid ""
+"When people submit checklists directly to the parent hotspot of a group, "
+"their observations will “roll up” into the county, state/province, and "
+"country where the parent hotspot is located. (Note: it is almost never best "
+"practice to submit to a parent hotspot, since finer-scale locations are "
+"always preferable)"
+msgstr ""
+
+#. type: Plain text
+#: Multi-RegionHotspotGroups.qmd:34
+msgid ""
+"So, if the main goal is maintaining accurate **regional** data, the key "
+"question is: will creating a Hotspot Group (under 80km²) clearly disrupt "
+"regional data where the parent hotspot is located? "
+msgstr ""
+
+#. type: Plain text
+#: Multi-RegionHotspotGroups.qmd:36
+msgid "### **Consider these questions:**"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Multi-RegionHotspotGroups.qmd:38
+msgid "Do most birds cross freely from one side of the border to the other?"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Multi-RegionHotspotGroups.qmd:40
+msgid ""
+"Could you tell which side of the border a checklist was from simply by "
+"looking at the species list and counts? "
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Multi-RegionHotspotGroups.qmd:42
+msgid ""
+"Do the habitat conditions found on one side also exist in the other county, "
+"and vice versa?"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Multi-RegionHotspotGroups.qmd:44
+msgid ""
+"Are species lists, high counts, and arrival/departure dates generally "
+"similar on each side of the border?"
+msgstr ""
+
+#. type: Plain text
+#: Multi-RegionHotspotGroups.qmd:45
+msgid ""
+"If you answered \"Yes\" to these questions—assuming all other [hotspot group "
+"criteria](Overview.qmd) are met—then a multi-region hotspot group shouldn’t "
+"cause meaningful regional data problems. (Very long traveling checklists can "
+"still cause regional data problems, so continue to be vigilant for those!)"
+msgstr ""
+
+#. type: Plain text
+#: HotspotGroupFAQs.qmd:2
+msgid "## **Hotspot Group FAQs**"
+msgstr ""
+
+#. type: Plain text
+#: HotspotGroupFAQs.qmd:4
+msgid ""
+"### **What do Hotspot Groups look like in the eBird Basic Dataset (EBD)?**"
+msgstr ""
+
+#. type: Plain text
+#: HotspotGroupFAQs.qmd:6
+msgid ""
+"The eBird Basic Dataset (EBD) and Sampling Event Dataset (SED) provide data "
+"at the observation and checklist level, respectively. Because each checklist "
+"is associated with one specific location, Hotspot groups don’t affect how "
+"data appears in the EBD and SED. "
+msgstr ""
+
+#. type: Plain text
+#: HotspotGroupFAQs.qmd:8
+msgid ""
+"The location information you'll see depends on where the checklist was "
+"submitted:"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: HotspotGroupFAQs.qmd:10
+msgid ""
+"**Checklist submitted to parent hotspot:** The 'LOCALITY' and 'LOCALITY ID' "
+"fields show the parent hotspot name and ID"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: HotspotGroupFAQs.qmd:11
+msgid ""
+"**Checklist submitted to sub-hotspot in group:** The 'LOCALITY' and "
+"'LOCALITY ID' fields show only that specific sub-hotspot—no parent or group "
+"information is included"
+msgstr ""
+
+#. type: Plain text
+#: Capitalization.qmd:2
+msgid "## **Capitalization**"
+msgstr ""
+
+#. type: Plain text
+#: Capitalization.qmd:3
+msgid ""
+"When in doubt, follow the grammar rules of the local language. In English, "
+"eBird hotspots can be considered proper names and should generally be "
+"capitalized, including all adjectives, common nouns, and the definite "
+"article. Most formal geographic names have two parts, denoting the specific "
+"and the generic (e.g., [Amherst Marsh](https://ebird.org/hotspot/L1247416)). "
+"The generic part (“Marsh”, in this example) tells the kind of place, "
+"feature, or area to which the name refers, and the specific part (“Amherst”) "
+"uniquely identifies the particular place, feature, or area.  Exceptions "
+"include articles and prepositions (e.g., Alto de la Cruz, Lake of the "
+"Ozarks, Fond du Lac) and phrases that give relative geographic reference  "
+"(e.g., [Enders Reservoir--below dam](https://ebird.org/hotspot/L1476616), "
+"[Dartmoor NP--east of Tavistock](https://ebird.org/hotspot/L1148230).)"
+msgstr ""
+
+#. type: Plain text
+#: Language.qmd:2
+msgid "## **Language**"
+msgstr ""
+
+#. type: Plain text
+#: Language.qmd:4
+msgid ""
+"eBird is a global project and we recommend that site names be listed in the "
+"local language (e.g., Spanish for Central America, Portuguese for Portugal, "
+"French for France and Quebec, German for Germany, etc.). These names also "
+"should generally match the names used on maps and in local signage. "
+msgstr ""
+
+#. type: Plain text
+#: Language.qmd:6
+msgid ""
+"However, when the local language uses an alphabet that is not easily read by "
+"English-speakers (or other Germanic/Romance languages), please list the site "
+"name in the local language first, followed by an English translation in "
+"parentheses. See examples below:"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Language.qmd:8
+msgid ""
+"**Taiwan:** 宜蘭--頂寮生態公園 (Yilan--Dingliao Ecological Park) <http://"
+"ebird.org/ebird/hotspot/L3291680>"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Language.qmd:10
+msgid ""
+"**Japan:** 大田区--東京港野鳥公園 (Ota Ward--Tokyo Port Wild Bird Park) "
+"<http://ebird.org/ebird/hotspot/L927941>"
+msgstr ""
+
+#. type: Plain text
+#: Language.qmd:11
+#, no-wrap
+msgid "**Note:** Please use accents in non-English words in accordance with correct spelling in the original language (e.g., Río Guadalupe, Parque San José, Cañon San Pedro). Please DO NOT use accents over capital letters.\n"
+msgstr ""
+
+#. type: Plain text
+#: HotspotDefinitions.qmd:2
+msgid "## **Hotspot Definitions and Hierarchy**"
+msgstr ""
+
+#. type: Plain text
+#: HotspotDefinitions.qmd:4
+msgid ""
+"Most hotspots are discrete, continuous sites that accurately represent a "
+"geographical region—often defined by land ownership or conservation status. "
+"Typical hotspots can also be thought of as representing birder behavior "
+"within those properties, including a walking or driving path (i.e., track) "
+"and typical strategies for looking for birds. One could theoretically draw a "
+"boundary to represent any hotspot (this functionality might be added to "
+"eBird in the future to more formally define these areas)."
+msgstr ""
+
+#. type: Plain text
+#: HotspotDefinitions.qmd:6
+#, no-wrap
+msgid "**Most hotspots should be coverable in a discrete birding event**, most typically either 1) stationary count at a certain vantage point (e.g., [Shaumta Raptor Watchpoint](https://ebird.org/hotspot/L6314444)); 2) a traveling count described by a long (e.g., [Reserva Ecológica Costanera Sur](https://ebird.org/hotspot/L472208)) or short (e.g., [Brooklyn Bridge Park](https://ebird.org/hotspot/L1902982)) linear, out-and-back, looped, or meandering walking route; 3) or a traveling count involving short legs by car, bike, or foot that is broken up by stops at key locations or vantage points, such as along a wildlife drive (e.g., [Edwin B. Forsythe NWR--Wildlife Drive](https://ebird.org/hotspot/L92448) or [Carretero Satipo](https://ebird.org/hotspot/L2305198)).\n"
+msgstr ""
+
+#. type: Plain text
+#: HotspotDefinitions.qmd:8
+msgid ""
+"Many hotspots represent a single, discrete, stand-alone site. However, in "
+"some cases there are many hotspots in a small area, and within those areas "
+"there may be discrete hierarchy of hotspots that may include a parent "
+"hotspot, several sub-hotspots, and occasionally an overarching “grandparent” "
+"hotspot (see [Hotspot Groups](Part3.qmd))"
+msgstr ""
+
+#. type: Plain text
+#: HotspotDefinitions.qmd:10
+msgid ""
+"As a general rule, Hotspot Groups should contain sites that are all part of "
+"the same management unit, such as a state park, a national wildlife refuge, "
+"or a city park. A hierarchical naming structure can also be used even when "
+"sites are not part of an “official” Hotspot Group, such as along "
+"particularly good sections of birding roads, rivers, or trails (see [Linear "
+"Routes](LinearRoutes.qmd) below). "
+msgstr ""
+
+#. type: Plain text
+#: HotspotDefinitions.qmd:12
+msgid "![](images/paste-22.png)"
+msgstr ""
+
+#. type: Plain text
+#: HotspotDefinitions.qmd:13
+#, no-wrap
+msgid "**Fig. 1.** Cape May Point area, showing the large number of hotspots (red, orange, yellow, and blue pins) south of the Cape May Canal, which runs through the middle of this image.\n"
+msgstr ""
+
+#. type: Plain text
+#: HotspotNaming-Groups.qmd:2
+msgid "## **Hotspot Naming—Groups**"
+msgstr ""
+
+#. type: Plain text
+#: HotspotNaming-Groups.qmd:4
+msgid "### **Parent hotspots**"
+msgstr ""
+
+#. type: Plain text
+#: HotspotNaming-Groups.qmd:6
+msgid ""
+"The parent hotspot should be named for the area that encompasses the entire "
+"group. “General” or “general area” may be appended to the Parent hotspot "
+"name if there is the potential for confusion between the parent hotspot "
+"(referring to checklists spanning multiple sites or the entire area) and any "
+"specific, individual sub-hotspot."
+msgstr ""
+
+#. type: Plain text
+#: HotspotNaming-Groups.qmd:8
+msgid ""
+"Any modifiers or warnings that are specific to the parent location alone "
+"(e.g., “Use more precise location”) should be added in parentheses."
+msgstr ""
+
+#. type: Plain text
+#: HotspotNaming-Groups.qmd:10
+msgid "### **List-building Parent Hotspots**"
+msgstr ""
+
+#. type: Plain text
+#: HotspotNaming-Groups.qmd:12
+msgid ""
+"List-building parent hotspots represent very large areas that are too "
+"spatially imprecise to be useful for most scientific analyses. In Hotspot "
+"Groups, List-building parent hotspots are automatically identified for any "
+"group with a bounding perimeter area of \\>80km2."
+msgstr ""
+
+#. type: Plain text
+#: HotspotNaming-Groups.qmd:14
+msgid ""
+"For very large list-building hotspots, we recommend including a "
+"parenthetical note that discourages casual or regular use of these Hotspots "
+"and encourages more specific birding—e.g., “(use more precise loc.)”—"
+"whenever there is space to use it. Our recommendation is to keep this as "
+"short and direct as possible. "
+msgstr ""
+
+#. type: Plain text
+#: HotspotNaming-Groups.qmd:16
+#, no-wrap
+msgid " Any list-building parent hotspot that is considered problematic for data entry should include an asterisk after the core part of the name. An asterisk following the name is also meant to be a warning to savvy eBirders not to pick this spot if they are willing and able to submit their checklist at a more precise location. The asterisk may also help to ensure that scientific data users don’t treat these as site-specific checklists. **We ask that asterisks not be used anywhere else in hotspots so that they can be specifically used to designate these special types of locations.** \n"
+msgstr ""
+
+#. type: Plain text
+#: HotspotNaming-Groups.qmd:18
+msgid "The below hotspots use our recommended names:"
+msgstr ""
+
+#. type: Bullet: '- '
+#: HotspotNaming-Groups.qmd:20
+msgid ""
+"[Glacier NP\\* general (use more precise loc.)](https://ebird.org/hotspot/"
+"L247319)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: HotspotNaming-Groups.qmd:22
+msgid ""
+"[Khao Yai NP\\* general (use more precise loc.)](https://ebird.org/hotspot/"
+"L921126)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: HotspotNaming-Groups.qmd:24
+msgid ""
+"[Maasai Mara NR\\* general (use more precise loc.)](https://ebird.org/"
+"hotspot/L1235762)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: HotspotNaming-Groups.qmd:26
+msgid ""
+"[Cerro Punta\\* general area (use more precise loc.)](https://ebird.org/"
+"hotspot/L454648)"
+msgstr ""
+
+#. type: Bullet: '- '
+#: HotspotNaming-Groups.qmd:28
+msgid ""
+"[Akatau Mountains\\* general area (use more precise loc.)](https://ebird.org/"
+"hotspot/L10236131)"
+msgstr ""
+
+#. type: Plain text
+#: HotspotNaming-Groups.qmd:30
+msgid "### **Sub-hotspots**"
+msgstr ""
+
+#. type: Plain text
+#: HotspotNaming-Groups.qmd:34
+msgid ""
+"Sub-hotspots should follow the parent hotspot separated by a **double hyphen "
+"(\\-\\-) without spaces** on either side. The correct structure is: \\"
+"[Parent Hotspot\\]\\-\\-\\[sub-hotspot\\]. For example, “Montezuma NWR\\-\\-"
+"Towpath Rd.”\\ \\ The following variations are INCORRECT:"
+msgstr ""
+
+#. type: Bullet: '- '
+#: HotspotNaming-Groups.qmd:36
+msgid "Spaces on either side of the dashes: “Montezuma NWR \\-\\- Towpath Rd.”"
+msgstr ""
+
+#. type: Bullet: '- '
+#: HotspotNaming-Groups.qmd:38
+msgid "Single dash: “Montezuma NWR-Towpath Rd.” "
+msgstr ""
+
+#. type: Bullet: '- '
+#: HotspotNaming-Groups.qmd:40
+msgid ""
+"Emdash: Montezuma NWR—Towpath Rd.” (A common autocorrect change to watch out "
+"for!)"
+msgstr ""
+
+#. type: Plain text
+#: HotspotNaming-Groups.qmd:42
+#, no-wrap
+msgid "**NOTE:** **Using the correct structure here has been critically important since 2021, since this naming structure is used in eBird Mobile to recommend specific hotspots to the user.**\n"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: HotspotNaming-Groups.qmd:44 AdditionalModifiers.qmd:16
+#: RestrictedAccessLocations.qmd:8 HistoricalLocations.qmd:6
+#: StakeoutHotspots.qmd:22 PelagicHotspots.qmd:8 PelagicHotspots.qmd:16
+msgid "Examples:"
+msgstr ""
+
+#. type: Bullet: '  - '
+#: HotspotNaming-Groups.qmd:46
+msgid ""
+"[Khao Yai NP\\-\\-headquarters vicinity](https://ebird.org/hotspot/L10183154)"
+msgstr ""
+
+#. type: Bullet: '  - '
+#: HotspotNaming-Groups.qmd:48
+msgid "[Khao Yai NP\\-\\-Nong Phak Chi](https://ebird.org/hotspot/L1080440)"
+msgstr ""
+
+#. type: Bullet: '  - '
+#: HotspotNaming-Groups.qmd:50
+msgid "[Yosemite NP\\-\\-Tuolumne Meadows](https://ebird.org/hotspot/L343236)"
+msgstr ""
+
+#. type: Bullet: '  - '
+#: HotspotNaming-Groups.qmd:52
+msgid "[Yosemite NP\\-\\-Glacier Pt.](https://ebird.org/hotspot/L595393)"
+msgstr ""
+
+#. type: Bullet: '  - '
+#: HotspotNaming-Groups.qmd:54
+msgid ""
+"[Reserva de la Biosfera El Cielo\\-\\-Senda Alta Cima](https://ebird.org/"
+"hotspot/L1332522)"
+msgstr ""
+
+#. type: Bullet: '  - '
+#: HotspotNaming-Groups.qmd:56
+msgid ""
+"[Reserva de la Biosfera El Cielo\\-\\-Rancho del Cielo](https://ebird.org/"
+"hotspot/L275916)"
+msgstr ""
+
+#. type: Plain text
+#: HotspotNaming-Groups.qmd:58
+msgid ""
+"Do not make a city or town a parent hotspot with sub-hotspots. When it is "
+"helpful to identify a location by city or town, please use this format: \\"
+"[Location\\], \\[City or Town Name\\]. Furthermore, large cities do not ever "
+"need to be specified in the location name (except when two hotspots with the "
+"same name might be confused). For example, “Garden of the Gods Park, "
+"Colorado Springs” is undesirable; it should be named “Garden of the Gods "
+"Park” and the mapped location will indicate where it is more specifically. "
+"If a city, town, or township is used with a road name it should generally "
+"follow the road name. For instance, \"[Butler Rd., Olmito](https://ebird.org/"
+"hotspot/L2240586)\" rather than \"Olmito\\-\\-Butler Rd.\""
+msgstr ""
+
+#. type: Plain text
+#: HotspotNaming-Groups.qmd:60
+msgid ""
+"Entire “Birding Trails”, covering a large section of a state, should never "
+"have sub-hotspots. In the great majority of birding trails, each site or "
+"stop on a birding trail should have its own location, either as a hotspot or "
+"a sub-hotspots within another entity. It is permissible to have a birding "
+"trail site number in parentheses after the name, for example, [Laguna "
+"Atascosa NWR (LTC 024)](https://ebird.org/hotspot/L129005)."
+msgstr ""
+
+#. type: Plain text
+#: HotspotNaming-Groups.qmd:62
+msgid "### **Abbreviations**"
+msgstr ""
+
+#. type: Plain text
+#: HotspotNaming-Groups.qmd:63
+msgid ""
+"In cases where the parent location name is long, abbreviations can be "
+"established for sub-hotspots, provided the parent hotspot uses the full, "
+"unabbreviated version. For example, in Figure 2 above, Cape Island\\-\\-"
+"SCMM\\-\\-Cove Pool is allowed because SCMM is defined (as South Cape May "
+"Meadows) in the nearby parent hotspot."
+msgstr ""
+
+#. type: Plain text
+#: LinearRoutes.qmd:2
+msgid "## **Naming Hotspots along Linear Routes– Rivers, Roads, and Trails**"
+msgstr ""
+
+#. type: Plain text
+#: LinearRoutes.qmd:4
+msgid ""
+"This section refers to linear features that are too long to be represented "
+"by a single hotspot except for historical records and getting personal life "
+"lists up to date)  This would not apply to linear features within discrete, "
+"non-linear hotspots, such as trails within parks. It also does not apply to "
+"pelagic transects (see the [Pelagic Hotspot](PelagicHotspots.qmd) section "
+"below)."
+msgstr ""
+
+#. type: Plain text
+#: LinearRoutes.qmd:6
+msgid ""
+"Linear routes (e.g., rivers, roads, and hiking trails)—while not eligible to "
+"be Hotspot groups—can still consist of a hierarchy of both stationary and "
+"point-to-point “sub-hotspots” (term used loosely, not in the technical sense "
+"of a Hotspot group) that follow a hierarchical naming structure. "
+msgstr ""
+
+#. type: Plain text
+#: LinearRoutes.qmd:8
+msgid ""
+"One example of a linear route  consisting of multiple “sub-hotspots” is  the "
+"Alaska Highway: [Alaska Hwy--Yukon River bridge to M'Clintock Bay](https://"
+"ebird.org/hotspot/L6452195) (point-to-point hotspot) and [Alaska Hwy--"
+"Drury's Farm pond](https://ebird.org/hotspot/L5768400) (stationary hotspot). "
+msgstr ""
+
+#. type: Plain text
+#: LinearRoutes.qmd:10
+msgid ""
+"For point-to-point sub-hotspots, the naming convention is \\[Parent "
+"Hospot\\]--\\[Point A\\] to \\[Point B\\]."
+msgstr ""
+
+#. type: Bullet: '-   '
+#: LinearRoutes.qmd:12
+msgid ""
+"[Buffalo National River--Tyler Bend to Gilbert](https://ebird.org/hotspot/"
+"L1269187)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: LinearRoutes.qmd:14
+msgid ""
+"[Alakai Swamp Trail--Trailhead to Pihea Trail Junction](https://ebird.org/"
+"hotspot/L1426322)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: LinearRoutes.qmd:16
+msgid ""
+"[Carretera 175/Oaxaca-Tuxtepec--Km 90-95](https://ebird.org/hotspot/L282531)"
+msgstr ""
+
+#. type: Plain text
+#: LinearRoutes.qmd:17
+msgid ""
+"Place the marker roughly equidistant between the two points. Not every "
+"stretch of linear hotspot may qualify as a sub-hotspot. Use your judgment "
+"and consider habitats and the history of how a given stretch has been birded."
+msgstr ""
+
+#. type: Plain text
+#: BirdingTrails.qmd:2
+msgid "## **Birding Trails**"
+msgstr ""
+
+#. type: Plain text
+#: BirdingTrails.qmd:3
+msgid ""
+"Entire “Birding Trails”—multiple sites across a large region not all along "
+"the same road—should never be grouped or have sub-hotspots. In the great "
+"majority of birding trails, each site or stop on a birding trail should have "
+"its own location, either as a standalone hotspot or a sub-hotspot within a "
+"local group."
+msgstr ""
+
+#. type: Plain text
+#: AdditionalModifiers.qmd:2
+msgid "## **Additional Modifiers**"
+msgstr ""
+
+#. type: Plain text
+#: AdditionalModifiers.qmd:4
+msgid ""
+"Occasionally, a hotspot name will need an additional modifier to clarify the "
+"location. The most common situations are lakes and roads that cross county, "
+"department, state, province, or even country borders (as shown in the "
+"examples below) or common place names that may appear more than once in a "
+"state or province (e.g., there may be more than one Blue Lake). Such "
+"modifiers should follow the parent hotspot name and the sub-hotspot name (if "
+"present), can use “Co.” to abbreviate County, and should always appear in "
+"parentheses. **These modifiers should be used sparingly.**"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AdditionalModifiers.qmd:6 Towns.qmd:6 BirdcamHotspots.qmd:6
+msgid "Examples: "
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: AdditionalModifiers.qmd:8
+msgid ""
+"[Black Butte Lake (Glenn Co.)](https://ebird.org/hotspot/L372996) and [Black "
+"Butte Lake (Tehama Co.)](https://ebird.org/hotspot/L515160)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: AdditionalModifiers.qmd:10
+msgid ""
+"[Boca Chica Beach (LTC 043)--USA side](https://ebird.org/hotspot/L128923) "
+"and [Boca Chica (Tamaulipas)](https://ebird.org/hotspot/L513174)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: AdditionalModifiers.qmd:12
+msgid ""
+"[Balsas--Rio Marañon (Dept. Amazonas)](https://ebird.org/hotspot/L2237785) "
+"and [Balsas--Rio Marañón (Dept. Cajamarca)](https://ebird.org/hotspot/"
+"L2237773)"
+msgstr ""
+
+#. type: Plain text
+#: AdditionalModifiers.qmd:14
+msgid ""
+"Other modifiers may sometimes be useful to clarify a location, such as the "
+"town, especially when there are confusingly similar names. We generally "
+"recommend using a comma to add the name of the town."
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: AdditionalModifiers.qmd:18
+msgid "[Nauset Light Beach, Eastham](https://ebird.org/hotspot/L481406)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: AdditionalModifiers.qmd:20
+msgid "[Nauset Beach, Orleans](https://ebird.org/hotspot/L805337)"
+msgstr ""
+
+#. type: Plain text
+#: AdditionalModifiers.qmd:22
+msgid ""
+"Hotspots that cover properties managed by land trusts and other land "
+"preservation agencies may have specific organizational attribution by adding "
+"the name or acronym in parentheses after the name of the property, for "
+"example [Crooked Creek Preserve (TNC)](https://ebird.org/hotspot/L254272) "
+"for a property named Crooked Creek Preserve that is managed by The Nature "
+"Conservancy. Since the names of Land Trusts can be quite long, we generally "
+"recommend using these abbreviations rather than the full name of the Land "
+"Trust. Although the meaning here may not be immediately obvious to all "
+"users, it often is meaningful locally and is something that anyone can look "
+"up on a search engine."
+msgstr ""
+
+#. type: Plain text
+#: AdditionalModifiers.qmd:23
+#, no-wrap
+msgid "**We do not ever recommend using latitude and longitude in the hotspot name;** the coordinates of a hotspot are always officially defined by where the hotspot is sited and all hotspots in eBird are associated with a specific latitude and longitude. Adding these to the name is unnecessary and likely would lead to errors if the hotspot ever were moved but the name not also adjusted.\n"
+msgstr ""
+
+#. type: Plain text
+#: Towns.qmd:2
+msgid "## **Towns**"
+msgstr ""
+
+#. type: Plain text
+#: Towns.qmd:4
+msgid ""
+"In addition, in some parts of the world (e.g., western USA) it is common to "
+"go birding in small towns because the trees around town provide oasis-like "
+"habitat for migrants and vagrants. In these cases, please add “town” "
+"English), “pueblo” (Spanish), or an equivalent in parentheses after the "
+"hotspot name so that it is clear that the hotspot refers to birding in town. "
+"Do not do this for larger cities and towns, since this is intended only when "
+"a town area is fairly small and is typically covered by birding the semi-"
+"urban or suburban area on foot as a discrete habitat. (Despite the guidance "
+"above, in some cases, sub-hotspots would be appropriate when considering the "
+"town as an appropriately-sized parent hotspot.)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Towns.qmd:8
+msgid "[Campo (town)](https://ebird.org/hotspot/L268896)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Towns.qmd:10
+msgid "[Punta Banda (pueblo)](https://ebird.org/hotspot/L234680)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Towns.qmd:11
+msgid "[Rossport (town site)](https://ebird.org/hotspot/L1393489)"
+msgstr ""
+
+#. type: Plain text
+#: AbbreviationsEnglish.qmd:2
+msgid "## **Abbreviations (English)**"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsEnglish.qmd:4
+msgid "Avenue – Ave."
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsEnglish.qmd:6
+msgid "Conservation Area – CA"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsEnglish.qmd:8
+msgid "County – Co."
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsEnglish.qmd:10
+msgid "Department – Dept."
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsEnglish.qmd:12
+msgid "Highway – Hwy."
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: AbbreviationsEnglish.qmd:14
+msgid "United States Highway 6 – US-6"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: AbbreviationsEnglish.qmd:16
+msgid "Colorado Highway 8 – CO-8"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: AbbreviationsEnglish.qmd:18
+msgid "Interstate Highway 90 – I-90"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: AbbreviationsEnglish.qmd:20
+msgid "County Road 18 – CR-18"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsEnglish.qmd:22
+msgid "Important Bird Area – IBA"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsEnglish.qmd:24
+msgid "Kilometer – km"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsEnglish.qmd:26
+msgid "Mile marks – mm (e.g., I-90--mm92)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsEnglish.qmd:28
+msgid "Mountain or Mount – Mt."
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsEnglish.qmd:30
+msgid "National Historic Site – NHS"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsEnglish.qmd:32
+msgid "National Park – NP "
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsEnglish.qmd:34
+msgid "National Wildlife Refuge – NWR"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsEnglish.qmd:36
+msgid "Natural Area – NA"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsEnglish.qmd:38
+msgid "National Monument – NM"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsEnglish.qmd:40
+msgid "Point – Pt. (do not use this for Port)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsEnglish.qmd:42
+msgid "Road – Rd. "
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsEnglish.qmd:44
+msgid "Saint – St"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsEnglish.qmd:46
+msgid "State Park – SP"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsEnglish.qmd:48
+msgid "Street – St."
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsEnglish.qmd:50
+msgid "Township – Twp."
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsEnglish.qmd:52
+msgid "Wildlife Area – WA"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsEnglish.qmd:54
+msgid "Wildlife Management Area – WMA"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsEnglish.qmd:56
+msgid ""
+"Wastewater Treatment Plant, Water Treatment Plant, or Sewage Plant – WTP"
+msgstr ""
+
+#. type: Plain text
+#: AbbreviationsEnglish.qmd:57
+msgid ""
+"\\*Special note for Wastewater Treatment Plants, which may have different "
+"terminology in different regions. Water Treatment Plant, Sewage Ponds, "
+"Sewage Lagoons, Sewage Treatment Plant etc. all refer to basically the same "
+"type of site (which of course are almost always hot spots for birds!). In "
+"the interest of standardization, we recommend using WTP wherever possible. "
+"If a certain site is widely known as Sewage Treatment Plant and using WTP "
+"would create confusion, it is permissible to spell those out; do not use STP "
+"or WWTP."
+msgstr ""
+
+#. type: Plain text
+#: AbbreviationsSpanish.qmd:2
+msgid "## **Abbreviations (Spanish)**"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsSpanish.qmd:4
+msgid ""
+"Area Importante para la Conservación de las Aves – AICA (same designation as "
+"IBA in English)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsSpanish.qmd:6
+msgid "Parque Nacional – PNac"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsSpanish.qmd:8
+msgid "Parque Natural – PNat "
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsSpanish.qmd:9 AbbreviationsFrench.qmd:12
+msgid "Saint or Sainte – St or Ste"
+msgstr ""
+
+#. type: Plain text
+#: AbbreviationsFrench.qmd:2
+msgid "## **Abbreviations (French)**"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsFrench.qmd:4
+msgid "Chemin – Ch. "
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsFrench.qmd:6
+msgid "Compté – Cté"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsFrench.qmd:8
+msgid "Parc Nacional – PNac"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsFrench.qmd:10
+msgid "Refuge faunique or Réserve faunique – RF "
+msgstr ""
+
+#. type: Bullet: '-   '
+#: AbbreviationsFrench.qmd:13
+msgid "Zone d’exploitation contrôlée – ZEC"
+msgstr ""
+
+#. type: Plain text
+#: OtherAbbreviations.qmd:2
+msgid "## **Other Abbreviations**"
+msgstr ""
+
+#. type: Plain text
+#: OtherAbbreviations.qmd:4
+msgid ""
+"Other abbreviations, especially in non-English languages, can be adopted by "
+"local hotspot teams. However, these need to be readily understood by the "
+"eBirding community and also need to be used consistently within the region "
+"and (ideally) outside of it."
+msgstr ""
+
+#. type: Plain text
+#: OtherAbbreviations.qmd:6
+msgid ""
+"In general, use “and” instead of an ampersand (&) except in cases where "
+"hotspot names are very long, or where ampersands are already widely used "
+"(e.g., [C&O Canal--Violette’s Lock](https://ebird.org/hotspot/L192824))."
+msgstr ""
+
+#. type: Plain text
+#: OtherAbbreviations.qmd:8
+msgid ""
+"It is acceptable to use internationally recognized region abbreviations "
+"(which appear in URLs in eBird, such as <https://ebird.org/region/MX-CHP>) "
+"for countries, states, or provinces. Please use other abbreviations very "
+"sparingly. Please be careful when using abbreviations that can be confused "
+"with internationally recognized postal abbreviations—e.g., CA (California), "
+"NA (Namibia), NM (New Mexico), and WA (Washington) are confusing exceptions "
+"given the other abbreviations we allow."
+msgstr ""
+
+#. type: Plain text
+#: OtherAbbreviations.qmd:9
+msgid ""
+"Do not abbreviate the full name of a national park or wildlife area (For "
+"example, please use Rocky Mountain NP, not RMNP). When in doubt, spell it "
+"out."
+msgstr ""
+
+#. type: Plain text
+#: RestrictedAccessLocations.qmd:2
+msgid "## **Restricted Access Locations**"
+msgstr ""
+
+#. type: Plain text
+#: RestrictedAccessLocations.qmd:4
+msgid ""
+"Although hotspots should generally be accessible to the public, occasional "
+"locations are not open to the public but may be regularly birded by those "
+"who have been authorized to do so. It is still appropriate to list the "
+"location as a hotspot since it is desirable to pool the data from multiple "
+"observers. "
+msgstr ""
+
+#. type: Plain text
+#: RestrictedAccessLocations.qmd:6
+msgid ""
+"Be sure to indicate a hotspot is Restricted Access in the [Hotspot Features]"
+"(ParentHotspotContent.qmd#features) list. This will ensure that a "
+"“Restricted Access” tag also appears next to the hotspot name on the eBird "
+"website. Until a similar UI tag is available in eBird mobile, we recommend "
+"also placing  the words “restricted access” (or the equivalent in the local "
+"language) in lower-case in parentheses following the location name. Detailed "
+"access instructions should not be part of the hotspot name; provide these in "
+"the Plan Your Visit section of the Hotspot about page."
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: RestrictedAccessLocations.qmd:10
+msgid ""
+"[Patuxent River Naval Air Station (restricted access)](https://ebird.org/"
+"hotspot/L472729)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: RestrictedAccessLocations.qmd:12
+msgid ""
+"[Holme Bird Observatory (restricted access)](https://ebird.org/hotspot/"
+"L2038242)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: RestrictedAccessLocations.qmd:13
+msgid ""
+"[Finca Tempixque (acceso restringido)](https://ebird.org/hotspot/L468452)"
+msgstr ""
+
+#. type: Plain text
+#: HistoricalLocations.qmd:2
+msgid "## **Historical Locations**"
+msgstr ""
+
+#. type: Plain text
+#: HistoricalLocations.qmd:4
+msgid ""
+"In rare cases, it can be helpful to create hotspots for sites that no longer "
+"exist. In such cases, a parenthetical note should make it clear that the "
+"described location is historical. If applicable, it may be helpful to add "
+"“before YYYY” in the parenthetical to indicate the time period that the site "
+"existed as a hotspot."
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: HistoricalLocations.qmd:8
+msgid ""
+"[Al Ain Camel Racetrack (historical)](https://ebird.org/hotspot/L2472490)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: HistoricalLocations.qmd:9
+msgid "[Luckett Rd. pond (historical)](https://ebird.org/hotspot/L3459840)"
+msgstr ""
+
+#. type: Plain text
+#: StakeoutHotspots.qmd:2
+msgid "## **Stakeout Hotspots**"
+msgstr ""
+
+#. type: Plain text
+#: StakeoutHotspots.qmd:4
+msgid ""
+"A single out-of-range rarity often generates a large amount of attention "
+"from birders. When such a bird occurs at a new site (i.e., not at an already-"
+"established hotspot) it is good practice to quickly set up a “stakeout” "
+"hotspot to give eBirders an accurate and consistent location to use when "
+"they visit. Please encourage those who “chase” these rarities to use the "
+"hotspot rather than creating their own location. These hotspots should be "
+"retained even after the bird has departed so that new eBird users can enter "
+"past rarities."
+msgstr ""
+
+#. type: Plain text
+#: StakeoutHotspots.qmd:6
+msgid "Our conventions for “stakeout hotspots” are:"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: StakeoutHotspots.qmd:8
+msgid ""
+"Plot the point as precisely as possible in relation to where the rarity is "
+"being seen"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: StakeoutHotspots.qmd:10
+msgid "Always begin with “stakeout” in **lowercase** "
+msgstr ""
+
+#. type: Bullet: '-   '
+#: StakeoutHotspots.qmd:12
+msgid "Next, include the common name of the bird in the local language"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: StakeoutHotspots.qmd:14
+msgid ""
+"Next, include a geographical identifier; this can be the town, a well-known "
+"road, or other feature that will distinguish this hotspot from others for "
+"the same species in the region. "
+msgstr ""
+
+#. type: Bullet: '-   '
+#: StakeoutHotspots.qmd:16
+msgid ""
+"Do not include county, state, or country, since these are automatically "
+"added by eBird. "
+msgstr ""
+
+#. type: Bullet: '-   '
+#: StakeoutHotspots.qmd:18
+msgid ""
+"Finally, include the date range when the bird was seen; for ongoing "
+"rarities, these names may need to be edited in real time if the rare bird "
+"persists for months or years"
+msgstr ""
+
+#. type: Plain text
+#: StakeoutHotspots.qmd:20
+msgid "<!-- -->"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: StakeoutHotspots.qmd:24
+msgid ""
+"[stakeout Black-throated Gray Warbler, 103 James H. Luther Dr., Taunton (Jan "
+"2013)](https://ebird.org/hotspot/L1878310)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: StakeoutHotspots.qmd:26
+msgid ""
+"[stakeout Black-throated Sparrow, Elora (2005-06)](https://ebird.org/hotspot/"
+"L1890097)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: StakeoutHotspots.qmd:27
+msgid ""
+"[stakeout Eurasian Blackcap, Durbanville (Jul 2017)](https://ebird.org/"
+"hotspot/L6096764)"
+msgstr ""
+
+#. type: Plain text
+#: PelagicHotspots.qmd:2
+msgid "## **Pelagic Hotspots**"
+msgstr ""
+
+#. type: Plain text
+#: PelagicHotspots.qmd:4
+msgid ""
+"It is not encouraged to use hotspots for pelagic birding, since the eBird "
+"best practice is to follow the [eBird Pelagic Protocol](https://"
+"support.ebird.org/en/support/solutions/articles/48000950859-guide-to-ebird-"
+"protocols#anchorPelagic) and plot locations based on the exact route you "
+"traveled, ideally using tracks in eBird mobile. But there are two scenarios "
+"where hotspots have been established and these can be useful for aggregating "
+"data, especially when the data were not collected with rigorous tracks of "
+"GPS location services."
+msgstr ""
+
+#. type: Bullet: '1.  '
+#: PelagicHotspots.qmd:6
+msgid ""
+"General pelagic locations: Like other list-building parent hotspots , these "
+"are most useful for aggregation of historical data under a single hotspot "
+"that is reasonably well sited. They should be named according to conventions "
+"described above for list-building parent hotspots and should only be used "
+"when established boat trips regularly visit roughly the same waters."
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: PelagicHotspots.qmd:10
+msgid ""
+"[Kaikoura--offshore--Albatross Encounter pelagic (general)](https://"
+"ebird.org/hotspot/L521309)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: PelagicHotspots.qmd:12
+msgid "[Tofino pelagic trip](https://ebird.org/hotspot/L339307)"
+msgstr ""
+
+#. type: Bullet: '2.  '
+#: PelagicHotspots.qmd:14
+msgid ""
+"Specific pelagic locations: Sometimes an underwater feature (e.g., canyon, "
+"seamount, shelf, bank) or other specific habitat is a specific area that is "
+"regularly targeted for pelagic birding. These can be appropriate hotspots, "
+"but of course should only be used for observations in the immediate vicinity "
+"of these features; since this is hard to define for a birder on a boat, "
+"these hotspots should only be established with good reason and should always "
+"be used with great care. Otherwise, see above for conventions."
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: PelagicHotspots.qmd:18
+msgid "[Hudson Canyon (Atlantic Ocean)](https://ebird.org/hotspot/L670979)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: PelagicHotspots.qmd:19
+msgid "[Escollo Gorda](https://ebird.org/hotspot/L504177)"
+msgstr ""
+
+#. type: Plain text
+#: PrivacyConcerns.qmd:2
+msgid "## **Privacy concerns**"
+msgstr ""
+
+#. type: Plain text
+#: PrivacyConcerns.qmd:3
+msgid ""
+"On rare occasions a rarity may appear on private land but access will be "
+"controlled so as to respect the wishes of the property owner. In such cases, "
+"the stakeout hotspot should be plotted some distance away from the actual "
+"location in a public area and ideally the name should indicate that the "
+"location plot is intentionally inaccurate and that the access is restricted. "
+"Ideally, once the bird of interest has departed, the hotspot can be moved to "
+"the correct location."
+msgstr ""
+
+#. type: Plain text
+#: BirdcamHotspots.qmd:2
+msgid "## **Birdcam hotspots**"
+msgstr ""
+
+#. type: Plain text
+#: BirdcamHotspots.qmd:4
+msgid ""
+"It has become increasingly popular to watch birdcams (or other remote-"
+"sensing technology) and keep lists in eBird. This practice is not formally "
+"endorsed by eBird (see [our policy here](https://support.ebird.org/en/"
+"support/solutions/articles/48000795623-ebird-rules-and-best-practices#Why-"
+"doesn't-eBird-accept-observations-of-dead,-captive,-or-remotely-sensed-"
+"birds?)), but since these checklists may be treated as Public and may have "
+"public records, it is preferable to use established hotspot locations when "
+"this practice is being adopted by multiple people to avoid too much location "
+"scatter. Please get in touch with eBird Central for approval of any such "
+"hotspots. We recommend including the overarching hotspot/area name, followed "
+"by a double-dash and “feedercam” or “trailcam,” to make sure these are "
+"readily identifiable; the name in parentheses is the official name of the "
+"camera. Please do not add the camera weblink."
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: BirdcamHotspots.qmd:8
+msgid ""
+"[Canopy Lodge--feedercam only (Panama Fruit Feeder Cam)](https://ebird.org/"
+"hotspot/L12059671)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: BirdcamHotspots.qmd:9
+msgid ""
+"[Manitouwadge--feedercam only (Ontario FeederWatch Cam)](https://ebird.org/"
+"hotspot/L2434245)"
+msgstr ""
+
+#. type: Plain text
+#: MiscNaming.qmd:2
+msgid "## **Miscellaneous Hotspot Naming Conventions**"
+msgstr ""
+
+#. type: Bullet: '1.  '
+#: MiscNaming.qmd:4
+msgid ""
+"**Keep Names Concise** – Hotspot names should be under 100 characters, with "
+"shorter names always preferred. Brevity helps ensure clarity, ease of use, "
+"and consistency across platforms. Opt for widely recognized place names or "
+"simple descriptive terms to maintain readability whenever possible."
+msgstr ""
+
+#. type: Bullet: '2.  '
+#: MiscNaming.qmd:5
+msgid ""
+"**Avoid Emojis** – Emojis should not be included in hotspot names. This is "
+"the official policy to maintain compatibility with analytical software and "
+"ensure consistency across eBird’s global dataset. We recognize the value "
+"visual indicators can bring, and we are actively exploring alternative ways "
+"to incorporate this information without affecting data integrity."
+msgstr ""
+
+#. type: Plain text
+#: DownloadHotspotFile.qmd:2
+msgid "## **Downloadable Hotspot file through the Hotspot API**"
+msgstr ""
+
+#. type: Plain text
+#: DownloadHotspotFile.qmd:4
+msgid ""
+"Downloadable and machine-readable files can be accessed from the [eBird "
+"Hotspot API](https://documenter.getpostman.com/view/664302/S1ENwy59?"
+"version=latest#f4f59f90-854e-4ba6-8207-323a8cf0bfe0). Hotspot editors will "
+"find it useful to download a CSV file of hotspots in their region. "
+msgstr ""
+
+#. type: Plain text
+#: DownloadHotspotFile.qmd:6
+msgid ""
+"To obtain a CSV file of eBird Hotspots in a region, first request an eBird "
+"API key here: <https://ebird.org/data/download> (your personal API key is "
+"unique to you, please do not share it!) "
+msgstr ""
+
+#. type: Plain text
+#: DownloadHotspotFile.qmd:8
+msgid ""
+"You will also need the appropriate region code. These can be found in the "
+"URLs of the Region Explorer at <https://ebird.org/explore>. For example, the "
+"region code for Zimbabwe (<https://ebird.org/region/ZW>) is ZW. The region "
+"code for Cork, Munster, Ireland (<https://ebird.org/region/IE-M-CK>) is IE-M-"
+"CK. "
+msgstr ""
+
+#. type: Plain text
+#: DownloadHotspotFile.qmd:10
+msgid ""
+"Substitute your API key and appropriate region code for {APIKEY} and "
+"{REGIONCODE} in the following web address:"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: DownloadHotspotFile.qmd:12
+msgid "https://api.ebird.org/v2/ref/hotspot/{REGIONCODE}?fmt=csv&key={APIKEY}"
+msgstr ""
+
+#. type: Plain text
+#: DownloadHotspotFile.qmd:14
+msgid ""
+"Copy and paste the web address into your browser. The result will be a "
+"downloaded CSV file of all eBird Hotspots in that region. "
+msgstr ""
+
+#. type: Plain text
+#: DownloadHotspotFile.qmd:16
+msgid ""
+"Example: If your API key was 1a2b3c4d5e and your regions of interest were "
+"Zimbabwe (ZW) and Cork, Munster, Ireland (IE-M-CK), you would paste the "
+"following URLs into your web browser:"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: DownloadHotspotFile.qmd:18
+msgid "https://api.ebird.org/v2/ref/hotspot/ZW?fmt=csv&key=1a2b3c4d5e"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: DownloadHotspotFile.qmd:20
+msgid "https://api.ebird.org/v2/ref/hotspot/IE-M-CK?fmt=csv&key=1a2b3c4d5e"
+msgstr ""
+
+#. type: Plain text
+#: DownloadHotspotFile.qmd:21
+msgid ""
+"The eBird API can also provide a list of species seen within the last 1-30 "
+"days from any hotspot, which can then be embedded on other websites. Our "
+"APIs are fully documented [here](https://documenter.getpostman.com/view/"
+"664302/S1ENwy59?version=latest#intro), and most of these APIs are freely "
+"available for non-profit use; commercial use of the Hotspot API (or any "
+"other eBird APIs) is not permitted."
+msgstr ""
+
+#. type: Plain text
+#: ViewInGoogleEarth.qmd:2
+msgid "## **View the Hotspot API File in Google Earth**"
+msgstr ""
+
+#. type: Plain text
+#: ViewInGoogleEarth.qmd:4
+msgid ""
+"Hotspot CSV files can also be converted into Google Earth (kml) files. After "
+"[downloading the Hotspot CSV](DownloadHotspotFile.qmd), open the file in "
+"Excel or similar software. Insert a new, empty row 1. Enter the following "
+"column headings into your new row 1: "
+msgstr ""
+
+#. type: Bullet: '-   '
+#: ViewInGoogleEarth.qmd:6
+msgid "LocalityID"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: ViewInGoogleEarth.qmd:8
+msgid "Country"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: ViewInGoogleEarth.qmd:10
+msgid "Subnat1"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: ViewInGoogleEarth.qmd:12
+msgid "Subnat2"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: ViewInGoogleEarth.qmd:14
+msgid "Latitude"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: ViewInGoogleEarth.qmd:16
+msgid "Longitude"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: ViewInGoogleEarth.qmd:18
+msgid "Name"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: ViewInGoogleEarth.qmd:20
+msgid "EditDate"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: ViewInGoogleEarth.qmd:22
+msgid "Species"
+msgstr ""
+
+#. type: Plain text
+#: ViewInGoogleEarth.qmd:24
+msgid ""
+"Only Latitude (column E), Longitude (column F), and Name (column G) are "
+"required for Google Earth. The remaining columns can be deleted if you do "
+"not plan to use them in your KML file. "
+msgstr ""
+
+#. type: Plain text
+#: ViewInGoogleEarth.qmd:26
+msgid ""
+"Save the updated file in CSV or XLSX format. Then, use a KML converter—such "
+"as <http://www.earthpoint.us/ExcelToKml.aspx>—to prepare the file for Google "
+"Earth. "
+msgstr ""
+
+#. type: Plain text
+#: ViewInGoogleEarth.qmd:28
+msgid ""
+"Instead of a KML converter, you can create a new personal map on Google Maps "
+"(<https://www.google.com/maps/d/>), import your formatted CSV or XLSX file, "
+"and then export it as KML/KMZ. "
+msgstr ""
+
+#. type: Plain text
+#: ViewInGoogleEarth.qmd:29
+msgid "![](images/paste-23.png)"
+msgstr ""
+
+#. type: Plain text
+#: Acknowledgements.qmd:2
+#, no-wrap
+msgid "**Thank you for your help managing hotspots!**\n"
+msgstr ""
+
+#. type: Plain text
+#: Acknowledgements.qmd:4
+msgid ""
+"Team eBird: Marshall Iliff, Jenna Curtis, Chris Wood, Ian Davies, and John "
+"Garrett"
+msgstr ""
+
+#. type: Plain text
+#: Acknowledgements.qmd:6
+msgid "and the "
+msgstr ""
+
+#. type: Plain text
+#: Acknowledgements.qmd:7
+msgid ""
+"eBird Hotspot Management Team: Ken Ostermiller, Ben Cacace, Daniel Scheiman, "
+"Jane Tatchell, and Rob Bielawski (with special thanks to Ezra James for help "
+"with the 2025 version of this document)"
+msgstr ""
+
+#. type: Plain text
+#: Part1.qmd:2
+msgid "# Part 1: How to Review and Edit Hotspots"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Part1.qmd:4
+msgid "[Overview](Overview.qmd)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Part1.qmd:6
+msgid "[To Accept or Not Accept](ToAcceptorNotAccept.qmd)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Part1.qmd:8
+msgid "[New Hotspot Evaluation](NewHotspotEvaluation.qmd)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Part1.qmd:10
+msgid "[Viewing Reviewed Hotspots](ViewingReviewedHotspots.qmd)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Part1.qmd:12
+msgid "[Editing Existing Hotspots](EditingExistingHotspots.qmd)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Part1.qmd:14
+msgid "[Plotting Hotspots](PlottingHotspots.qmd)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Part1.qmd:15
+msgid "[Merging Hotspots](MergingHotspots.qmd)"
+msgstr ""
+
+#. type: Plain text
+#: Part2.qmd:2
+msgid "# Part 2: Hotspot Content"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Part2.qmd:13
+msgid "[Content Permissions](ContentPermissions.qmd)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Part2.qmd:13
+msgid ""
+"[Assigning Content Editing Permissions]"
+"(AssigningContentEditingPermissions.qmd)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Part2.qmd:13
+msgid "[Hotspot Content](HotspotContent.qmd)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Part2.qmd:13
+msgid "[Managing Languages](ManagingLanguages.qmd)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Part2.qmd:13
+msgid "[Links](Links.qmd)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Part2.qmd:13
+msgid "[Content Edit History](ContentEditHistory.qmd)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Part2.qmd:13
+msgid "[Auto-Approval](Auto-Approval.qmd)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Part2.qmd:13
+msgid "[Reviewing Content Suggestions](Reviewingcontentsuggestions.qmd)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Part2.qmd:13
+msgid "[Pending Suggestions](Pendingsuggestions.qmd)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Part2.qmd:13
+msgid "[Reviewed Suggestions](Reviewedsuggestions.qmd)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Part2.qmd:13
+msgid "[Hotspot Content FAQs](HotspotcontentFAQs.qmd)"
+msgstr ""
+
+#. type: Plain text
+#: Part3.qmd:2
+msgid "# **Part III: Hotspot Groups**"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Part3.qmd:4
+msgid "[Hotspot Groups Overview](GroupsIntroduction.qmd)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Part3.qmd:6
+msgid "[Parent Hotspots](ParentHotspots.qmd)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Part3.qmd:13
+msgid "[Parent Hotspot Content](ParentHotspotContent.qmd)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Part3.qmd:13
+msgid "[Additional Parent Hotspot UI](AdditionalParentHotspotUI.qmd)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Part3.qmd:13
+msgid "[Data Aggregation](DataAggregation.qmd)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Part3.qmd:13
+msgid "[Parent Hotspot Placement](ParentHotspotPlacement.qmd)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Part3.qmd:13
+msgid ""
+"[Naming Parent Hotspots and Sub-hotspots](NamingParentandSub-Hotspots.qmd)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Part3.qmd:13
+msgid "[List-building Parent Hotspots](List-buildingParentHotspots.qmd)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Part3.qmd:15
+msgid "[Creating and Managing Hotspot Groups](CreatingandManaging.qmd)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Part3.qmd:17
+msgid "[Multi-Region Hotspot Groups](Multi-RegionHotspotGroups.qmd)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Part3.qmd:18
+msgid "[Hotspot Group FAQs](HotspotGroupFAQs.qmd)"
+msgstr ""
+
+#. type: Plain text
+#: Part4.qmd:2
+msgid "# Part 4: Standards and Naming Conventions for eBird Hotspots"
+msgstr ""
+
+#. type: Plain text
+#: Part4.qmd:4
+msgid ""
+"When approving new hotspots and reviewing current hotspots, try to use names "
+"that conform to the naming conventions described below. Consistent naming "
+"helps users find the correct hotspot when using the mapping tool to submit a "
+"checklist, as well as when selecting hotspots from drop-down lists. "
+"Searching for output based on hotspot names is also easier when the naming "
+"conforms to consistent standards."
+msgstr ""
+
+#. type: Plain text
+#: Part4.qmd:6
+msgid ""
+"It's also helpful to keep in mind how eBird uses and displays hotspot names. "
+"For example, most eBird output (e.g., Hotspot Explorer, Region Explorer) "
+"includes the hotspots in geographical context, and when the name of the site "
+"is listed, it includes the county, state, and country. Therefore, it is not "
+"necessary to include the name of the county, state, province, or country in "
+"the hotspot name unless it is needed for clarity. "
+msgstr ""
+
+#. type: Plain text
+#: Part4.qmd:8
+msgid ""
+"Hotspot names should generally use the formal, official name of the park, "
+"forest, wildlife area, or some other geographic identifier—if there is one. "
+"It is generally not good practice to name hotspots for birds that might be "
+"seen there or for habitat that may not persist over time, although there may "
+"be sites for specific species that do merit a hotspot named for the species "
+"of bird. A notable exception is for “stakeout” rarities, which have a "
+"special section ([Stakeout Hotspots](StakeoutHotspots.qmd)) below."
+msgstr ""
+
+#. type: Plain text
+#: Part4.qmd:10
+msgid "## Table of Contents:"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Part4.qmd:12
+msgid "[Capitalization](Capitalization.qmd)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Part4.qmd:14
+msgid "[Language](Language.qmd)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Part4.qmd:16
+msgid "[Hotspot Definitions and Hierarchy](HotspotDefinitions.qmd)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Part4.qmd:18
+msgid "[Hotspot Naming-Groups](HotspotNaming-Groups.qmd)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Part4.qmd:20
+msgid "[Naming Hotspots Along Linear Routes](LinearRoutes.qmd)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Part4.qmd:22
+msgid "[Birding Trails](BirdingTrails.qmd)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Part4.qmd:24
+msgid "[Additional Modifiers](AdditionalModifiers.qmd)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Part4.qmd:36
+msgid "[Towns](Towns.qmd)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Part4.qmd:36
+msgid "[Abbreviations (English)](AbbreviationsEnglish.qmd)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Part4.qmd:36
+msgid "[Abbreviations (Spanish)](AbbreviationsSpanish.qmd)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Part4.qmd:36
+msgid "[Abbreviations (French)](AbbreviationsFrench.qmd)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Part4.qmd:36
+msgid "[Restricted Access Locations](RestrictedAccessLocations.qmd)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Part4.qmd:36
+msgid "[Historical Locations](HistoricalLocations.qmd)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Part4.qmd:36
+msgid "[Stakeout Hotspots](StakeoutHotspots.qmd)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Part4.qmd:36
+msgid "[Pelagic Hotspots](PelagicHotspots.qmd)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Part4.qmd:36
+msgid "[Privacy concerns](PrivacyConcerns.qmd)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Part4.qmd:36
+msgid "[Birdcam hotspots](BirdcamHotspots.qmd)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Part4.qmd:36
+msgid "[Miscellaneous Hotspot Naming Conventions](MiscNaming.qmd)"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: Part4.qmd:38
+msgid ""
+"[Downloadable Hotspot file through the Hotspot API](DownloadHotspotFile.qmd)"
+msgstr ""
+
+#. type: Bullet: '    -   '
+#: Part4.qmd:39
+msgid "[View the Hotspot API file in Google Earth](ViewInGoogleEarth.qmd)"
+msgstr ""
