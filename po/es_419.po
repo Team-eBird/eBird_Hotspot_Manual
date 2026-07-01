@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: jc 2585\n"
-"POT-Creation-Date: 2026-07-01 15:29-0700\n"
+"POT-Creation-Date: 2026-07-01 15:47-0700\n"
 "PO-Revision-Date: 2026-07-01 15:29-0700\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -18,27 +18,29 @@ msgstr ""
 
 #. type: Plain text
 #: index.qmd:2
-msgid "<br> <br> <br> <br>"
+#, no-wrap
+msgid "<br> <br> <br> <br> \n"
 msgstr ""
 
-#. type: Plain text
-#: index.qmd:6
-msgid "::: {style=\"text-align: center;\"} ![](ebird_logo_front.png)  :::"
+#. type: Fenced div block ({style="text-align: center;"})
+#: index.qmd:3
+#, no-wrap
+msgid "![](ebird_logo_front.png)\n"
 msgstr ""
 
-#. type: Plain text
-#: index.qmd:9
-msgid "::: {style=\"text-align: center;\"} # Hotspot Handbook"
+#. type: Fenced div block ({style="text-align: center;"})
+#: index.qmd:7
+#, no-wrap
+msgid ""
+"# Hotspot Handbook\n"
+"\n"
+"## Hotspot review policies, instructions, and standards\n"
 msgstr ""
 
-#. type: Plain text
-#: index.qmd:12
-msgid "## Hotspot review policies, instructions, and standards :::"
-msgstr ""
-
-#. type: Plain text
-#: Introduction.qmd:2
-msgid "# Introduction"
+#. type: Title #
+#: Introduction.qmd:1
+#, no-wrap
+msgid "Introduction"
 msgstr ""
 
 #. type: Plain text
@@ -76,9 +78,10 @@ msgid ""
 "(https://ebird.org/hotspot/L6136876)."
 msgstr ""
 
-#. type: Plain text
-#: Introduction.qmd:10
-msgid "## **What is an eBird Hotspot?**"
+#. type: Title ##
+#: Introduction.qmd:9
+#, no-wrap
+msgid "**What is an eBird Hotspot?**"
 msgstr ""
 
 #. type: Plain text
@@ -157,9 +160,10 @@ msgid ""
 "airports do provide grassland habitat that may attract specialty species\\]"
 msgstr ""
 
-#. type: Plain text
-#: Introduction.qmd:26
-msgid "## **What is not an eBird hotspot?**"
+#. type: Title ##
+#: Introduction.qmd:25
+#, no-wrap
+msgid "**What is not an eBird hotspot?**"
 msgstr ""
 
 #. type: Plain text
@@ -266,9 +270,10 @@ msgstr ""
 msgid "**Note:** For more details and explanations on editing hotspots (including deleting a hotspot and reverting a hotspot to a personal location) refer to the “[Editing Existing Hotspots](EditingExistingHotspots.qmd)” section.\n"
 msgstr ""
 
-#. type: Plain text
-#: ToAcceptorNotAccept.qmd:2
-msgid "## **To Accept or Not Accept**"
+#. type: Title ##
+#: ToAcceptorNotAccept.qmd:1
+#, no-wrap
+msgid "**To Accept or Not Accept**"
 msgstr ""
 
 #. type: Plain text
@@ -330,9 +335,10 @@ msgid ""
 "hotspots or list-building parent hotspots."
 msgstr ""
 
-#. type: Plain text
-#: NewHotspotEvaluation.qmd:2
-msgid "## **New Hotspot Evaluation**"
+#. type: Title ##
+#: NewHotspotEvaluation.qmd:1
+#, no-wrap
+msgid "**New Hotspot Evaluation**"
 msgstr ""
 
 #. type: Bullet: '1.  '
@@ -419,9 +425,10 @@ msgid ""
 "hours), so the hotspot lists here will be almost current."
 msgstr ""
 
-#. type: Plain text
-#: ViewingReviewedHotspots.qmd:2
-msgid "## **Viewing Reviewed Hotspots**"
+#. type: Title ##
+#: ViewingReviewedHotspots.qmd:1
+#, no-wrap
+msgid "**Viewing Reviewed Hotspots**"
 msgstr ""
 
 #. type: Plain text
@@ -453,9 +460,10 @@ msgstr ""
 msgid "**Re-review** will re-Accept a hotspot that was previously marked Not Accepted.  giving you the option to review (rename, merge, or move) it again.\n"
 msgstr ""
 
-#. type: Plain text
-#: EditingExistingHotspots.qmd:2
-msgid "## **Editing Existing Hotspots**"
+#. type: Title ##
+#: EditingExistingHotspots.qmd:1
+#, no-wrap
+msgid "**Editing Existing Hotspots**"
 msgstr ""
 
 #. type: Plain text
@@ -567,9 +575,10 @@ msgstr ""
 msgid "**Delete—**You will only see the option to delete a hotspot if it has no eBird checklists associated with it. In this case, a blue **delete** option appears next to the name. There is little point in maintaining hotspots with no data, unless you are confident they will be useful in the future. Please delete these if you deem it appropriate.\n"
 msgstr ""
 
-#. type: Plain text
-#: PlottingHotspots.qmd:2
-msgid "## **Plotting Hotspots**"
+#. type: Title ##
+#: PlottingHotspots.qmd:1
+#, no-wrap
+msgid "**Plotting Hotspots**"
 msgstr ""
 
 #. type: Plain text
@@ -612,9 +621,10 @@ msgid ""
 "from the other hotspots so that users can easily find it and select it."
 msgstr ""
 
-#. type: Plain text
-#: MergingHotspots.qmd:2
-msgid "## **Merging Hotspots**"
+#. type: Title ##
+#: MergingHotspots.qmd:1
+#, no-wrap
+msgid "**Merging Hotspots**"
 msgstr ""
 
 #. type: Plain text
@@ -656,9 +666,10 @@ msgid ""
 "reverted to a personal location."
 msgstr ""
 
-#. type: Plain text
-#: ContentPermissions.qmd:2
-msgid "## **Content Permissions**"
+#. type: Title ##
+#: ContentPermissions.qmd:1
+#, no-wrap
+msgid "**Content Permissions**"
 msgstr ""
 
 #. type: Bullet: '-   '
@@ -741,9 +752,10 @@ msgstr ""
 msgid "![](images/paste-25.png){fig-align=\"center\"}"
 msgstr ""
 
-#. type: Plain text
-#: AssigningContentEditingPermissions.qmd:2
-msgid "## Assigning Content Editing Permissions"
+#. type: Title ##
+#: AssigningContentEditingPermissions.qmd:1
+#, no-wrap
+msgid "Assigning Content Editing Permissions"
 msgstr ""
 
 #. type: Plain text
@@ -799,9 +811,10 @@ msgid ""
 "see this by clicking on the user’s name from the Review Tools."
 msgstr ""
 
-#. type: Plain text
-#: HotspotContent.qmd:2
-msgid "## **Hotspot Content**"
+#. type: Title ##
+#: HotspotContent.qmd:1
+#, no-wrap
+msgid "**Hotspot Content**"
 msgstr ""
 
 #. type: Plain text
@@ -870,9 +883,10 @@ msgid ""
 "the site is accessible to them."
 msgstr ""
 
-#. type: Plain text
-#: ManagingLanguages.qmd:2
-msgid "## **Managing Languages**"
+#. type: Title ##
+#: ManagingLanguages.qmd:1
+#, no-wrap
+msgid "**Managing Languages**"
 msgstr ""
 
 #. type: Plain text
@@ -920,9 +934,8 @@ msgstr ""
 
 #. type: Plain text
 #: ManagingLanguages.qmd:17
-msgid ""
-"\\* Whenever multiple languages are available, go to Edit Content \\> Manage "
-"Languages to choose which language is displayed first. "
+#, no-wrap
+msgid "\\* Whenever multiple languages are available, go to Edit Content \\> Manage Languages to choose which language is displayed first. \n"
 msgstr ""
 
 #. type: Plain text
@@ -936,9 +949,10 @@ msgstr ""
 msgid "**If a language has no content**: Go to Edit Content \\> Manage Languages to delete it. (Be careful, this will also delete any existing content!)\n"
 msgstr ""
 
-#. type: Plain text
-#: Links.qmd:2
-msgid "## **Links**"
+#. type: Title ##
+#: Links.qmd:1
+#, no-wrap
+msgid "**Links**"
 msgstr ""
 
 #. type: Plain text
@@ -968,9 +982,10 @@ msgstr ""
 msgid "![](images/paste-11.png){fig-align=\"center\"}"
 msgstr ""
 
-#. type: Plain text
-#: ContentEditHistory.qmd:2
-msgid "## **Content Edit History**"
+#. type: Title ##
+#: ContentEditHistory.qmd:1
+#, no-wrap
+msgid "**Content Edit History**"
 msgstr ""
 
 #. type: Plain text
@@ -994,27 +1009,22 @@ msgid ""
 "on any entry to view the content without highlights."
 msgstr ""
 
-#. type: Plain text
-#: Auto-Approval.qmd:2
-msgid "## **Auto-Approval**"
+#. type: Title ##
+#: Auto-Approval.qmd:1
+#, no-wrap
+msgid "**Auto-Approval**"
 msgstr ""
 
 #. type: Plain text
 #: Auto-Approval.qmd:3
-msgid ""
-"eBird volunteers and anyone with \\>100 complete eBird checklists in the "
-"previous year will have their suggestions automatically approved, meaning "
-"their edits will appear on the public About page immediately upon "
-"submission. Automatically approved changes will be tracked in the Content "
-"Edit History and [Reviewed Content Suggestions](Reviewedsuggestions.qmd) "
-"(below) and Content Editors can always adjust or reverse changes by copying "
-"text from an earlier version of the page and pasting it back into the "
-"relevant sections."
+#, no-wrap
+msgid "eBird volunteers and anyone with \\>100 complete eBird checklists in the previous year will have their suggestions automatically approved, meaning their edits will appear on the public About page immediately upon submission. Automatically approved changes will be tracked in the Content Edit History and [Reviewed Content Suggestions](Reviewedsuggestions.qmd) (below) and Content Editors can always adjust or reverse changes by copying text from an earlier version of the page and pasting it back into the relevant sections.\n"
 msgstr ""
 
-#. type: Plain text
-#: Reviewingcontentsuggestions.qmd:2
-msgid "## **Reviewing Content Suggestions**"
+#. type: Title ##
+#: Reviewingcontentsuggestions.qmd:1
+#, no-wrap
+msgid "**Reviewing Content Suggestions**"
 msgstr ""
 
 #. type: Plain text
@@ -1036,9 +1046,10 @@ msgstr ""
 msgid "**Bookmark <https://review.ebird.org/review/hotspots/content-suggestions>** for quick access to your entire suggestion queue\n"
 msgstr ""
 
-#. type: Plain text
-#: Pendingsuggestions.qmd:2
-msgid "## **Pending Suggestions**"
+#. type: Title ##
+#: Pendingsuggestions.qmd:1
+#, no-wrap
+msgid "**Pending Suggestions**"
 msgstr ""
 
 #. type: Plain text
@@ -1099,9 +1110,10 @@ msgid ""
 "also filter pending suggestions by language."
 msgstr ""
 
-#. type: Plain text
-#: Reviewedsuggestions.qmd:2
-msgid "## **Reviewed Suggestions**"
+#. type: Title ##
+#: Reviewedsuggestions.qmd:1
+#, no-wrap
+msgid "**Reviewed Suggestions**"
 msgstr ""
 
 #. type: Plain text
@@ -1125,21 +1137,20 @@ msgstr ""
 
 #. type: Plain text
 #: Reviewedsuggestions.qmd:9
-msgid ""
-"Any suggestion accepted by “eBird Hotspot Administrator” is an Auto-approved "
-"suggestion—i.e., the person who made the suggestion is either an eBird "
-"Reviewer/Hotspot Editor OR they submitted \\>100+ complete eBird checklists "
-"in the previous calendar year."
+#, no-wrap
+msgid "Any suggestion accepted by “eBird Hotspot Administrator” is an Auto-approved suggestion—i.e., the person who made the suggestion is either an eBird Reviewer/Hotspot Editor OR they submitted \\>100+ complete eBird checklists in the previous calendar year.\n"
 msgstr ""
 
-#. type: Plain text
-#: HotspotcontentFAQs.qmd:2
-msgid "## **Hotspot Content FAQs**"
+#. type: Title ##
+#: HotspotcontentFAQs.qmd:1
+#, no-wrap
+msgid "**Hotspot Content FAQs**"
 msgstr ""
 
-#. type: Plain text
-#: HotspotcontentFAQs.qmd:4
-msgid "### **Can I undo or revert an About page back to an earlier version?**"
+#. type: Title ###
+#: HotspotcontentFAQs.qmd:3
+#, no-wrap
+msgid "**Can I undo or revert an About page back to an earlier version?**"
 msgstr ""
 
 #. type: Plain text
@@ -1152,9 +1163,10 @@ msgid ""
 "highlighted changes.)"
 msgstr ""
 
-#. type: Plain text
-#: GroupsIntroduction.qmd:2
-msgid "## **What is a Hotspot Group?**"
+#. type: Title ##
+#: GroupsIntroduction.qmd:1
+#, no-wrap
+msgid "**What is a Hotspot Group?**"
 msgstr ""
 
 #. type: Plain text
@@ -1192,9 +1204,10 @@ msgid ""
 "checklists). "
 msgstr ""
 
-#. type: Plain text
-#: GroupsIntroduction.qmd:12
-msgid "### **What is NOT a hotspot group?**"
+#. type: Title ###
+#: GroupsIntroduction.qmd:11
+#, no-wrap
+msgid "**What is NOT a hotspot group?**"
 msgstr ""
 
 #. type: Plain text
@@ -1222,9 +1235,10 @@ msgid ""
 "organization."
 msgstr ""
 
-#. type: Plain text
-#: GroupsIntroduction.qmd:22
-msgid "### **Can hotspot groups cross administrative boundaries?**"
+#. type: Title ###
+#: GroupsIntroduction.qmd:21
+#, no-wrap
+msgid "**Can hotspot groups cross administrative boundaries?**"
 msgstr ""
 
 #. type: Plain text
@@ -1243,9 +1257,10 @@ msgid ""
 "name—e.g., “Blue Lake (Lewis Co.)” and “Blue Lake (Cowlitz Co.)”"
 msgstr ""
 
-#. type: Plain text
-#: ParentHotspots.qmd:2
-msgid "## **Parent Hotspots**"
+#. type: Title ##
+#: ParentHotspots.qmd:1
+#, no-wrap
+msgid "**Parent Hotspots**"
 msgstr ""
 
 #. type: Plain text
@@ -1261,14 +1276,16 @@ msgstr ""
 msgid "![](images/paste-14.png)"
 msgstr ""
 
-#. type: Plain text
-#: ParentHotspotContent.qmd:2
-msgid "## **Parent Hotspot Content**"
+#. type: Title ##
+#: ParentHotspotContent.qmd:1
+#, no-wrap
+msgid "**Parent Hotspot Content**"
 msgstr ""
 
-#. type: Plain text
-#: ParentHotspotContent.qmd:4
-msgid "### **About Sections**"
+#. type: Title ###
+#: ParentHotspotContent.qmd:3
+#, no-wrap
+msgid "**About Sections**"
 msgstr ""
 
 #. type: Plain text
@@ -1285,9 +1302,10 @@ msgstr ""
 msgid "![](images/paste-15.png)"
 msgstr ""
 
-#. type: Plain text
-#: ParentHotspotContent.qmd:10
-msgid "### **Features**"
+#. type: Title ###
+#: ParentHotspotContent.qmd:9
+#, no-wrap
+msgid "**Features**"
 msgstr ""
 
 #. type: Plain text
@@ -1300,14 +1318,16 @@ msgid ""
 "individual sub-hotspots based on whether that specific site has a bathroom."
 msgstr ""
 
-#. type: Plain text
-#: AdditionalParentHotspotUI.qmd:2
-msgid "## **Additional Parent Hotspot UI**"
+#. type: Title ##
+#: AdditionalParentHotspotUI.qmd:1
+#, no-wrap
+msgid "**Additional Parent Hotspot UI**"
 msgstr ""
 
-#. type: Plain text
-#: AdditionalParentHotspotUI.qmd:4
-msgid "### **Group Map**"
+#. type: Title ###
+#: AdditionalParentHotspotUI.qmd:3
+#, no-wrap
+msgid "**Group Map**"
 msgstr ""
 
 #. type: Plain text
@@ -1327,9 +1347,10 @@ msgstr ""
 msgid "![](images/paste-18.png){fig-align=\"center\"}"
 msgstr ""
 
-#. type: Plain text
-#: AdditionalParentHotspotUI.qmd:12
-msgid "### **Hotspot Standings**"
+#. type: Title ###
+#: AdditionalParentHotspotUI.qmd:11
+#, no-wrap
+msgid "**Hotspot Standings**"
 msgstr ""
 
 #. type: Plain text
@@ -1347,9 +1368,10 @@ msgstr ""
 msgid "![](images/paste-19.png)"
 msgstr ""
 
-#. type: Plain text
-#: DataAggregation.qmd:2
-msgid "## **Data Aggregation**"
+#. type: Title ##
+#: DataAggregation.qmd:1
+#, no-wrap
+msgid "**Data Aggregation**"
 msgstr ""
 
 #. type: Plain text
@@ -1391,9 +1413,10 @@ msgid ""
 "&aggregateHotspots=false to the end of the Bar Chart web address."
 msgstr ""
 
-#. type: Plain text
-#: ParentHotspotPlacement.qmd:2
-msgid "## **Parent Hotspot Placement**"
+#. type: Title ##
+#: ParentHotspotPlacement.qmd:1
+#, no-wrap
+msgid "**Parent Hotspot Placement**"
 msgstr ""
 
 #. type: Plain text
@@ -1419,9 +1442,10 @@ msgstr ""
 msgid "See also: [Plotting Hotspots](PlottingHotspots.qmd)"
 msgstr ""
 
-#. type: Plain text
-#: NamingParentandSub-Hotspots.qmd:2
-msgid "## **Naming Parent Hotspots and Sub-hotspots**"
+#. type: Title ##
+#: NamingParentandSub-Hotspots.qmd:1
+#, no-wrap
+msgid "**Naming Parent Hotspots and Sub-hotspots**"
 msgstr ""
 
 #. type: Plain text
@@ -1462,9 +1486,10 @@ msgstr ""
 msgid "![](images/paste-24.png){fig-align=\"center\"}"
 msgstr ""
 
-#. type: Plain text
-#: List-buildingParentHotspots.qmd:2
-msgid "## **List-building Parent Hotspots (Very Large Areas)**"
+#. type: Title ##
+#: List-buildingParentHotspots.qmd:1
+#, no-wrap
+msgid "**List-building Parent Hotspots (Very Large Areas)**"
 msgstr ""
 
 #. type: Plain text
@@ -1513,9 +1538,10 @@ msgid ""
 "hotspot ‘Not Public’ with the reason “Checklist-List Building”"
 msgstr ""
 
-#. type: Plain text
-#: CreatingandManaging.qmd:2
-msgid "## **Creating and Managing Hotspot Groups**"
+#. type: Title ##
+#: CreatingandManaging.qmd:1
+#, no-wrap
+msgid "**Creating and Managing Hotspot Groups**"
 msgstr ""
 
 #. type: Plain text
@@ -1523,9 +1549,10 @@ msgstr ""
 msgid "Only eBird Hotspot Editors can create and manage Hotspot groups. "
 msgstr ""
 
-#. type: Plain text
-#: CreatingandManaging.qmd:6
-msgid "### **Create a Hotspot Group**"
+#. type: Title ###
+#: CreatingandManaging.qmd:5
+#, no-wrap
+msgid "**Create a Hotspot Group**"
 msgstr ""
 
 #. type: Bullet: '1.  '
@@ -1590,9 +1617,10 @@ msgstr ""
 msgid "![](images/paste-20.png)"
 msgstr ""
 
-#. type: Plain text
-#: CreatingandManaging.qmd:28
-msgid "### **Dissolve a Hotspot Group**"
+#. type: Title ###
+#: CreatingandManaging.qmd:27
+#, no-wrap
+msgid "**Dissolve a Hotspot Group**"
 msgstr ""
 
 #. type: Bullet: '1.  '
@@ -1614,14 +1642,16 @@ msgid ""
 "parent location and the group will effectively no longer exist"
 msgstr ""
 
-#. type: Plain text
-#: Multi-RegionHotspotGroups.qmd:2
-msgid "## **Multi-Region Hotspot Groups**"
+#. type: Title ##
+#: Multi-RegionHotspotGroups.qmd:1
+#, no-wrap
+msgid "**Multi-Region Hotspot Groups**"
 msgstr ""
 
-#. type: Plain text
-#: Multi-RegionHotspotGroups.qmd:4
-msgid "### **Can a Hotspot Group Include Locations from Multiple Regions?**"
+#. type: Title ###
+#: Multi-RegionHotspotGroups.qmd:3
+#, no-wrap
+msgid "**Can a Hotspot Group Include Locations from Multiple Regions?**"
 msgstr ""
 
 #. type: Plain text
@@ -1631,10 +1661,10 @@ msgid ""
 "individual checklist will appear in multiple counties. "
 msgstr ""
 
-#. type: Plain text
-#: Multi-RegionHotspotGroups.qmd:8
-msgid ""
-"### **What is the Expected Behavior When a Group Spans Multiple Regions?**"
+#. type: Title ###
+#: Multi-RegionHotspotGroups.qmd:7
+#, no-wrap
+msgid "**What is the Expected Behavior When a Group Spans Multiple Regions?**"
 msgstr ""
 
 #. type: Plain text
@@ -1663,9 +1693,10 @@ msgid ""
 "location page, but only count towards Region B stats. "
 msgstr ""
 
-#. type: Plain text
-#: Multi-RegionHotspotGroups.qmd:16
-msgid "### **Should a Hotspot Group Include Locations from Multiple Regions?**"
+#. type: Title ###
+#: Multi-RegionHotspotGroups.qmd:15
+#, no-wrap
+msgid "**Should a Hotspot Group Include Locations from Multiple Regions?**"
 msgstr ""
 
 #. type: Plain text
@@ -1677,9 +1708,10 @@ msgid ""
 "county. If you have concerns about this, please see our guidance below. "
 msgstr ""
 
-#. type: Plain text
-#: Multi-RegionHotspotGroups.qmd:20
-msgid "### **Large Areas**"
+#. type: Title ###
+#: Multi-RegionHotspotGroups.qmd:19
+#, no-wrap
+msgid "**Large Areas**"
 msgstr ""
 
 #. type: Plain text
@@ -1692,16 +1724,16 @@ msgid ""
 "above). "
 msgstr ""
 
-#. type: Plain text
-#: Multi-RegionHotspotGroups.qmd:24
-msgid "### **Small Areas**"
+#. type: Title ###
+#: Multi-RegionHotspotGroups.qmd:23
+#, no-wrap
+msgid "**Small Areas**"
 msgstr ""
 
 #. type: Plain text
 #: Multi-RegionHotspotGroups.qmd:26
-msgid ""
-"Hotspot groups \\<80km2 can still span multiple geopolitical regions. Common "
-"examples include bridges or dams that cross borders along rivers. "
+#, no-wrap
+msgid "Hotspot groups \\<80km2 can still span multiple geopolitical regions. Common examples include bridges or dams that cross borders along rivers. \n"
 msgstr ""
 
 #. type: Plain text
@@ -1741,9 +1773,10 @@ msgid ""
 "regional data where the parent hotspot is located? "
 msgstr ""
 
-#. type: Plain text
-#: Multi-RegionHotspotGroups.qmd:36
-msgid "### **Consider these questions:**"
+#. type: Title ###
+#: Multi-RegionHotspotGroups.qmd:35
+#, no-wrap
+msgid "**Consider these questions:**"
 msgstr ""
 
 #. type: Bullet: '-   '
@@ -1781,15 +1814,16 @@ msgid ""
 "still cause regional data problems, so continue to be vigilant for those!)"
 msgstr ""
 
-#. type: Plain text
-#: HotspotGroupFAQs.qmd:2
-msgid "## **Hotspot Group FAQs**"
+#. type: Title ##
+#: HotspotGroupFAQs.qmd:1
+#, no-wrap
+msgid "**Hotspot Group FAQs**"
 msgstr ""
 
-#. type: Plain text
-#: HotspotGroupFAQs.qmd:4
-msgid ""
-"### **What do Hotspot Groups look like in the eBird Basic Dataset (EBD)?**"
+#. type: Title ###
+#: HotspotGroupFAQs.qmd:3
+#, no-wrap
+msgid "**What do Hotspot Groups look like in the eBird Basic Dataset (EBD)?**"
 msgstr ""
 
 #. type: Plain text
@@ -1823,9 +1857,10 @@ msgid ""
 "information is included"
 msgstr ""
 
-#. type: Plain text
-#: Capitalization.qmd:2
-msgid "## **Capitalization**"
+#. type: Title ##
+#: Capitalization.qmd:1
+#, no-wrap
+msgid "**Capitalization**"
 msgstr ""
 
 #. type: Plain text
@@ -1845,9 +1880,10 @@ msgid ""
 "[Dartmoor NP--east of Tavistock](https://ebird.org/hotspot/L1148230).)"
 msgstr ""
 
-#. type: Plain text
-#: Language.qmd:2
-msgid "## **Language**"
+#. type: Title ##
+#: Language.qmd:1
+#, no-wrap
+msgid "**Language**"
 msgstr ""
 
 #. type: Plain text
@@ -1888,9 +1924,10 @@ msgstr ""
 msgid "**Note:** Please use accents in non-English words in accordance with correct spelling in the original language (e.g., Río Guadalupe, Parque San José, Cañon San Pedro). Please DO NOT use accents over capital letters.\n"
 msgstr ""
 
-#. type: Plain text
-#: HotspotDefinitions.qmd:2
-msgid "## **Hotspot Definitions and Hierarchy**"
+#. type: Title ##
+#: HotspotDefinitions.qmd:1
+#, no-wrap
+msgid "**Hotspot Definitions and Hierarchy**"
 msgstr ""
 
 #. type: Plain text
@@ -1943,14 +1980,16 @@ msgstr ""
 msgid "**Fig. 1.** Cape May Point area, showing the large number of hotspots (red, orange, yellow, and blue pins) south of the Cape May Canal, which runs through the middle of this image.\n"
 msgstr ""
 
-#. type: Plain text
-#: HotspotNaming-Groups.qmd:2
-msgid "## **Hotspot Naming—Groups**"
+#. type: Title ##
+#: HotspotNaming-Groups.qmd:1
+#, no-wrap
+msgid "**Hotspot Naming—Groups**"
 msgstr ""
 
-#. type: Plain text
-#: HotspotNaming-Groups.qmd:4
-msgid "### **Parent hotspots**"
+#. type: Title ###
+#: HotspotNaming-Groups.qmd:3
+#, no-wrap
+msgid "**Parent hotspots**"
 msgstr ""
 
 #. type: Plain text
@@ -1970,18 +2009,16 @@ msgid ""
 "(e.g., “Use more precise location”) should be added in parentheses."
 msgstr ""
 
-#. type: Plain text
-#: HotspotNaming-Groups.qmd:10
-msgid "### **List-building Parent Hotspots**"
+#. type: Title ###
+#: HotspotNaming-Groups.qmd:9
+#, no-wrap
+msgid "**List-building Parent Hotspots**"
 msgstr ""
 
 #. type: Plain text
 #: HotspotNaming-Groups.qmd:12
-msgid ""
-"List-building parent hotspots represent very large areas that are too "
-"spatially imprecise to be useful for most scientific analyses. In Hotspot "
-"Groups, List-building parent hotspots are automatically identified for any "
-"group with a bounding perimeter area of \\>80km2."
+#, no-wrap
+msgid "List-building parent hotspots represent very large areas that are too spatially imprecise to be useful for most scientific analyses. In Hotspot Groups, List-building parent hotspots are automatically identified for any group with a bounding perimeter area of \\>80km2.\n"
 msgstr ""
 
 #. type: Plain text
@@ -2040,9 +2077,10 @@ msgid ""
 "hotspot/L10236131)"
 msgstr ""
 
-#. type: Plain text
-#: HotspotNaming-Groups.qmd:30
-msgid "### **Sub-hotspots**"
+#. type: Title ###
+#: HotspotNaming-Groups.qmd:29
+#, no-wrap
+msgid "**Sub-hotspots**"
 msgstr ""
 
 #. type: Plain text
@@ -2145,9 +2183,10 @@ msgid ""
 "Atascosa NWR (LTC 024)](https://ebird.org/hotspot/L129005)."
 msgstr ""
 
-#. type: Plain text
-#: HotspotNaming-Groups.qmd:62
-msgid "### **Abbreviations**"
+#. type: Title ###
+#: HotspotNaming-Groups.qmd:61
+#, no-wrap
+msgid "**Abbreviations**"
 msgstr ""
 
 #. type: Plain text
@@ -2160,9 +2199,10 @@ msgid ""
 "Meadows) in the nearby parent hotspot."
 msgstr ""
 
-#. type: Plain text
-#: LinearRoutes.qmd:2
-msgid "## **Naming Hotspots along Linear Routes– Rivers, Roads, and Trails**"
+#. type: Title ##
+#: LinearRoutes.qmd:1
+#, no-wrap
+msgid "**Naming Hotspots along Linear Routes– Rivers, Roads, and Trails**"
 msgstr ""
 
 #. type: Plain text
@@ -2229,9 +2269,10 @@ msgid ""
 "and consider habitats and the history of how a given stretch has been birded."
 msgstr ""
 
-#. type: Plain text
-#: BirdingTrails.qmd:2
-msgid "## **Birding Trails**"
+#. type: Title ##
+#: BirdingTrails.qmd:1
+#, no-wrap
+msgid "**Birding Trails**"
 msgstr ""
 
 #. type: Plain text
@@ -2244,9 +2285,10 @@ msgid ""
 "local group."
 msgstr ""
 
-#. type: Plain text
-#: AdditionalModifiers.qmd:2
-msgid "## **Additional Modifiers**"
+#. type: Title ##
+#: AdditionalModifiers.qmd:1
+#, no-wrap
+msgid "**Additional Modifiers**"
 msgstr ""
 
 #. type: Plain text
@@ -2328,9 +2370,10 @@ msgstr ""
 msgid "**We do not ever recommend using latitude and longitude in the hotspot name;** the coordinates of a hotspot are always officially defined by where the hotspot is sited and all hotspots in eBird are associated with a specific latitude and longitude. Adding these to the name is unnecessary and likely would lead to errors if the hotspot ever were moved but the name not also adjusted.\n"
 msgstr ""
 
-#. type: Plain text
-#: Towns.qmd:2
-msgid "## **Towns**"
+#. type: Title ##
+#: Towns.qmd:1
+#, no-wrap
+msgid "**Towns**"
 msgstr ""
 
 #. type: Plain text
@@ -2363,9 +2406,10 @@ msgstr ""
 msgid "[Rossport (town site)](https://ebird.org/hotspot/L1393489)"
 msgstr ""
 
-#. type: Plain text
-#: AbbreviationsEnglish.qmd:2
-msgid "## **Abbreviations (English)**"
+#. type: Title ##
+#: AbbreviationsEnglish.qmd:1
+#, no-wrap
+msgid "**Abbreviations (English)**"
 msgstr ""
 
 #. type: Bullet: '-   '
@@ -2517,9 +2561,10 @@ msgid ""
 "or WWTP."
 msgstr ""
 
-#. type: Plain text
-#: AbbreviationsSpanish.qmd:2
-msgid "## **Abbreviations (Spanish)**"
+#. type: Title ##
+#: AbbreviationsSpanish.qmd:1
+#, no-wrap
+msgid "**Abbreviations (Spanish)**"
 msgstr ""
 
 #. type: Bullet: '-   '
@@ -2544,9 +2589,10 @@ msgstr ""
 msgid "Saint or Sainte – St or Ste"
 msgstr ""
 
-#. type: Plain text
-#: AbbreviationsFrench.qmd:2
-msgid "## **Abbreviations (French)**"
+#. type: Title ##
+#: AbbreviationsFrench.qmd:1
+#, no-wrap
+msgid "**Abbreviations (French)**"
 msgstr ""
 
 #. type: Bullet: '-   '
@@ -2574,9 +2620,10 @@ msgstr ""
 msgid "Zone d’exploitation contrôlée – ZEC"
 msgstr ""
 
-#. type: Plain text
-#: OtherAbbreviations.qmd:2
-msgid "## **Other Abbreviations**"
+#. type: Title ##
+#: OtherAbbreviations.qmd:1
+#, no-wrap
+msgid "**Other Abbreviations**"
 msgstr ""
 
 #. type: Plain text
@@ -2616,9 +2663,10 @@ msgid ""
 "out."
 msgstr ""
 
-#. type: Plain text
-#: RestrictedAccessLocations.qmd:2
-msgid "## **Restricted Access Locations**"
+#. type: Title ##
+#: RestrictedAccessLocations.qmd:1
+#, no-wrap
+msgid "**Restricted Access Locations**"
 msgstr ""
 
 #. type: Plain text
@@ -2664,9 +2712,10 @@ msgid ""
 "[Finca Tempixque (acceso restringido)](https://ebird.org/hotspot/L468452)"
 msgstr ""
 
-#. type: Plain text
-#: HistoricalLocations.qmd:2
-msgid "## **Historical Locations**"
+#. type: Title ##
+#: HistoricalLocations.qmd:1
+#, no-wrap
+msgid "**Historical Locations**"
 msgstr ""
 
 #. type: Plain text
@@ -2690,9 +2739,10 @@ msgstr ""
 msgid "[Luckett Rd. pond (historical)](https://ebird.org/hotspot/L3459840)"
 msgstr ""
 
-#. type: Plain text
-#: StakeoutHotspots.qmd:2
-msgid "## **Stakeout Hotspots**"
+#. type: Title ##
+#: StakeoutHotspots.qmd:1
+#, no-wrap
+msgid "**Stakeout Hotspots**"
 msgstr ""
 
 #. type: Plain text
@@ -2755,7 +2805,8 @@ msgstr ""
 
 #. type: Plain text
 #: StakeoutHotspots.qmd:20
-msgid "<!-- -->"
+#, no-wrap
+msgid "<!-- -->\n"
 msgstr ""
 
 #. type: Bullet: '    -   '
@@ -2779,9 +2830,10 @@ msgid ""
 "hotspot/L6096764)"
 msgstr ""
 
-#. type: Plain text
-#: PelagicHotspots.qmd:2
-msgid "## **Pelagic Hotspots**"
+#. type: Title ##
+#: PelagicHotspots.qmd:1
+#, no-wrap
+msgid "**Pelagic Hotspots**"
 msgstr ""
 
 #. type: Plain text
@@ -2841,9 +2893,10 @@ msgstr ""
 msgid "[Escollo Gorda](https://ebird.org/hotspot/L504177)"
 msgstr ""
 
-#. type: Plain text
-#: PrivacyConcerns.qmd:2
-msgid "## **Privacy concerns**"
+#. type: Title ##
+#: PrivacyConcerns.qmd:1
+#, no-wrap
+msgid "**Privacy concerns**"
 msgstr ""
 
 #. type: Plain text
@@ -2858,9 +2911,10 @@ msgid ""
 "the correct location."
 msgstr ""
 
-#. type: Plain text
-#: BirdcamHotspots.qmd:2
-msgid "## **Birdcam hotspots**"
+#. type: Title ##
+#: BirdcamHotspots.qmd:1
+#, no-wrap
+msgid "**Birdcam hotspots**"
 msgstr ""
 
 #. type: Plain text
@@ -2895,9 +2949,10 @@ msgid ""
 "hotspot/L2434245)"
 msgstr ""
 
-#. type: Plain text
-#: MiscNaming.qmd:2
-msgid "## **Miscellaneous Hotspot Naming Conventions**"
+#. type: Title ##
+#: MiscNaming.qmd:1
+#, no-wrap
+msgid "**Miscellaneous Hotspot Naming Conventions**"
 msgstr ""
 
 #. type: Bullet: '1.  '
@@ -2919,9 +2974,10 @@ msgid ""
 "to incorporate this information without affecting data integrity."
 msgstr ""
 
-#. type: Plain text
-#: DownloadHotspotFile.qmd:2
-msgid "## **Downloadable Hotspot file through the Hotspot API**"
+#. type: Title ##
+#: DownloadHotspotFile.qmd:1
+#, no-wrap
+msgid "**Downloadable Hotspot file through the Hotspot API**"
 msgstr ""
 
 #. type: Plain text
@@ -2999,9 +3055,10 @@ msgid ""
 "other eBird APIs) is not permitted."
 msgstr ""
 
-#. type: Plain text
-#: ViewInGoogleEarth.qmd:2
-msgid "## **View the Hotspot API File in Google Earth**"
+#. type: Title ##
+#: ViewInGoogleEarth.qmd:1
+#, no-wrap
+msgid "**View the Hotspot API File in Google Earth**"
 msgstr ""
 
 #. type: Plain text
@@ -3113,9 +3170,10 @@ msgid ""
 "with the 2025 version of this document)"
 msgstr ""
 
-#. type: Plain text
-#: Part1.qmd:2
-msgid "# Part 1: How to Review and Edit Hotspots"
+#. type: Title #
+#: Part1.qmd:1
+#, no-wrap
+msgid "Part 1: How to Review and Edit Hotspots"
 msgstr ""
 
 #. type: Bullet: '-   '
@@ -3153,9 +3211,10 @@ msgstr ""
 msgid "[Merging Hotspots](MergingHotspots.qmd)"
 msgstr ""
 
-#. type: Plain text
-#: Part2.qmd:2
-msgid "# Part 2: Hotspot Content"
+#. type: Title #
+#: Part2.qmd:1
+#, no-wrap
+msgid "Part 2: Hotspot Content"
 msgstr ""
 
 #. type: Bullet: '-   '
@@ -3215,9 +3274,10 @@ msgstr ""
 msgid "[Hotspot Content FAQs](HotspotcontentFAQs.qmd)"
 msgstr ""
 
-#. type: Plain text
-#: Part3.qmd:2
-msgid "# **Part III: Hotspot Groups**"
+#. type: Title #
+#: Part3.qmd:1
+#, no-wrap
+msgid "**Part III: Hotspot Groups**"
 msgstr ""
 
 #. type: Bullet: '-   '
@@ -3276,9 +3336,10 @@ msgstr ""
 msgid "[Hotspot Group FAQs](HotspotGroupFAQs.qmd)"
 msgstr ""
 
-#. type: Plain text
-#: Part4.qmd:2
-msgid "# Part 4: Standards and Naming Conventions for eBird Hotspots"
+#. type: Title #
+#: Part4.qmd:1
+#, no-wrap
+msgid "Part 4: Standards and Naming Conventions for eBird Hotspots"
 msgstr ""
 
 #. type: Plain text
@@ -3315,9 +3376,10 @@ msgid ""
 "special section ([Stakeout Hotspots](StakeoutHotspots.qmd)) below."
 msgstr ""
 
-#. type: Plain text
-#: Part4.qmd:10
-msgid "## Table of Contents:"
+#. type: Title ##
+#: Part4.qmd:9
+#, no-wrap
+msgid "Table of Contents:"
 msgstr ""
 
 #. type: Bullet: '-   '
