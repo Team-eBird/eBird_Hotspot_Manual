@@ -2,6 +2,9 @@ name: Build Translated Site
 
   on:
     push:
+      branches:
+        - main
+        - translations
       paths:
         - 'po/*.po'
         - '**.qmd'
