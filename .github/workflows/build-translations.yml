@@ -24,6 +24,14 @@ name: Build Translated Site
         - name: Install Quarto
           uses: quarto-dev/quarto-actions/setup@v2
 
+        - name: Copy quarto config to translated dirs
+          run: |
+            for lang in en es_419; do
+              if [ -d "translated/$lang" ]; then
+                cp _quarto.yml translated/$lang/_quarto.yml
+              fi
+            done
+
         - name: Build each language
           run: |
             for lang in en es_419; do
