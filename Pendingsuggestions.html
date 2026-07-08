@@ -2,16 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>pendingsuggestions – eBird Hotspot Manual</title>
 <style>
-/* Default styles provided by pandoc.
-** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
-*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -35,14 +32,15 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-46c1e64c2409ffa41d8278daa552b940.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-b77ad8b8fd8f04bd21044df5c5bf7d25.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -81,6 +79,8 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">eBird Hotspot Manual</span>
     </a>
@@ -108,6 +108,10 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+      <a href="./index.html" class="sidebar-logo-link">
+      </a>
+      </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
         <div id="quarto-search" class="" title="Search"></div>
@@ -439,12 +443,6 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./OtherAbbreviations.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Other Abbreviations</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
   <a href="./RestrictedAccessLocations.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Restricted Access Locations</span></a>
   </div>
@@ -541,14 +539,14 @@ ul.task-list li input[type="checkbox"] {
 <li><p><strong>Close: hide details without acting on them</strong></p></li>
 </ul>
 <p>WARNING: “Details” shows how the suggested changes will impact the current About page. If the underlying About content has changed since the suggestion was made, the comparison shows what will actually change (not necessarily what the suggester saw at the time of their revisions).&nbsp;</p>
-<p>If you Accept more recent pending suggestions, earlier pending suggestions may no longer apply (i.e., the text being changed may no longer exist on the page) We recommend quickly scanning the Details of all pending suggestions for a single hotspot before Accepting any of them.</p>
+<p>highlights differences between the suggested revisions and the page at the time the suggestion was made, NOT the current About page. This means if you Accept more recent pending suggestions, earlier pending suggestions may no longer apply (i.e., the text being changed may no longer exist on the page) We recommend quickly scanning the Details of all pending suggestions for a single hotspot before Accepting any of them.</p>
 <p><strong>(!)</strong> eBird Hotspot Editors can see the personal account details for the eBirder who made the suggestion, including contact details. People with content editing permissions can only see the name of the person who made the suggestion, with a link to their eBird profile if public.&nbsp;</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="images/paste-12.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
-<p>Switch between suggestions for a single hotspot and all hotspots. You can also filter pending suggestions by language.</p>
+<p>Switch between suggestions for a single hotspot and all hotspots. You can also filter pending suggestions by language</p>
 
 
 </section>
@@ -627,7 +625,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/Team-eBird\.github\.io\/eBird_Hotspot_Manual\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
