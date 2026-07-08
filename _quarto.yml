@@ -57,11 +57,6 @@ website:
                 text: Auto-Approval
           - href: Reviewingcontentsuggestions.qmd
             text: Reviewing Content Suggestions
-            contents:
-              - href: Pendingsuggestions.qmd
-                text: Pending Suggestions
-              - href: Reviewedsuggestions.qmd
-                text: Reviewed Suggestions
           - href: HotspotcontentFAQs.qmd
             text: Hotspot Content FAQs
 

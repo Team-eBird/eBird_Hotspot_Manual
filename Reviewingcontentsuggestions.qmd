@@ -5,3 +5,33 @@ eBird Hotspot Editors and anyone with content editing permissions for a hotspot 
 **To review content**, tap the “Review” button on any Hotspot About page in your assigned region OR
 
 **Bookmark <https://review.ebird.org/review/hotspots/content-suggestions>** for quick access to your entire suggestion queue
+
+### **Pending Suggestions**
+
+**For pending (un-reviewed) suggestions**, tap “Details” to see what changed
+
+- **Accept:** anything in GREEN will be added to the Hotspot About page
+
+- **Decline: anything in RED will be removed from the Hotspot About page**
+
+- **Close: hide details without acting on them**
+
+WARNING: “Details” shows how the suggested changes will impact the current About page. If the underlying About content has changed since the suggestion was made, the comparison shows what will actually change (not necessarily what the suggester saw at the time of their revisions). 
+
+If you Accept more recent pending suggestions, earlier pending suggestions may no longer apply (i.e., the text being changed may no longer exist on the page) We recommend quickly scanning the Details of all pending suggestions for a single hotspot before Accepting any of them.
+
+**(!)** eBird Hotspot Editors can see the personal account details for the eBirder who made the suggestion, including contact details. People with content editing permissions can only see the name of the person who made the suggestion, with a link to their eBird profile if public. 
+
+![](images/paste-12.png){fig-align="center"}
+
+Switch between suggestions for a single hotspot and all hotspots. You can also filter pending suggestions by language.
+
+### **Reviewed Suggestions**
+
+After tapping Accept or Decline, the suggestion will move to the “Reviewed” tab. The Details here will show you who made the suggestion and when, whether it was Accepted or Declined, and who reviewed it. 
+
+![](images/paste-13.png)
+
+**eBird Hotspot Administrator**
+
+Any suggestion accepted by “eBird Hotspot Administrator” is an Auto-approved suggestion—i.e., the person who made the suggestion is either an eBird Reviewer/Hotspot Editor OR they submitted \>100+ complete eBird checklists in the previous calendar year.
